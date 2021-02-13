@@ -42,7 +42,7 @@ sport = []
 #The first of the web scrapers
 notify.send('Running the first scraper')
 
-for x in tqdm(range(0,2,1)):
+for x in tqdm(range(0,50,1)):
     names = url_names.format(x)
     r = requests.get(names)
     sopa = BeautifulSoup(r.text,'html.parser')
