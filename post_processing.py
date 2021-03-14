@@ -5,7 +5,7 @@ from notify_run import Notify
 notify = Notify()
 print(notify.register())
 notify.send('Running')
-df = pd.read_csv('/Users/amitchandna/Documents/Data_Science/Github/tamu_web_scrape/texas_football/texas_boys_football_1718.csv', names=["Score", "Team_2", "Result_team_1", "Date","District","Time","Team_1","Team_1_Mascot","Address","Level","Season"])
+df = pd.read_csv('/Users/amitchandna/Documents/Data_Science/Github/tamu_web_scrape/data_files/texas_boys_football_1718.csv', names=["Score", "Team_2", "Result_team_1", "Date","District","Time","Team_1","Team_1_Mascot","Address","Level","Season"])
 
 s = df.Score
 a = df.Address
@@ -23,7 +23,7 @@ df = df.drop(columns={'Address',4,5})
 df = pd.concat([df,districted], axis=1)
 df = df.rename(columns={0:"Home_Away", 1:'District_non_district'})
 df = df.drop(columns={'District'})
-df = df[['Team_1','Score_1', 'Team_2', 'Score_2', 'Result_team_1','Team_1_Mascot','Date','District_non_district','Time','Level','Season', 'team_1_physical_Address','team_1_City','team_1_State','Team_1_Zip_code' ]]
+df = df[['Team_1','Score_1', 'Team_2', 'Score_2', 'Result_team_1','Home_Away','Team_1_Mascot','Date','District_non_district','Time','Level','Season', 'team_1_physical_Address','team_1_City','team_1_State','Team_1_Zip_code' ]]
 team_1_score = []
 team_2_score = []
 for index,row in df.iterrows():
@@ -59,6 +59,7 @@ for index,row in df.iterrows():
         continue
 df['Score_1'] = team_1_score
 df['Score_2'] = team_2_score
+df = df.drop_duplicates()
 df.to_csv('texas_football_boys_1718_clean.csv')
 
 notify.send('Finished')

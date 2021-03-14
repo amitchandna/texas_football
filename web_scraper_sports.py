@@ -12,11 +12,10 @@ from csv import writer
 notify = Notify()
 notify.register()
 
-url_names = 'https://www.maxpreps.com/rankings/football-fall-17/{}/state/texas.htm'
+url_names = 'https://www.maxpreps.com/rankings/football-fall-17/{}/state/.htm'
 url_scores = 'https://www.maxpreps.com/high-schools/{})/football-fall-17/schedule.htm'
 url_contact_info = 'https://www.maxpreps.com/high-schools/{})/home.htm'
-state_set = {'texas'}
-#state_set = {'alabama','alaska','arizona','arkansas','california','colorado','conneticut','delaware','florida','georgia','hawaii','idaho','illinois','indiana','iowa','kansas','kentucky','louisiana','maine','maryland','massachusetts','michigan','minnesota','mississippi','missouri','montana','nebraska','nevada','new-hampshire','new-jersey','new-mexico','new-york','north-carolina','north-dakota','ohio','oklahoma','oregon','pennsylvania','rhode-island','south-carolina','south-dakota','tennessee','texas','utah','vermont','virginia','washington','west-virginia','wisconsin','wyoming'}
+state_set = ['california','colorado','illinois','iowa','kentucky','new-hampshire','new-jersey','new-mexico','south-dakota','tennessee']
 
 
 for x in tqdm(range(0,50,1)):
@@ -120,7 +119,7 @@ for name in tqdm(my_keys):
                 except:
                     continue
                 
-                with open('texas_boys_football_1718.csv', 'a') as f_object:
+                with open('usa_1.csv', 'a') as f_object:
                     writer_object = writer(f_object)
                     writer_object.writerow(result)
                     f_object.close()
