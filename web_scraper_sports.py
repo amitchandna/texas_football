@@ -10,7 +10,7 @@ import csv
 from csv import writer
 
 notify = Notify()
-notify.register()
+print(notify.register())
 
 url_names = 'https://www.maxpreps.com/rankings/football-fall-17/{}/state/.htm'
 url_scores = 'https://www.maxpreps.com/high-schools/{})/football-fall-17/schedule.htm'
