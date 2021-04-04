@@ -16,9 +16,8 @@ url_names = 'https://www.maxpreps.com/rankings/basketball-winter-17-18/{}/nation
 url_scores = 'https://www.maxpreps.com/high-schools/{})/basketball-winter-17-18/schedule.htm'
 url_contact_info = 'https://www.maxpreps.com/high-schools/{})/home.htm'
 #state_set = ['california','colorado','illinois','iowa','kentucky','new-hampshire','new-jersey','new-mexico','south-dakota','tennessee']
-
-school_name = []
-#There are 778 pages in boys basketball
+school_name=[]
+#779 pages
 for x in tqdm(range(0,2,1)):
     names = url_names.format(x)
     r = requests.get(names)
@@ -56,7 +55,7 @@ for name in tqdm(my_keys):
                 except:
                     score.append('nan-nan')
                 try:
-                    away_team.append(item.find('span', attrs={'class':'sc-gsTCUz bSxirR'}).text)
+                    away_team.append(item.find('a', attrs={'class':'sc-gsTCUz bSxirR'}).text)
                 except:
                     away_team.append(np.nan)
                 try:
@@ -64,15 +63,15 @@ for name in tqdm(my_keys):
                 except:
                     result.append("L")
                 try:
-                    date_of_contest.append(item.find('div', attrs={'class':'sc-eCssSg hJWjXy'}).text)
+                    date_of_contest.append(item.find('div', attrs={'class':'sc-eCssSg HzjAa'}).text)
                 except:
                     date_of_contest.append(np.nan)
                 try:
-                    place_played.append(item.find('div', attrs={'class':'sc-eCssSg CxlSr'}).text)
+                    place_played.append(item.find('div', attrs={'class':'sc-eCssSg ccXTnd'}).text)
                 except:
                     place_played.append(np.nan)
                 try:
-                    time_of_contest.append(item.find('div', attrs={'class':'sc-eCssSg enkLlt'}).text)
+                    time_of_contest.append(item.find('div', attrs={'class':'sc-eCssSg cSobln'}).text)
                 except:
                     time_of_contest.append(np.nan)
                 try:
@@ -80,11 +79,15 @@ for name in tqdm(my_keys):
                         scores = url_scores.format(name)
                         r = requests.get(scores)
                         soup_1 = BeautifulSoup(r.text,'html.parser')
-                        for item in soup_1.find_all('div', attrs={'class':'GlobalHeader__StyledGlobalHeader-c9g3ty-0 ZCHXV'}):
+                        for item in soup_1.find_all('div', attrs={'class':'GlobalHeader__StyledGlobalHeader-zso49d-0 kttgZd'}):
                             try:
                                 home_team.append(item.find('div', attrs={'class':'sc-eCssSg cykOmI'}).text)
                             except:
                                 home_team.append(np.nan)
+                           # try:
+                               # mascot.append(item.find('span', attrs={'class','Text__StyledText-jknly0-0 StyledSchoolHeader__StyledSchoolMascotName-sc-1ps5it5-2 kjABeh jvGvem'}).text)
+                           # except:
+                               # mascot.append(np.nan)
                 except:
                     continue
                 try:
@@ -94,7 +97,7 @@ for name in tqdm(my_keys):
                         soup_2 = BeautifulSoup(r.text,'html.parser')
                         for item in soup_2.find_all('dl', attrs={'class':'SchoolInfo__StyledData-sc-804m01-2 cDIyVj'}):
                             try:
-                                address.append(item.find('dd', attrs={'class':'Text__StyledText-jknly0-0 kGkAlE'}).text)
+                                address.append(item.find('dd', attrs={'class':'sc-eCssSg ieSBgE'}).text)
                             except:
                                 address.append('nan,nan,nan,nan')
                 except:
