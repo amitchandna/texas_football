@@ -75,13 +75,14 @@ for name in tqdm(my_keys):
                 except:
                     time_of_contest.append(np.nan)
                 try:
+                    #This is a slight mess, and will need to be cleaned up later - but for now is should be fine....
                     for val in range(1):
                         scores = url_scores.format(name)
                         r = requests.get(scores)
                         soup_1 = BeautifulSoup(r.text,'html.parser')
-                        for item in soup_1.find_all('div', attrs={'class':'GlobalHeader__StyledGlobalHeader-zso49d-0 kttgZd'}):
+                        for item in soup_1.find_all('div', attrs={'class':'LayoutManager__StyledLayoutManagerWrapper-sc-1hksfx8-1 ilMntm'}):
                             try:
-                                home_team.append(item.find('div', attrs={'class':'sc-eCssSg cykOmI'}).text)
+                                home_team.append(item.find('h1', attrs={'class':'Heading__StyledHeading-sc-1ape2tl-0 ckzGWy'}).text)
                             except:
                                 home_team.append(np.nan)
                            # try:
