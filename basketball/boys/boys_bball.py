@@ -1,4 +1,6 @@
 from bs4 import BeautifulSoup
+from requests.adapters import HTTPAdapter
+from requests.packages.urllib3.util.retry import Retry
 import pandas as pd
 import numpy as np
 import requests
@@ -12,15 +14,23 @@ from csv import writer
 notify = Notify()
 print(notify.register())
 
-url_names = 'https://www.maxpreps.com/rankings/girls-basketball-winter-17-18/{}/national.htm'
-url_scores = 'https://www.maxpreps.com/high-schools/{})/girls-basketball-winter-17-18/schedule.htm'
+# set up retry with backoff bc of maxpreps limiting
+session = requests.Session()
+retry = Retry(connect=10,total=10, backoff_factor=0.5)
+adapter = HTTPAdapter(max_retries=retry)
+session.mount('http://', adapter)
+session.mount('https://', adapter)
+# now just use session.get instead of requests.get
+
+url_names = 'https://www.maxpreps.com/rankings/basketball-winter-17-18/{}/national.htm'
+url_scores = 'https://www.maxpreps.com/high-schools/{})/basketball-winter-17-18/schedule.htm'
 url_contact_info = 'https://www.maxpreps.com/high-schools/{})/home.htm'
 #state_set = ['california','colorado','illinois','iowa','kentucky','new-hampshire','new-jersey','new-mexico','south-dakota','tennessee']
 school_name=[]
-#726 pages
-for x in tqdm(range(0,2,1)):
+#779 pages
+for x in tqdm(range(6,8,1)):
     names = url_names.format(x)
-    r = requests.get(names)
+    r = session.get(names)
     sopa = BeautifulSoup(r.text,'html.parser')
     for item in sopa.find_all('tr'):
         try:
@@ -45,7 +55,7 @@ notify.send('I am about to run the main scraper')
 for name in tqdm(my_keys):
         for x in range(1):
             scores = url_scores.format(name)
-            r = requests.get(scores)
+            r = session.get(scores)
             soup = BeautifulSoup(r.text,'html.parser')
             #Start to collect the scores:
             for item in soup.find_all('tr'):
@@ -75,9 +85,10 @@ for name in tqdm(my_keys):
                 except:
                     time_of_contest.append(np.nan)
                 try:
+                    #This is a slight mess, and will need to be cleaned up later - but for now is should be fine....
                     for val in range(1):
                         scores = url_scores.format(name)
-                        r = requests.get(scores)
+                        r = session.get(scores)
                         soup_1 = BeautifulSoup(r.text,'html.parser')
                         for item in soup_1.find_all('div', attrs={'class':'LayoutManager__StyledLayoutManagerWrapper-sc-1hksfx8-1 ilMntm'}):
                             try:
@@ -93,7 +104,7 @@ for name in tqdm(my_keys):
                 try:
                     for x in range(1):
                         contact = url_contact_info.format(name)
-                        r = requests.get(contact)
+                        r = session.get(contact)
                         soup_2 = BeautifulSoup(r.text,'html.parser')
                         for item in soup_2.find_all('dl', attrs={'class':'SchoolInfo__StyledData-sc-804m01-2 cDIyVj'}):
                             try:
@@ -105,7 +116,7 @@ for name in tqdm(my_keys):
                 try:
                     for x in range(1):
                         scores = url_scores.format(name)
-                        r = requests.get(scores)
+                        r = session.get(scores)
                         soup_1 = BeautifulSoup(r.text,'html.parser')
                         for item in soup_1.find_all('div', attrs={'class':'sticky-inner-wrapper','style':'position:relative;top:0px;z-index:100'}):
                             try:
@@ -118,8 +129,7 @@ for name in tqdm(my_keys):
                                 season.append(np.nan)
                 except:
                     continue
-                
-                with open('basketball_girls_1.csv', 'a') as f_object:
+                with open('basketball_boys_1.csv', 'a') as f_object:
                     writer_object = writer(f_object)
                     writer_object.writerow(result)
                     f_object.close()
