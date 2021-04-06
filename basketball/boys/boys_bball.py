@@ -12,13 +12,13 @@ from csv import writer
 notify = Notify()
 print(notify.register())
 
-url_names = 'https://www.maxpreps.com/rankings/football-fall-17/{}/state/.htm'
-url_scores = 'https://www.maxpreps.com/high-schools/{})/football-fall-17/schedule.htm'
+url_names = 'https://www.maxpreps.com/rankings/girls-basketball-winter-17-18/{}/national.htm'
+url_scores = 'https://www.maxpreps.com/high-schools/{})/girls-basketball-winter-17-18/schedule.htm'
 url_contact_info = 'https://www.maxpreps.com/high-schools/{})/home.htm'
 #state_set = ['california','colorado','illinois','iowa','kentucky','new-hampshire','new-jersey','new-mexico','south-dakota','tennessee']
 school_name=[]
-
-for x in tqdm(range(0,50,1)):
+#726 pages
+for x in tqdm(range(0,2,1)):
     names = url_names.format(x)
     r = requests.get(names)
     sopa = BeautifulSoup(r.text,'html.parser')
@@ -51,27 +51,27 @@ for name in tqdm(my_keys):
             for item in soup.find_all('tr'):
                 mascot, score,home_team,away_team, date_of_contest,result,place_played,time_of_contest,zip_code,level,season,city,state,address,location,gender,sport = ([], )*17
                 try:
-                    score.append(item.find('span', attrs={'class':'Text__StyledText-jknly0-0 fDENxp'}).text)
+                    score.append(item.find('span', attrs={'class':'sc-eCssSg claBQF'}).text)
                 except:
                     score.append('nan-nan')
                 try:
-                    away_team.append(item.find('span', attrs={'class':'Text__StyledText-jknly0-0 kLcjsH'}).text)
+                    away_team.append(item.find('a', attrs={'class':'sc-gsTCUz bSxirR'}).text)
                 except:
                     away_team.append(np.nan)
                 try:
-                    result.append(item.find('span', attrs={'class':'Text__StyledText-jknly0-0 jDyzbz'}).text)
+                    result.append(item.find('span', attrs={'class':'sc-eCssSg eMzzKy'}).text)
                 except:
                     result.append("L")
                 try:
-                    date_of_contest.append(item.find('div', attrs={'class':'Text__StyledText-jknly0-0 iYZphi'}).text)
+                    date_of_contest.append(item.find('div', attrs={'class':'sc-eCssSg HzjAa'}).text)
                 except:
                     date_of_contest.append(np.nan)
                 try:
-                    place_played.append(item.find('div', attrs={'class':'Text__StyledText-jknly0-0 bojGpz'}).text)
+                    place_played.append(item.find('div', attrs={'class':'sc-eCssSg ccXTnd'}).text)
                 except:
                     place_played.append(np.nan)
                 try:
-                    time_of_contest.append(item.find('div', attrs={'class':'Text__StyledText-jknly0-0 bgvugT'}).text)
+                    time_of_contest.append(item.find('div', attrs={'class':'sc-eCssSg cSobln'}).text)
                 except:
                     time_of_contest.append(np.nan)
                 try:
@@ -79,15 +79,15 @@ for name in tqdm(my_keys):
                         scores = url_scores.format(name)
                         r = requests.get(scores)
                         soup_1 = BeautifulSoup(r.text,'html.parser')
-                        for item in soup_1.find_all('div', attrs={'class':'GlobalHeader__StyledGlobalHeader-zso49d-0 kttgZd'}):
+                        for item in soup_1.find_all('div', attrs={'class':'LayoutManager__StyledLayoutManagerWrapper-sc-1hksfx8-1 ilMntm'}):
                             try:
-                                home_team.append(item.find('span', attrs={'class':'Text__StyledText-jknly0-0 gYuHkw'}).text)
+                                home_team.append(item.find('h1', attrs={'class':'Heading__StyledHeading-sc-1ape2tl-0 ckzGWy'}).text)
                             except:
                                 home_team.append(np.nan)
-                            try:
-                                mascot.append(item.find('span', attrs={'class','Text__StyledText-jknly0-0 StyledSchoolHeader__StyledSchoolMascotName-sc-1ps5it5-2 kjABeh jvGvem'}).text)
-                            except:
-                                mascot.append(np.nan)
+                           # try:
+                               # mascot.append(item.find('span', attrs={'class','Text__StyledText-jknly0-0 StyledSchoolHeader__StyledSchoolMascotName-sc-1ps5it5-2 kjABeh jvGvem'}).text)
+                           # except:
+                               # mascot.append(np.nan)
                 except:
                     continue
                 try:
@@ -97,7 +97,7 @@ for name in tqdm(my_keys):
                         soup_2 = BeautifulSoup(r.text,'html.parser')
                         for item in soup_2.find_all('dl', attrs={'class':'SchoolInfo__StyledData-sc-804m01-2 cDIyVj'}):
                             try:
-                                address.append(item.find('dd', attrs={'class':'Text__StyledText-jknly0-0 kGkAlE'}).text)
+                                address.append(item.find('dd', attrs={'class':'sc-eCssSg ieSBgE'}).text)
                             except:
                                 address.append('nan,nan,nan,nan')
                 except:
@@ -119,7 +119,7 @@ for name in tqdm(my_keys):
                 except:
                     continue
                 
-                with open('usa_1.csv', 'a') as f_object:
+                with open('basketball_girls_1.csv', 'a') as f_object:
                     writer_object = writer(f_object)
                     writer_object.writerow(result)
                     f_object.close()
