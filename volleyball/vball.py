@@ -38,7 +38,7 @@ def append_list_as_row(file_name, list_of_elem):
         write_obj.close()
 
 # pages are 1 - 578
-for x in tqdm(range(88,579,1)):
+for x in tqdm(range(120,350,1)):
     names = url_names.format(x)
     r = session.get(names)
     sopa = BeautifulSoup(r.text,'html.parser')
@@ -286,7 +286,7 @@ for name in tqdm(my_keys):
         # print("=======")
 
         row = [team_1, team_1_games_won, team_1_score_list, team_2, team_2_games_won, team_2_score_list, date_of_contest, result, place_played, time_of_contest, team_2_city, team_2_state, address]
-        append_list_as_row('volleyball_88.csv', row)
+        append_list_as_row('volleyball_120_350.csv', row)
         # with open('volleyball_1.csv', 'a') as f_object:
         #     writer_object = writer(f_object)
         #     # zip, city, state, home/away(location)
