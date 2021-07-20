@@ -28,7 +28,7 @@ url_contact_info = 'https://www.maxpreps.com/high-schools/{})/home.htm'
 #state_set = ['california','colorado','illinois','iowa','kentucky','new-hampshire','new-jersey','new-mexico','south-dakota','tennessee']
 school_name=[]
 #779 pages
-for x in tqdm(range(6,8,1)):
+for x in tqdm(range(0,5,1)):
     names = url_names.format(x)
     r = session.get(names)
     sopa = BeautifulSoup(r.text,'html.parser')
