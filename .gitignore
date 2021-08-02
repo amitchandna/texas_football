@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# scrap csv files generated
+*.csv
+!polished_data/*.csv
+
 # Distribution / packaging
 .Python
 build/

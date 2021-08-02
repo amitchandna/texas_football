@@ -1,0 +1,2305 @@
+,School,Rank,Time_String,Time_Seconds,Date,Street_Address,City,State,Zip
+0,Mountain Vista,1,04:54.22,294.22,5/19/2018,10585 Mountain Vista Ridge,Highlands Ranch,CO,80126
+1,Broomfield,2,04:54.52,294.52,5/19/2018,1 Eagle Way,Broomfield,CO,80020
+2,Chandler,3,04:56.91,296.90999999999997,3/23/2018,350 N Arizona Ave,Chandler,AZ,85225
+3,Fairview,4,04:58.08,298.08,5/19/2018,1515 Greenbriar Blvd,Boulder,CO,80305
+4,Boulder,5,04:58.13,298.13,5/19/2018,1604 Arapahoe Ave,Boulder,CO,80302
+5,Broomfield,6,05:00.00,300.0,5/19/2018,1 Eagle Way,Broomfield,CO,80020
+6,Eagle Valley,7,05:01.14,301.14,4/21/2018,641 Valley Road,Gypsum,CO,81637
+7,Mountain Vista,8,05:02.24,302.24,5/19/2018,10585 Mountain Vista Ridge,Highlands Ranch,CO,80126
+8,Battle Mountain,9,05:02.31,302.31,5/11/2018,151 Miller Ranch Rd,Edwards,CO,81632
+9,Battle Mountain,10,05:02.44,302.44,5/11/2018,151 Miller Ranch Rd,Edwards,CO,81632
+10,Valor Christian,11,05:02.68,302.68,5/11/2018,3775 E. Grace Boulevard,Highlands Ranch,CO,80126
+11,Legacy,12,05:02.88,302.88,5/19/2018,2701 W 136Th Ave,Broomfield,CO,80023
+12,Mountain Vista,13,05:03.22,303.22,5/19/2018,10585 Mountain Vista Ridge,Highlands Ranch,CO,80126
+13,Highland,14,05:03.26,303.26,4/5/2018,4301 E Guadalupe Rd,Gilbert,AZ,85234
+14,Air Academy,15,05:03.29,303.29,5/11/2018,6910 Carlton Dr,US Air Force Academy,CO,80840
+15,Chandler,16,05:03.88,303.88,4/13/2018,350 N Arizona Ave,Chandler,AZ,85225
+16,Chaparral,17,05:03.93,303.93,3/23/2018,6935 E. Gold Dust Ave,Scottsdale,AZ,85253
+17,Fairview,18,05:04.30,304.3,4/7/2018,1515 Greenbriar Blvd,Boulder,CO,80305
+18,Douglas County,19,05:04.84,304.84,5/19/2018,2842 Front St,Castle Rock,CO,80104
+19,Boulder,20,05:06.26,306.26,4/28/2018,1604 Arapahoe Ave,Boulder,CO,80302
+20,Steamboat Springs,21,05:06.52,306.52,5/19/2018,45 E Maple Street,Steamboat Springs,CO,80487
+21,Mead,22,05:06.64,306.64,5/11/2018,12750 CR 7,Longmont,CO,80504
+22,Grandview,23,05:06.64,306.64,5/12/2018,20500 E Arapahoe Rd,Aurora,CO,80016
+23,Valor Christian,24,05:07.19,307.19,5/11/2018,3775 E. Grace Boulevard,Highlands Ranch,CO,80126
+24,Douglas County,25,05:07.48,307.48,5/4/2018,2842 Front St,Castle Rock,CO,80104
+25,Peak to Peak,26,05:07.67,307.67,5/19/2018,800 Merlin Dr,Lafayette,CO,80026
+26,Discovery Canyon,27,05:07.69,307.69,4/7/2018,1810 Northgate Blvd,Colorado Springs,CO,80921
+27,Peak to Peak,28,05:07.72,307.72,5/19/2018,800 Merlin Dr,Lafayette,CO,80026
+28,Peak to Peak,29,05:07.79,307.79,3/31/2018,800 Merlin Dr,Lafayette,CO,80026
+29,Durango,30,05:08.10,308.1,5/11/2018,2390 Main Ave,Durango,CO,81301
+30,Pinnacle,31,05:08.64,308.64,4/14/2018,3535 E Mayo Blvd,Phoenix,AZ,85050
+31,Green Mountain,32,05:09.12,309.12,5/5/2018,13175 W Green Mountain Dr,Lakewood,CO,80228
+32,Chandler,33,05:09.34,309.34,4/13/2018,350 N Arizona Ave,Chandler,AZ,85225
+33,Brighton,34,05:09.34,309.34,4/27/2018,360 S 8Th Ave,Brighton,CO,80601
+34,Central,35,05:09.82,309.82,3/17/2018,5500 Education Dr,Cheyenne,WY,82009
+35,North Canyon,36,05:10.00,310.0,4/18/2018,1700 E Union Hills Dr,Phoenix,AZ,85024
+36,Niwot,37,05:10.11,310.11,5/11/2018,8989 E Niwot Rd,Niwot,CO,80503
+37,Niwot,38,05:10.12,310.12,5/5/2018,8989 E Niwot Rd,Niwot,CO,80503
+38,Battle Mountain,39,05:10.12,310.12,5/11/2018,151 Miller Ranch Rd,Edwards,CO,81632
+39,Regis Jesuit,40,05:10.42,310.42,5/19/2018,6400 S. Lewiston Way,Aurora,CO,80016
+40,Chandler,41,05:10.53,310.53,4/6/2018,350 N Arizona Ave,Chandler,AZ,85225
+41,Durango,42,05:10.54,310.54,5/11/2018,2390 Main Ave,Durango,CO,81301
+42,Telluride,43,05:10.66,310.66,5/19/2018,725 West Colorado,Telluride,CO,81435
+43,Thompson Valley,44,05:11.15,311.15,5/5/2018,1669 Eagle Dr,Loveland,CO,80537
+44,Palmer Ridge,45,05:11.22,311.22,5/4/2018,19255 Monument Hill Rd,Monument,CO,80132
+45,Niwot,46,05:11.39,311.39,5/11/2018,8989 E Niwot Rd,Niwot,CO,80503
+46,Dakota Ridge,47,05:11.41,311.41,5/11/2018,13399 W Coal Mine Ave,Littleton,CO,80127
+47,Frontier Academy,48,05:11.81,311.81,5/11/2018,6530 W. 16Th St,Greeley,CO,80634
+48,O'Connor,49,05:12.08,312.08,4/7/2018,25250 N 35th Ave,Phoenix,AZ,85083
+49,Lakewood,50,05:12.14,312.14,4/28/2018,9700 W 8Th Ave,Lakewood,CO,80215
+50,Chaparral,51,05:12.48,312.48,4/5/2018,6935 E. Gold Dust Ave,Scottsdale,AZ,85253
+51,Roosevelt,52,05:12.86,312.86,5/11/2018,616 N 2nd,Johnstown,CO,80534
+52,Holy Family,53,05:13.01,313.01,5/11/2018,5195 W 144Th Ave,Broomfield,CO,80020
+53,Rampart,54,05:13.20,313.2,5/4/2018,8250 Lexington Dr,Colorado Springs,CO,80920
+54,Northland Prep Academy,55,05:13.44,313.44,3/17/2018,3300 E Sparrow Ave,Flagstaff,AZ,86004
+55,Wheat Ridge,56,05:13.47,313.47,5/11/2018,9505 W 32Nd Ave,Wheat Ridge,CO,80033
+56,Arapahoe,57,05:13.76,313.76,5/5/2018,2201 E Dry Creek Rd,Centennial,CO,80122
+57,Red Mountain,58,05:13.86,313.86,3/23/2018,7301 E Brown Rd,Mesa,AZ,85207
+58,Albuquerque Academy,59,05:14.10,314.1,3/23/2018,6400 Wyoming Blvd NE,Albuquerque,NM,87109
+59,Poudre,60,05:14.17,314.17,5/4/2018,201 Impala Dr,Fort Collins,CO,80521
+60,Monarch,61,05:14.47,314.47,3/21/2018,329 Campus Dr,Louisville,CO,80027
+61,Shadow Mountain,62,05:14.54,314.54,3/9/2018,2902 E Shea Blvd,Phoenix,AZ,85028
+62,Rifle,63,05:14.62,314.62,5/19/2018,1350 Prefontaine Ave,Rifle,CO,81650
+63,Cherry Creek,64,05:14.89,314.89,5/12/2018,9300 E Union Ave,Greenwood Village,CO,80111
+64,Battle Mountain,65,05:14.95,314.95,5/11/2018,151 Miller Ranch Rd,Edwards,CO,81632
+65,Xavier College Prep,66,05:15.33,315.33,4/23/2018,4710 N. 5Th St,Phoenix,AZ,85012
+66,Cactus,67,05:15.61,315.61,4/7/2018,6330 W Greenway Rd,Glendale,AZ,85306
+67,Silver Creek,68,05:15.76,315.76,5/11/2018,4901 Nelson Rd,Longmont,CO,80503
+68,Broomfield,69,05:15.86,315.86,4/27/2018,1 Eagle Way,Broomfield,CO,80020
+69,The Classical Academy,70,05:15.94,315.94,4/28/2018,975 Stout Rd,Colorado Springs,CO,80921
+70,Northland Prep Academy,71,05:16.04,316.04,4/6/2018,3300 E Sparrow Ave,Flagstaff,AZ,86004
+71,Broomfield,72,05:16.06,316.06,5/11/2018,1 Eagle Way,Broomfield,CO,80020
+72,Flagstaff,73,05:16.11,316.11,4/6/2018,400 W Elm,Flagstaff,AZ,86001
+73,Xavier College Prep,74,05:16.18,316.18,4/23/2018,4710 N. 5Th St,Phoenix,AZ,85012
+74,Hamilton,75,05:16.53,316.53,4/13/2018,3700 S. Arizona Ave,Chandler,AZ,85248
+75,Central,76,05:16.65,316.65,3/17/2018,5500 Education Dr,Cheyenne,WY,82009
+76,Chaparral,77,05:16.68,316.68,4/5/2018,6935 E. Gold Dust Ave,Scottsdale,AZ,85253
+77,Campo Verde,78,05:16.79,316.79,4/14/2018,3870 S Quartz St,Gilbert,AZ,85297
+78,Mishawaka,79,05:16.84,316.84,5/15/2018,1202 Lincoln Wy E,Mishawaka,IN,46544
+79,Perry,80,05:16.85,316.85,4/5/2018,1919 E Queen Creek Rd,Gilbert,AZ,85297
+80,Centaurus,81,05:17.31,317.31,4/14/2018,10300 S Boulder Rd,Lafayette,CO,80026
+81,Salpointe Catholic,82,05:17.40,317.4,4/14/2018,1545 E Copper St,Tucson,AZ,85719
+82,Littleton,83,05:17.52,317.52,4/28/2018,199 E Littleton Blvd,Littleton,CO,80121
+83,Ralston Valley,84,05:17.63,317.63,5/10/2018,13355 W 80Th Ave,Arvada,CO,80005
+84,Cherokee Trail,85,05:17.77,317.77,5/12/2018,25901 E Arapahoe Pkwy N,Aurora,CO,80016
+85,Gilbert Christian,86,05:17.92,317.92,4/5/2018,3632 E. Jasper Dr,Gilbert,AZ,85296
+86,Catalina Foothills,87,05:17.98,317.98,3/23/2018,4300 E Sunrise Dr,Tucson,AZ,85718
+87,Battle Mountain,88,05:17.98,317.98,5/11/2018,151 Miller Ranch Rd,Edwards,CO,81632
+88,Coronado,89,05:18.28,318.28,4/27/2018,1590 W Fillmore St,Colorado Springs,CO,80904
+89,Hamilton,90,05:18.29,318.29,4/13/2018,3700 S. Arizona Ave,Chandler,AZ,85248
+90,Xavier College Prep,91,05:18.31,318.31,3/9/2018,4710 N. 5Th St,Phoenix,AZ,85012
+91,Cheyenne Mountain,92,05:18.47,318.47,5/4/2018,1200 Cresta Rd,Colorado Springs,CO,80906
+92,Arvada West,93,05:18.47,318.47,5/5/2018,11325 Allendale Dr,Arvada,CO,80004
+93,Desert Vista,94,05:18.56,318.56,4/5/2018,16440 S 32Nd St,Phoenix,AZ,85048
+94,Chandler Prep,95,05:18.76,318.76,4/5/2018,1951 N Alma School Road,Chandler,AZ,85224
+95,Mountain View,96,05:18.84,318.84,4/20/2018,2700 E Brown Rd,Mesa,AZ,85213
+96,Windsor,97,05:18.90,318.9,3/10/2018,1100 W Main St,Windsor,CO,80550
+97,The Classical Academy,98,05:19.00,319.0,5/19/2018,975 Stout Rd,Colorado Springs,CO,80921
+98,Rocky Mountain,99,05:19.14,319.14,3/10/2018,1300 W. Swallow Rd.,Fort Collins,CO,80526
+99,East,100,05:19.50,319.5,3/22/2018,2800 E Pershing Blvd,Cheyenne,WY,82001
+100,Fairview,101,05:19.71,319.71,4/21/2018,1515 Greenbriar Blvd,Boulder,CO,80305
+101,Palmer Ridge,102,05:19.74,319.74,5/11/2018,19255 Monument Hill Rd,Monument,CO,80132
+102,Desert Vista,103,05:19.76,319.76,4/5/2018,16440 S 32Nd St,Phoenix,AZ,85048
+103,Salpointe Catholic,104,05:19.86,319.86,4/21/2018,1545 E Copper St,Tucson,AZ,85719
+104,Highland,105,05:20.01,320.01,4/5/2018,4301 E Guadalupe Rd,Gilbert,AZ,85234
+105,Faith Christian,106,05:20.02,320.02,5/4/2018,4890 Carr St,Arvada,CO,80002
+106,Boulder Creek,107,05:20.20,320.2,4/16/2018,40404 N Gavilan Peak Pkwy,Anthem,AZ,85086
+107,Steamboat Springs,108,05:20.40,320.4,5/19/2018,45 E Maple Street,Steamboat Springs,CO,80487
+108,Highland,109,05:20.46,320.46,4/13/2018,4301 E Guadalupe Rd,Gilbert,AZ,85234
+109,Coronado,110,05:20.90,320.9,5/10/2018,1590 W Fillmore St,Colorado Springs,CO,80904
+110,Soroco,111,05:20.92,320.92,5/19/2018,305 South Grant Street,Oak Creek,CO,80467
+111,Mountain Vista,112,05:21.03,321.03,4/27/2018,10585 Mountain Vista Ridge,Highlands Ranch,CO,80126
+112,Broomfield,113,05:21.15,321.15,3/31/2018,1 Eagle Way,Broomfield,CO,80020
+113,Xavier College Prep,114,05:21.19,321.19,3/9/2018,4710 N. 5Th St,Phoenix,AZ,85012
+114,Eagle Valley,115,05:21.23,321.23,3/31/2018,641 Valley Road,Gypsum,CO,81637
+115,Prescott,116,05:21.23,321.23,4/6/2018,1050 N Ruth St,Prescott,AZ,86301
+116,Deer Valley,117,05:21.23,321.23,4/23/2018,18424 N 51St Ave,Glendale,AZ,85308
+117,Niwot,118,05:21.86,321.86,5/5/2018,8989 E Niwot Rd,Niwot,CO,80503
+118,Corona del Sol,119,05:21.98,321.98,4/19/2018,1001 E Knox Rd,Tempe,AZ,85284
+119,St. Michael,120,05:22.20,322.2,4/6/2018,1 Lupton Rd.,St. Michaels,AZ,86511
+120,Vista Grande,121,05:22.30,322.3,4/25/2018,1556 N Arizola Rd,Casa Grande,AZ,85122
+121,Rampart,122,05:22.52,322.52,5/4/2018,8250 Lexington Dr,Colorado Springs,CO,80920
+122,Mountain Vista,123,05:22.69,322.69,4/7/2018,10585 Mountain Vista Ridge,Highlands Ranch,CO,80126
+123,Air Academy,124,05:22.74,322.74,5/11/2018,6910 Carlton Dr,US Air Force Academy,CO,80840
+124,Mountain Pointe,125,05:22.79,322.79,4/5/2018,4201 E Knox Rd,Phoenix,AZ,85044
+125,Flagstaff,126,05:22.90,322.9,4/21/2018,400 W Elm,Flagstaff,AZ,86001
+126,Flagstaff,127,05:22.91,322.91,4/6/2018,400 W Elm,Flagstaff,AZ,86001
+127,Mountain Range,128,05:22.91,322.91,5/4/2018,12500 Huron St,Westminster,CO,80234
+128,Desert Vista,129,05:22.98,322.98,4/19/2018,16440 S 32Nd St,Phoenix,AZ,85048
+129,Catalina Foothills,130,05:22.99,322.99,4/13/2018,4300 E Sunrise Dr,Tucson,AZ,85718
+130,The Vanguard School,131,05:23.01,323.01,4/27/2018,1605 South Corona Ave.,Colorado Springs,CO,80905
+131,Desert Mountain,132,05:23.02,323.02,4/23/2018,12575 E Via Linda,Scottsdale,AZ,85259
+132,Pinon,133,05:23.14,323.14,4/6/2018,1 Mile N Navajo Rte 41,Pinon,AZ,86510
+133,D'Evelyn,134,05:23.24,323.24,5/10/2018,10359 W Nassau Ave,Denver,CO,80235
+134,McClintock,135,05:23.29,323.29,4/5/2018,1830 E Del Rio Dr,Tempe,AZ,85282
+135,Broomfield,136,05:23.42,323.42,4/27/2018,1 Eagle Way,Broomfield,CO,80020
+136,Legend,137,05:23.48,323.48,4/7/2018,22219 Hilltop Rd,Parker,CO,80138
+137,Arvada West,138,05:23.49,323.49,4/7/2018,11325 Allendale Dr,Arvada,CO,80004
+138,North Canyon,139,05:23.53,323.53,4/23/2018,1700 E Union Hills Dr,Phoenix,AZ,85024
+139,D'Evelyn,140,05:23.75,323.75,5/10/2018,10359 W Nassau Ave,Denver,CO,80235
+140,Mountain Ridge,141,05:23.77,323.77,3/17/2018,22800 N 67th Ave,Glendale,AZ,85310
+141,Thatcher,142,05:23.90,323.9,4/5/2018,601 N. 3rd Ave.,Thatcher,AZ,85552
+142,Crested Butte,143,05:23.98,323.98,5/19/2018,818 Red Lady Avenue,Crested Butte,CO,81224
+143,ThunderRidge,144,05:24.15,324.15,3/31/2018,1991 Wildcat Reserve Pkwy,Highlands Ranch,CO,80129
+144,Palmer Ridge,145,05:24.27,324.27,5/11/2018,19255 Monument Hill Rd,Monument,CO,80132
+145,Shadow Mountain,146,05:24.51,324.51,4/23/2018,2902 E Shea Blvd,Phoenix,AZ,85028
+146,Glendale Prep Academy,147,05:24.60,324.6,4/5/2018,23276 N. 83rd Ave.,Glendale,AZ,85383
+147,Tempe,148,05:24.62,324.62,4/25/2018,1730 S Mill Ave,Tempe,AZ,85281
+148,D'Evelyn,149,05:24.75,324.75,5/10/2018,10359 W Nassau Ave,Denver,CO,80235
+149,Cherry Creek,150,05:24.79,324.79,5/12/2018,9300 E Union Ave,Greenwood Village,CO,80111
+150,Arcadia,151,05:24.86,324.86,4/23/2018,4703 E Indian School Rd,Phoenix,AZ,85018
+151,Fairview,152,05:25.07,325.07,5/11/2018,1515 Greenbriar Blvd,Boulder,CO,80305
+152,Arvada West,153,05:25.16,325.16,3/17/2018,11325 Allendale Dr,Arvada,CO,80004
+153,Rampart,154,05:25.21,325.21,5/10/2018,8250 Lexington Dr,Colorado Springs,CO,80920
+154,Centaurus,155,05:25.43,325.43,5/11/2018,10300 S Boulder Rd,Lafayette,CO,80026
+155,Mountain Vista,156,05:25.67,325.67,4/27/2018,10585 Mountain Vista Ridge,Highlands Ranch,CO,80126
+156,Holy Family,157,05:25.77,325.77,5/11/2018,5195 W 144Th Ave,Broomfield,CO,80020
+157,Doherty,158,05:25.90,325.9,4/21/2018,4515 Barnes Rd,Colorado Springs,CO,80917
+158,Grandview,159,05:25.99,325.99,5/12/2018,20500 E Arapahoe Rd,Aurora,CO,80016
+159,Fossil Ridge,160,05:26.11,326.11,5/11/2018,5400 Ziegler Rd,Fort Collins,CO,80528
+160,Palisade,161,05:26.19,326.19,5/5/2018,3679 G Rd,Palisade,CO,81526
+161,Greeley West,162,05:26.23,326.23,5/4/2018,2401 35th Avenue,Greeley,CO,80634
+162,Cheyenne Mountain,163,05:26.47,326.47,5/4/2018,1200 Cresta Rd,Colorado Springs,CO,80906
+163,Golden,164,05:26.51,326.51,5/10/2018,701 24Th St,Golden,CO,80401
+164,Chandler,165,05:26.56,326.56,2/24/2018,350 N Arizona Ave,Chandler,AZ,85225
+165,Centennial,166,05:26.58,326.58,4/17/2018,14388 N 79Th Ave,Peoria,AZ,85381
+166,Dakota Ridge,167,05:26.62,326.62,3/24/2018,13399 W Coal Mine Ave,Littleton,CO,80127
+167,Coronado,168,05:26.70,326.7,5/10/2018,1590 W Fillmore St,Colorado Springs,CO,80904
+168,Rampart,169,05:26.77,326.77,5/10/2018,8250 Lexington Dr,Colorado Springs,CO,80920
+169,Fossil Ridge,170,05:26.82,326.82,4/21/2018,5400 Ziegler Rd,Fort Collins,CO,80528
+170,Monarch,171,05:26.83,326.83,4/27/2018,329 Campus Dr,Louisville,CO,80027
+171,Arvada West,172,05:26.87,326.87,5/10/2018,11325 Allendale Dr,Arvada,CO,80004
+172,Xavier College Prep,173,05:26.89,326.89,4/5/2018,4710 N. 5Th St,Phoenix,AZ,85012
+173,Mountain Ridge,174,05:27.17,327.17,4/23/2018,22800 N 67th Ave,Glendale,AZ,85310
+174,Flagstaff,175,05:27.29,327.29,4/6/2018,400 W Elm,Flagstaff,AZ,86001
+175,Elizabeth,176,05:27.43,327.43,4/14/2018,34500 County Road 13,Elizabeth,CO,80107
+176,St. Mary's,177,05:27.46,327.46,5/19/2018,2501 E Yampa St,Colorado Springs,CO,80909
+177,ThunderRidge,178,05:27.48,327.48,5/12/2018,1991 Wildcat Reserve Pkwy,Highlands Ranch,CO,80129
+178,Denver East,179,05:27.50,327.5,4/7/2018,1600 City Park Esplanade,Denver,CO,80206
+179,Peak to Peak,180,05:27.52,327.52,4/27/2018,800 Merlin Dr,Lafayette,CO,80026
+180,Mountain Vista,181,05:27.54,327.54,4/7/2018,10585 Mountain Vista Ridge,Highlands Ranch,CO,80126
+181,Holy Family,182,05:27.66,327.66,5/11/2018,5195 W 144Th Ave,Broomfield,CO,80020
+182,Xavier College Prep,183,05:27.67,327.67,3/23/2018,4710 N. 5Th St,Phoenix,AZ,85012
+183,Cactus Shadows,184,05:27.78,327.78,4/6/2018,5802 E Dove Valley Rd,Cave Creek,AZ,85327
+184,Cactus Shadows,185,05:27.79,327.79,3/10/2018,5802 E Dove Valley Rd,Cave Creek,AZ,85327
+185,Fossil Ridge,186,05:27.89,327.89,5/4/2018,5400 Ziegler Rd,Fort Collins,CO,80528
+186,Rio Rancho,187,05:27.91,327.91,3/23/2018,301 Loma Colorado,Rio Rancho,NM,87124
+187,Monarch,188,05:27.94,327.94,4/21/2018,329 Campus Dr,Louisville,CO,80027
+188,Greenway,189,05:27.95,327.95,3/9/2018,3930 W Greenway Rd,Phoenix,AZ,85053
+189,Monarch,190,05:27.98,327.98,5/11/2018,329 Campus Dr,Louisville,CO,80027
+190,Desert Vista,191,05:28.33,328.33,4/25/2018,16440 S 32Nd St,Phoenix,AZ,85048
+191,Boulder,192,05:28.34,328.34,5/11/2018,1604 Arapahoe Ave,Boulder,CO,80302
+192,Highland,193,05:28.39,328.39,4/25/2018,4301 E Guadalupe Rd,Gilbert,AZ,85234
+193,Rock Canyon,194,05:28.47,328.47,5/12/2018,5810 Mcarthur Ranch Rd,Highlands Ranch,CO,80124
+194,Central,195,05:28.63,328.63,3/30/2018,4525 N Central Ave,Phoenix,AZ,85012
+195,Chinle,196,05:28.80,328.8,3/23/2018,Hwy. 191 and Navajo Route 7,Chinle,AZ,86503
+196,Nederland,197,05:28.81,328.81,5/5/2018,597 Eldora Rd,Nederland,CO,80466
+197,Fairview,198,05:28.85,328.85,5/4/2018,1515 Greenbriar Blvd,Boulder,CO,80305
+198,Summit,199,05:28.91,328.91,3/23/2018,16201 Us Hwy 9,Frisco,CO,80443
+199,Dysart,200,05:28.94,328.94,4/24/2018,11425 N Dysart Rd,El Mirage,AZ,85335
+200,Thunderbird,201,05:28.96,328.96,4/18/2018,1750 W Thunderbird Rd,Phoenix,AZ,85023
+201,Fort Collins,202,05:29.01,329.01,4/19/2018,3400 Lambkin Wy,Fort Collins,CO,80525
+202,Chandler,203,05:29.23,329.23,3/23/2018,350 N Arizona Ave,Chandler,AZ,85225
+203,Nederland,204,05:29.33,329.33,4/14/2018,597 Eldora Rd,Nederland,CO,80466
+204,Shining Mountain,205,05:29.48,329.48,5/19/2018,999 Violet,Boulder,CO,80304
+205,North Canyon,206,05:29.50,329.5,4/23/2018,1700 E Union Hills Dr,Phoenix,AZ,85024
+206,Chandler,207,05:29.55,329.55,2/24/2018,350 N Arizona Ave,Chandler,AZ,85225
+207,Denver North,208,05:29.73,329.73,3/24/2018,2960 N Speer Blvd,Denver,CO,80211
+208,Chatfield,209,05:29.75,329.75,5/5/2018,7227 S Simms St,Littleton,CO,80127
+209,Albuquerque Academy,210,05:29.78,329.78,3/23/2018,6400 Wyoming Blvd NE,Albuquerque,NM,87109
+210,Monarch,211,05:29.81,329.81,3/21/2018,329 Campus Dr,Louisville,CO,80027
+211,Thornton,212,05:29.82,329.82,3/21/2018,9351 N Washington,Thornton,CO,80229
+212,Rocky Mountain,213,05:29.84,329.84,5/4/2018,1300 W. Swallow Rd.,Fort Collins,CO,80526
+213,Cherry Creek,214,05:29.92,329.92,5/12/2018,9300 E Union Ave,Greenwood Village,CO,80111
+214,Mountain Vista,215,05:29.99,329.99,4/7/2018,10585 Mountain Vista Ridge,Highlands Ranch,CO,80126
+215,Coronado,216,05:30.02,330.02,5/10/2018,1590 W Fillmore St,Colorado Springs,CO,80904
+216,Basha,217,05:30.12,330.12,4/20/2018,5990 S Val Vista Dr,Chandler,AZ,85249
+217,Window Rock,218,05:30.15,330.15,4/6/2018,Navajo Route No. 7,Fort Defiance,AZ,86504
+218,Mountain Vista,219,05:30.20,330.2,3/31/2018,10585 Mountain Vista Ridge,Highlands Ranch,CO,80126
+219,Mountain Vista,220,05:30.29,330.29,4/14/2018,10585 Mountain Vista Ridge,Highlands Ranch,CO,80126
+220,Horizon,221,05:30.29,330.29,4/23/2018,5601 E Greenway Rd,Scottsdale,AZ,85254
+221,Boulder,222,05:30.31,330.31,3/10/2018,1604 Arapahoe Ave,Boulder,CO,80302
+222,Niwot,223,05:30.48,330.48,4/21/2018,8989 E Niwot Rd,Niwot,CO,80503
+223,Rock Canyon,224,05:30.56,330.56,5/12/2018,5810 Mcarthur Ranch Rd,Highlands Ranch,CO,80124
+224,Sunrise Mountain,225,05:30.62,330.62,4/7/2018,21200 N 83Rd Ave,Peoria,AZ,85382
+225,Douglas County,226,05:30.76,330.76,5/12/2018,2842 Front St,Castle Rock,CO,80104
+226,Arapahoe,227,05:31.13,331.13,5/12/2018,2201 E Dry Creek Rd,Centennial,CO,80122
+227,Albuquerque Academy,228,05:31.33,331.33,3/23/2018,6400 Wyoming Blvd NE,Albuquerque,NM,87109
+228,Mishawaka,229,05:31.39,331.39,5/15/2018,1202 Lincoln Wy E,Mishawaka,IN,46544
+229,Coconino,230,05:31.40,331.4,4/24/2018,2801 N Isabel St,Flagstaff,AZ,86004
+230,George Washington,231,05:31.44,331.44,4/25/2018,655 S Monaco Pkwy,Denver,CO,80224
+231,Roosevelt,232,05:31.48,331.48,5/11/2018,616 N 2nd,Johnstown,CO,80534
+232,Hopi,233,05:31.54,331.54,4/6/2018,Highway 264,Keams Canyon,AZ,86034
+233,Evergreen,234,05:31.56,331.56,5/5/2018,29300 Buffalo Park Rd,Evergreen,CO,80439
+234,Kellis,235,05:31.59,331.59,4/17/2018,8990 W Orangewood Ave,Glendale,AZ,85305
+235,Skyline,236,05:31.74,331.74,3/10/2018,845 S Crismon Road,Mesa,AZ,85208
+236,Horizon,237,05:31.80,331.8,4/23/2018,5601 E Greenway Rd,Scottsdale,AZ,85254
+237,Loveland,238,05:31.88,331.88,4/7/2018,920 W 29Th St,Loveland,CO,80538
+238,ThunderRidge,239,05:31.90,331.9,5/12/2018,1991 Wildcat Reserve Pkwy,Highlands Ranch,CO,80129
+239,Mountain View,240,05:31.90,331.9,4/13/2018,2700 E Brown Rd,Mesa,AZ,85213
+240,Prairie View,241,05:32.08,332.08,5/3/2018,12909 E 120Th Ave,Henderson,CO,80640
+241,Standley Lake,242,05:32.11,332.11,5/10/2018,9300 W 104Th Ave,Westminster,CO,80021
+242,Highland,243,05:32.21,332.21,4/21/2018,4301 E Guadalupe Rd,Gilbert,AZ,85234
+243,Sunnyslope,244,05:32.27,332.27,4/6/2018,35 W Dunlap Ave,Phoenix,AZ,85021
+244,Ironwood,245,05:32.30,332.3,4/25/2018,6051 W SWeetwater,Glendale,AZ,85304
+245,Xavier College Prep,246,05:32.37,332.37,3/28/2018,4710 N. 5Th St,Phoenix,AZ,85012
+246,Coconino,247,05:32.45,332.45,4/14/2018,2801 N Isabel St,Flagstaff,AZ,86004
+247,Battle Mountain,248,05:32.48,332.48,4/28/2018,151 Miller Ranch Rd,Edwards,CO,81632
+248,Palmer Ridge,249,05:32.55,332.55,5/11/2018,19255 Monument Hill Rd,Monument,CO,80132
+249,Fossil Ridge,250,05:32.58,332.58,4/21/2018,5400 Ziegler Rd,Fort Collins,CO,80528
+250,Chaparral,251,05:32.86,332.86,3/3/2018,6935 E. Gold Dust Ave,Scottsdale,AZ,85253
+251,Ponderosa,252,05:32.88,332.88,4/14/2018,7007 E Bayou Gulch Rd,Parker,CO,80134
+252,Silver Creek,253,05:33.07,333.07,5/5/2018,4901 Nelson Rd,Longmont,CO,80503
+253,Fountain-Fort Carson,254,05:33.19,333.19,5/10/2018,900 Jimmy Camp Rd,Fountain,CO,80817
+254,Verrado,255,05:33.27,333.27,3/23/2018,20050 W Indian School Rd,Buckeye,AZ,85396
+255,Cherokee Trail,256,05:33.27,333.27,5/5/2018,25901 E Arapahoe Pkwy N,Aurora,CO,80016
+256,Palisade,257,05:33.55,333.55,5/11/2018,3679 G Rd,Palisade,CO,81526
+257,Moffat County,258,05:33.60,333.6,5/11/2018,900 Finley Ln,Craig,CO,81625
+258,Xavier College Prep,259,05:33.69,333.69,3/23/2018,4710 N. 5Th St,Phoenix,AZ,85012
+259,Montrose,260,05:33.74,333.74,4/20/2018,600 South Selig Avenue,Montrose,CO,81401
+260,St. Mary's,261,05:33.75,333.75,5/5/2018,2501 E Yampa St,Colorado Springs,CO,80909
+261,Discovery Canyon,262,05:33.77,333.77,5/5/2018,1810 Northgate Blvd,Colorado Springs,CO,80921
+262,Page,263,05:33.81,333.81,4/21/2018,434 Lake Powell Blvd,Page,AZ,86040
+263,Berthoud,264,05:33.84,333.84000000000003,5/5/2018,850 Spartan Ave,Berthoud,CO,80513
+264,Pine Creek,265,05:33.85,333.85,5/10/2018,10750 Thunder Mountain Ave,Colorado Springs,CO,80908
+265,Wiggins,266,05:33.97,333.97,4/7/2018,201 Tiger Way,Wiggins,CO,80654
+266,Resurrection Christian,267,05:34.02,334.02,3/31/2018,6508 E Crossroads Blvd,Loveland,CO,80538
+267,North Canyon,268,05:34.40,334.4,4/23/2018,1700 E Union Hills Dr,Phoenix,AZ,85024
+268,Air Academy,269,05:34.43,334.43,4/27/2018,6910 Carlton Dr,US Air Force Academy,CO,80840
+269,Desert Vista,270,05:34.47,334.47,4/19/2018,16440 S 32Nd St,Phoenix,AZ,85048
+270,Hamilton,271,05:34.66,334.65999999999997,3/9/2018,3700 S. Arizona Ave,Chandler,AZ,85248
+271,Crested Butte,272,05:34.69,334.69,5/19/2018,818 Red Lady Avenue,Crested Butte,CO,81224
+272,Mountain Ridge,273,05:34.89,334.89,3/9/2018,22800 N 67th Ave,Glendale,AZ,85310
+273,Mountain Vista,274,05:35.13,335.13,5/12/2018,10585 Mountain Vista Ridge,Highlands Ranch,CO,80126
+274,Liberty Common,275,05:35.28,335.28,4/21/2018,2745 Minnesota Dr.,Fort Collins,CO,80525
+275,Widefield,276,05:35.31,335.31,5/4/2018,615 Widefield Dr,Colorado Springs,CO,80911
+276,Discovery Canyon,277,05:35.43,335.43,5/5/2018,1810 Northgate Blvd,Colorado Springs,CO,80921
+277,Desert Vista,278,05:35.48,335.48,4/19/2018,16440 S 32Nd St,Phoenix,AZ,85048
+278,Regis Jesuit,279,05:35.50,335.5,5/12/2018,6400 S. Lewiston Way,Aurora,CO,80016
+279,Cheyenne Mountain,280,05:35.52,335.52,5/10/2018,1200 Cresta Rd,Colorado Springs,CO,80906
+280,Glenwood Springs,281,05:35.54,335.54,3/24/2018,1521 Grand Ave,Glenwood Springs,CO,81601
+281,Discovery Canyon,282,05:35.56,335.56,5/5/2018,1810 Northgate Blvd,Colorado Springs,CO,80921
+282,SkyView Academy,283,05:35.94,335.94,5/11/2018,6161 Business Center Drive,Highlands Ranch,CO,80130
+283,Lakeland Christian,284,05:35.96,335.96,4/18/2018,1111 Forest Park St,Lakeland,FL,33803
+284,Hamilton,285,05:36.06,336.06,4/18/2018,3700 S. Arizona Ave,Chandler,AZ,85248
+285,Legacy,286,05:36.11,336.11,5/4/2018,2701 W 136Th Ave,Broomfield,CO,80023
+286,Greeley West,287,05:36.11,336.11,5/4/2018,2401 35th Avenue,Greeley,CO,80634
+287,Ganado,288,05:36.31,336.31,4/20/2018,PO Box 1757,Ganado,AZ,86505
+288,Denver North,289,05:36.36,336.36,3/24/2018,2960 N Speer Blvd,Denver,CO,80211
+289,Longmont,290,05:36.41,336.40999999999997,4/27/2018,1040 Sunset St,Longmont,CO,80501
+290,Grand Junction Central,291,05:36.54,336.54,4/7/2018,550 Warrior Wy,Grand Junction,CO,81504
+291,Heritage,292,05:36.68,336.68,4/28/2018,1401 W Geddes Ave,Littleton,CO,80120
+292,Centaurus,293,05:36.80,336.8,3/24/2018,10300 S Boulder Rd,Lafayette,CO,80026
+293,Snowflake,294,05:36.80,336.8,4/14/2018,220 South 2nd West,Snowflake,AZ,85937
+294,Rock Canyon,295,05:36.87,336.87,5/12/2018,5810 Mcarthur Ranch Rd,Highlands Ranch,CO,80124
+295,Douglas County,296,05:37.02,337.02,5/4/2018,2842 Front St,Castle Rock,CO,80104
+296,Pine Creek,297,05:37.22,337.22,5/5/2018,10750 Thunder Mountain Ave,Colorado Springs,CO,80908
+297,Pueblo West,298,05:37.26,337.26,3/17/2018,661 W. Capistrano Ave.,Pueblo West,CO,81007
+298,Doherty,299,05:37.30,337.3,5/4/2018,4515 Barnes Rd,Colorado Springs,CO,80917
+299,Plateau Valley,300,05:37.34,337.34000000000003,5/19/2018,56600 Hwy 330,Collbran,CO,81624
+300,Perry,301,05:37.42,337.42,4/5/2018,1919 E Queen Creek Rd,Gilbert,AZ,85297
+301,Fossil Ridge,302,05:37.44,337.44,5/4/2018,5400 Ziegler Rd,Fort Collins,CO,80528
+302,Florence,303,05:37.55,337.55,4/23/2018,2006 State Hwy 67,Florence,CO,81226
+303,Queen Creek,304,05:37.60,337.6,4/20/2018,22149 E Ocotillo Rd,Queen Creek,AZ,85242
+304,Mead,305,05:37.65,337.65,5/11/2018,12750 CR 7,Longmont,CO,80504
+305,Windsor,306,05:37.74,337.74,4/28/2018,1100 W Main St,Windsor,CO,80550
+306,Fairview,307,05:37.80,337.8,4/27/2018,1515 Greenbriar Blvd,Boulder,CO,80305
+307,Sunrise Mountain,308,05:37.83,337.83,3/30/2018,21200 N 83Rd Ave,Peoria,AZ,85382
+308,Valley Lutheran,309,05:37.93,337.93,4/14/2018,5199 N 7Th Ave,Phoenix,AZ,85013
+309,Denver North,310,05:37.95,337.95,3/17/2018,2960 N Speer Blvd,Denver,CO,80211
+310,Sunrise Mountain,311,05:38.02,338.02,4/7/2018,21200 N 83Rd Ave,Peoria,AZ,85382
+311,Highlands Ranch,312,05:38.02,338.02,4/28/2018,9375 S Cresthill Lane,Highlands Ranch,CO,80130
+312,Heritage,313,05:38.07,338.07,5/12/2018,1401 W Geddes Ave,Littleton,CO,80120
+313,Dakota Ridge,314,05:38.11,338.11,4/21/2018,13399 W Coal Mine Ave,Littleton,CO,80127
+314,Casteel,315,05:38.12,338.12,4/14/2018,24901 South Power Road,Queen Creek,AZ,85142
+315,Desert Vista,316,05:38.22,338.22,3/28/2018,16440 S 32Nd St,Phoenix,AZ,85048
+316,Fountain-Fort Carson,317,05:38.30,338.3,5/5/2018,900 Jimmy Camp Rd,Fountain,CO,80817
+317,Broomfield,318,05:38.30,338.3,4/21/2018,1 Eagle Way,Broomfield,CO,80020
+318,Cherry Creek,319,05:38.31,338.31,5/12/2018,9300 E Union Ave,Greenwood Village,CO,80111
+319,Gallup,320,05:38.35,338.35,4/7/2018,1055 Rico Street,Gallup,NM,87301
+320,Erie,321,05:38.38,338.38,5/5/2018,3180 County Road 5,Erie,CO,80516
+321,North Canyon,322,05:38.56,338.56,3/17/2018,1700 E Union Hills Dr,Phoenix,AZ,85024
+322,Ironwood,323,05:38.58,338.58,4/7/2018,6051 W SWeetwater,Glendale,AZ,85304
+323,Silver Creek,324,05:38.59,338.59000000000003,5/5/2018,4901 Nelson Rd,Longmont,CO,80503
+324,George Washington,325,05:38.70,338.7,4/25/2018,655 S Monaco Pkwy,Denver,CO,80224
+325,Ralston Valley,326,05:38.85,338.85,5/10/2018,13355 W 80Th Ave,Arvada,CO,80005
+326,Morenci,327,05:38.94,338.94,4/25/2018,1 Stadium Drive,Morenci,AZ,85540
+327,Battle Mountain,328,05:38.96,338.96,3/24/2018,151 Miller Ranch Rd,Edwards,CO,81632
+328,Pine Creek,329,05:39.03,339.03,4/28/2018,10750 Thunder Mountain Ave,Colorado Springs,CO,80908
+329,Highland,330,05:39.06,339.06,4/21/2018,4301 E Guadalupe Rd,Gilbert,AZ,85234
+330,Goldwater,331,05:39.21,339.21,4/16/2018,2820 W Rose Garden Ln,Phoenix,AZ,85027
+331,O'Connor,332,05:39.24,339.24,4/16/2018,25250 N 35th Ave,Phoenix,AZ,85083
+332,Ralston Valley,333,05:39.31,339.31,3/10/2018,13355 W 80Th Ave,Arvada,CO,80005
+333,Sunrise Mountain,334,05:39.33,339.33,4/14/2018,21200 N 83Rd Ave,Peoria,AZ,85382
+334,Pine Creek,335,05:39.37,339.37,5/5/2018,10750 Thunder Mountain Ave,Colorado Springs,CO,80908
+335,Red Mountain,336,05:39.47,339.47,4/20/2018,7301 E Brown Rd,Mesa,AZ,85207
+336,Boulder,337,05:39.48,339.48,5/11/2018,1604 Arapahoe Ave,Boulder,CO,80302
+337,Prescott,338,05:39.51,339.51,4/14/2018,1050 N Ruth St,Prescott,AZ,86301
+338,Safford,339,05:39.63,339.63,3/17/2018,1400 W 11Th St,Safford,AZ,85546
+339,Fort Collins,340,05:39.65,339.65,5/4/2018,3400 Lambkin Wy,Fort Collins,CO,80525
+340,Gunnison,341,05:39.65,339.65,4/6/2018,800 W Ohio Ave,Gunnison,CO,81230
+341,Cherokee Trail,342,05:39.70,339.7,4/11/2018,25901 E Arapahoe Pkwy N,Aurora,CO,80016
+342,Mountain Ridge,343,05:39.75,339.75,3/17/2018,22800 N 67th Ave,Glendale,AZ,85310
+343,Grandview,344,05:39.85,339.85,4/14/2018,20500 E Arapahoe Rd,Aurora,CO,80016
+344,Battle Mountain,345,05:40.01,340.01,4/27/2018,151 Miller Ranch Rd,Edwards,CO,81632
+345,Coconino,346,05:40.16,340.15999999999997,4/14/2018,2801 N Isabel St,Flagstaff,AZ,86004
+346,Golden,347,05:40.16,340.15999999999997,3/24/2018,701 24Th St,Golden,CO,80401
+347,Flagstaff,348,05:40.17,340.17,4/14/2018,400 W Elm,Flagstaff,AZ,86001
+348,Arcadia,349,05:40.24,340.24,3/10/2018,4703 E Indian School Rd,Phoenix,AZ,85018
+349,Xavier College Prep,350,05:40.27,340.27,3/28/2018,4710 N. 5Th St,Phoenix,AZ,85012
+350,Chaparral,351,05:40.27,340.27,4/13/2018,6935 E. Gold Dust Ave,Scottsdale,AZ,85253
+351,Cherokee Trail,352,05:40.37,340.37,4/27/2018,25901 E Arapahoe Pkwy N,Aurora,CO,80016
+352,Frontier Academy,353,05:40.37,340.37,5/11/2018,6530 W. 16Th St,Greeley,CO,80634
+353,Albuquerque Academy,354,05:40.42,340.42,3/23/2018,6400 Wyoming Blvd NE,Albuquerque,NM,87109
+354,North Phoenix Preparatory Academy,355,05:40.47,340.47,3/23/2018,14100 N. 32nd St.,Phoenix,AZ,85032
+355,Kingman,356,05:40.70,340.7,4/25/2018,4182 Bank St,Kingman,AZ,86409
+356,Red Mountain,357,05:40.71,340.71,3/29/2018,7301 E Brown Rd,Mesa,AZ,85207
+357,Brighton,358,05:40.73,340.73,5/3/2018,360 S 8Th Ave,Brighton,CO,80601
+358,Thompson Valley,359,05:40.94,340.94,5/11/2018,1669 Eagle Dr,Loveland,CO,80537
+359,Air Academy,360,05:40.96,340.96,5/4/2018,6910 Carlton Dr,US Air Force Academy,CO,80840
+360,Loveland,361,05:41.11,341.11,5/11/2018,920 W 29Th St,Loveland,CO,80538
+361,Fossil Ridge,362,05:41.13,341.13,4/7/2018,5400 Ziegler Rd,Fort Collins,CO,80528
+362,Green Mountain,363,05:41.25,341.25,5/5/2018,13175 W Green Mountain Dr,Lakewood,CO,80228
+363,Ganado,364,05:41.26,341.26,3/23/2018,PO Box 1757,Ganado,AZ,86505
+364,Heritage Christian,365,05:41.27,341.27,5/19/2018,2506 Zurich Dr,Fort Collins,CO,80524
+365,Cherokee Trail,366,05:41.28,341.28,5/5/2018,25901 E Arapahoe Pkwy N,Aurora,CO,80016
+366,Green Mountain,367,05:41.34,341.34000000000003,5/5/2018,13175 W Green Mountain Dr,Lakewood,CO,80228
+367,Regis Jesuit,368,05:41.39,341.39,5/12/2018,6400 S. Lewiston Way,Aurora,CO,80016
+368,Monarch,369,05:41.43,341.43,4/21/2018,329 Campus Dr,Louisville,CO,80027
+369,Denver East,370,05:41.57,341.57,4/28/2018,1600 City Park Esplanade,Denver,CO,80206
+370,Red Mountain,371,05:41.67,341.67,4/20/2018,7301 E Brown Rd,Mesa,AZ,85207
+371,Loveland,372,05:41.71,341.71,4/26/2018,920 W 29Th St,Loveland,CO,80538
+372,Douglas County,373,05:41.72,341.72,5/5/2018,2842 Front St,Castle Rock,CO,80104
+373,Mountain Vista,374,05:41.75,341.75,5/5/2018,10585 Mountain Vista Ridge,Highlands Ranch,CO,80126
+374,Cherry Creek,375,05:41.76,341.76,4/7/2018,9300 E Union Ave,Greenwood Village,CO,80111
+375,Valor Christian,376,05:41.82,341.82,5/11/2018,3775 E. Grace Boulevard,Highlands Ranch,CO,80126
+376,Arapahoe,377,05:41.97,341.97,5/3/2018,2201 E Dry Creek Rd,Centennial,CO,80122
+377,SkyView Academy,378,05:42.07,342.07,5/4/2018,6161 Business Center Drive,Highlands Ranch,CO,80130
+378,Kellis,379,05:42.15,342.15,4/25/2018,8990 W Orangewood Ave,Glendale,AZ,85305
+379,Rincon/University,380,05:42.15,342.15,2/28/2018,421 N Arcadia Blvd,Tucson,AZ,85711
+380,Basalt,381,05:42.18,342.18,4/3/2018,600 Southside Dr,Basalt,CO,81621
+381,Arvada West,382,05:42.22,342.22,5/10/2018,11325 Allendale Dr,Arvada,CO,80004
+382,Campo Verde,383,05:42.23,342.23,4/14/2018,3870 S Quartz St,Gilbert,AZ,85297
+383,Tucson High Magnet School,384,05:42.29,342.29,4/25/2018,400 N 2Nd Ave,Tucson,AZ,85705
+384,Rocky Mountain,385,05:42.30,342.3,5/4/2018,1300 W. Swallow Rd.,Fort Collins,CO,80526
+385,Cherokee Trail,386,05:42.36,342.36,3/22/2018,25901 E Arapahoe Pkwy N,Aurora,CO,80016
+386,Xavier College Prep,387,05:42.38,342.38,3/28/2018,4710 N. 5Th St,Phoenix,AZ,85012
+387,Prairie View,388,05:42.48,342.48,3/22/2018,12909 E 120Th Ave,Henderson,CO,80640
+388,Thunderbird,389,05:42.53,342.53,4/25/2018,1750 W Thunderbird Rd,Phoenix,AZ,85023
+389,Marana,390,05:42.56,342.56,3/2/2018,12000 W Emigh Rd,Tucson,AZ,85743
+390,Pine Creek,391,05:42.60,342.6,4/21/2018,10750 Thunder Mountain Ave,Colorado Springs,CO,80908
+391,Peoria,392,05:42.60,342.6,4/25/2018,11200 N 83Rd Ave,Peoria,AZ,85345
+392,O'Connor,393,05:42.65,342.65,4/16/2018,25250 N 35th Ave,Phoenix,AZ,85083
+393,Rocky Mountain,394,05:42.65,342.65,4/21/2018,1300 W. Swallow Rd.,Fort Collins,CO,80526
+394,Maryvale,395,05:42.69,342.69,2/24/2018,3415 N 59 Ave,Phoenix,AZ,85033
+395,Rehoboth Christian,396,05:42.78,342.78,4/20/2018,07B Tse Yaaniichii Lane,Rehoboth,NM,87322
+396,Anthem Prep,397,05:42.89,342.89,3/29/2018,39808 N Gavilan Peak Pkwy,Anthem,AZ,85086
+397,Walden Grove,398,05:42.93,342.93,3/10/2018,15510 S Sahuarita Park Rd,Sahuarita,AZ,85629
+398,Rock Canyon,399,05:42.95,342.95,4/21/2018,5810 Mcarthur Ranch Rd,Highlands Ranch,CO,80124
+399,Thompson Valley,400,05:43.09,343.09000000000003,5/11/2018,1669 Eagle Dr,Loveland,CO,80537
+400,Ralston Valley,401,05:43.10,343.1,5/10/2018,13355 W 80Th Ave,Arvada,CO,80005
+401,Poudre,402,05:43.13,343.13,5/12/2018,201 Impala Dr,Fort Collins,CO,80521
+402,Willcox,403,05:43.20,343.2,4/21/2018,240 N. Bisbee,Willcox,AZ,85643
+403,Empire,404,05:43.24,343.24,3/17/2018,10701 E Mary Ann Cleveland Wy,Tucson,AZ,85747
+404,Hayden,405,05:43.28,343.28,3/31/2018,495 W Jefferson St,Hayden,CO,81639
+405,Horizon,406,05:43.29,343.29,4/7/2018,5321 E 136Th Ave,Thornton,CO,80602
+406,Peak to Peak,407,05:43.30,343.3,4/27/2018,800 Merlin Dr,Lafayette,CO,80026
+407,Sunrise Mountain,408,05:43.36,343.36,4/14/2018,21200 N 83Rd Ave,Peoria,AZ,85382
+408,Xavier College Prep,409,05:43.36,343.36,4/20/2018,4710 N. 5Th St,Phoenix,AZ,85012
+409,Centaurus,410,05:43.38,343.38,3/17/2018,10300 S Boulder Rd,Lafayette,CO,80026
+410,Lakeland Christian,411,05:43.52,343.52,4/18/2018,1111 Forest Park St,Lakeland,FL,33803
+411,Xavier College Prep,412,05:43.69,343.69,3/28/2018,4710 N. 5Th St,Phoenix,AZ,85012
+412,Monarch,413,05:43.70,343.7,3/21/2018,329 Campus Dr,Louisville,CO,80027
+413,Legend,414,05:43.74,343.74,5/5/2018,22219 Hilltop Rd,Parker,CO,80138
+414,Chandler,415,05:43.86,343.86,4/5/2018,350 N Arizona Ave,Chandler,AZ,85225
+415,Estes Park,416,05:44.02,344.02,5/11/2018,1600 Manford Ave,Estes Park,CO,80517
+416,Conifer,417,05:44.08,344.08,5/5/2018,10441 County Hwy 73,Conifer,CO,80433
+417,Wickenburg,418,05:44.09,344.09000000000003,4/21/2018,1090 South Vulture Mine Rd,Wickenburg,AZ,85390
+418,Frontier Academy,419,05:44.09,344.09000000000003,4/21/2018,6530 W. 16Th St,Greeley,CO,80634
+419,Evergreen,420,05:44.11,344.11,4/21/2018,29300 Buffalo Park Rd,Evergreen,CO,80439
+420,O'Connor,421,05:44.15,344.15,3/3/2018,25250 N 35th Ave,Phoenix,AZ,85083
+421,Fairview,422,05:44.16,344.15999999999997,4/27/2018,1515 Greenbriar Blvd,Boulder,CO,80305
+422,Desert Vista,423,05:44.24,344.24,2/24/2018,16440 S 32Nd St,Phoenix,AZ,85048
+423,Mountain Vista,424,05:44.24,344.24,4/21/2018,10585 Mountain Vista Ridge,Highlands Ranch,CO,80126
+424,Boulder Creek,425,05:44.26,344.26,4/23/2018,40404 N Gavilan Peak Pkwy,Anthem,AZ,85086
+425,Desert Vista,426,05:44.33,344.33,4/19/2018,16440 S 32Nd St,Phoenix,AZ,85048
+426,Elizabeth,427,05:44.33,344.33,5/5/2018,34500 County Road 13,Elizabeth,CO,80107
+427,Queen Creek,428,05:44.38,344.38,3/23/2018,22149 E Ocotillo Rd,Queen Creek,AZ,85242
+428,Cherokee Trail,429,05:44.39,344.39,4/7/2018,25901 E Arapahoe Pkwy N,Aurora,CO,80016
+429,Legend,430,05:44.46,344.46,4/14/2018,22219 Hilltop Rd,Parker,CO,80138
+430,Desert Mirage,431,05:44.58,344.58,3/29/2018,86-150 Ave 66,Thermal,CA,92274
+431,Estrella Foothills,432,05:44.59,344.59000000000003,4/21/2018,13033 S Estrella Pkwy,Goodyear,AZ,85338
+432,Arapahoe,433,05:44.62,344.62,5/3/2018,2201 E Dry Creek Rd,Centennial,CO,80122
+433,Denver East,434,05:44.69,344.69,4/25/2018,1600 City Park Esplanade,Denver,CO,80206
+434,Golden,435,05:44.70,344.7,5/5/2018,701 24Th St,Golden,CO,80401
+435,Kennedy,436,05:44.85,344.85,5/4/2018,2855 S Lamar St,Denver,CO,80227
+436,Cibola,437,05:44.90,344.9,4/20/2018,4100 W 20Th St,Yuma,AZ,85364
+437,Air Academy,438,05:44.95,344.95,5/5/2018,6910 Carlton Dr,US Air Force Academy,CO,80840
+438,Berthoud,439,05:45.01,345.01,3/31/2018,850 Spartan Ave,Berthoud,CO,80513
+439,Centennial,440,05:45.01,345.01,3/28/2018,14388 N 79Th Ave,Peoria,AZ,85381
+440,Air Academy,441,05:45.13,345.13,5/5/2018,6910 Carlton Dr,US Air Force Academy,CO,80840
+441,Skyline,442,05:45.16,345.15999999999997,3/29/2018,845 S Crismon Road,Mesa,AZ,85208
+442,Campo Verde,443,05:45.16,345.15999999999997,4/20/2018,3870 S Quartz St,Gilbert,AZ,85297
+443,Monarch,444,05:45.20,345.2,3/10/2018,329 Campus Dr,Louisville,CO,80027
+444,Standley Lake,445,05:45.22,345.22,5/5/2018,9300 W 104Th Ave,Westminster,CO,80021
+445,Rock Canyon,446,05:45.27,345.27,5/12/2018,5810 Mcarthur Ranch Rd,Highlands Ranch,CO,80124
+446,Denver East,447,05:45.34,345.34000000000003,3/17/2018,1600 City Park Esplanade,Denver,CO,80206
+447,Liberty,448,05:45.41,345.40999999999997,4/17/2018,9621 W Speckled Gecko Dr,Peoria,AZ,85383
+448,Alamosa,449,05:45.49,345.49,5/10/2018,805 Craft Dr,Alamosa,CO,81101
+449,Flagstaff,450,05:45.58,345.58,4/14/2018,400 W Elm,Flagstaff,AZ,86001
+450,Colorado Springs Christian,451,05:45.69,345.69,5/11/2018,4825 Mallow Rd,Colorado Springs,CO,80907
+451,Flowing Wells,452,05:45.72,345.72,3/17/2018,3725 N Flowing Wells Rd,Tucson,AZ,85705
+452,Maryvale,453,05:45.81,345.81,3/29/2018,3415 N 59 Ave,Phoenix,AZ,85033
+453,Boulder Creek,454,05:45.84,345.84000000000003,4/16/2018,40404 N Gavilan Peak Pkwy,Anthem,AZ,85086
+454,Independence,455,05:45.88,345.88,4/7/2018,6602 N 75Th Ave,Glendale,AZ,85303
+455,Chaparral,456,05:45.90,345.9,4/7/2018,15655 Brookstone Dr,Parker,CO,80134
+456,Pinnacle,457,05:45.93,345.93,4/14/2018,3535 E Mayo Blvd,Phoenix,AZ,85050
+457,Combs,458,05:46.07,346.07,4/20/2018,2505 E Germann Road,San Tan Valley,AZ,85140
+458,Legacy,459,05:46.14,346.14,3/21/2018,2701 W 136Th Ave,Broomfield,CO,80023
+459,Corona del Sol,460,05:46.22,346.22,3/29/2018,1001 E Knox Rd,Tempe,AZ,85284
+460,Joseph City,461,05:46.28,346.28,4/20/2018,4629 2nd North,Joseph City,AZ,86032
+461,Montrose,462,05:46.31,346.31,4/20/2018,600 South Selig Avenue,Montrose,CO,81401
+462,Regis Jesuit,463,05:46.34,346.34000000000003,5/5/2018,6400 S. Lewiston Way,Aurora,CO,80016
+463,Chaparral,464,05:46.36,346.36,5/12/2018,15655 Brookstone Dr,Parker,CO,80134
+464,Buena,465,05:46.36,346.36,4/5/2018,5225 Buena School Blvd,Sierra Vista,AZ,85635
+465,Coronado,466,05:46.43,346.43,4/13/2018,1590 W Fillmore St,Colorado Springs,CO,80904
+466,Horizon,467,05:46.45,346.45,3/10/2018,5601 E Greenway Rd,Scottsdale,AZ,85254
+467,Fort Collins,468,05:46.55,346.55,5/4/2018,3400 Lambkin Wy,Fort Collins,CO,80525
+468,Horizon,469,05:46.60,346.6,5/4/2018,5321 E 136Th Ave,Thornton,CO,80602
+469,Niwot,470,05:46.67,346.67,3/22/2018,8989 E Niwot Rd,Niwot,CO,80503
+470,Roosevelt,471,05:46.70,346.7,4/21/2018,616 N 2nd,Johnstown,CO,80534
+471,Greeley West,472,05:46.75,346.75,5/4/2018,2401 35th Avenue,Greeley,CO,80634
+472,Lewis-Palmer,473,05:46.85,346.85,5/4/2018,1300 Higby Rd,Monument,CO,80132
+473,Rifle,474,05:46.98,346.98,3/31/2018,1350 Prefontaine Ave,Rifle,CO,81650
+474,Denver East,475,05:47.15,347.15,5/5/2018,1600 City Park Esplanade,Denver,CO,80206
+475,Centaurus,476,05:47.15,347.15,3/24/2018,10300 S Boulder Rd,Lafayette,CO,80026
+476,Battle Mountain,477,05:47.29,347.29,4/28/2018,151 Miller Ranch Rd,Edwards,CO,81632
+477,Valley Lutheran,478,05:47.50,347.5,4/14/2018,5199 N 7Th Ave,Phoenix,AZ,85013
+478,Golden,479,05:47.57,347.57,5/10/2018,701 24Th St,Golden,CO,80401
+479,Pinnacle,480,05:47.73,347.73,4/23/2018,3535 E Mayo Blvd,Phoenix,AZ,85050
+480,Mountain Ridge,481,05:47.75,347.75,3/17/2018,22800 N 67th Ave,Glendale,AZ,85310
+481,Highland,482,05:47.75,347.75,3/23/2018,4301 E Guadalupe Rd,Gilbert,AZ,85234
+482,Shining Mountain,483,05:48.04,348.04,5/19/2018,999 Violet,Boulder,CO,80304
+483,Shadow Ridge,484,05:48.06,348.06,3/30/2018,10909 N Perryville Rd,Surprise,AZ,85388
+484,Erie,485,05:48.08,348.08,5/5/2018,3180 County Road 5,Erie,CO,80516
+485,Evergreen,486,05:48.13,348.13,5/5/2018,29300 Buffalo Park Rd,Evergreen,CO,80439
+486,Greeley West,487,05:48.14,348.14,5/4/2018,2401 35th Avenue,Greeley,CO,80634
+487,Flagstaff,488,05:48.22,348.22,3/17/2018,400 W Elm,Flagstaff,AZ,86001
+488,Cienega,489,05:48.24,348.24,4/17/2018,12775 E. Mary Cleveland Way,Vail,AZ,85641
+489,Wray,490,05:48.30,348.3,5/19/2018,30074 County Road 35,Wray,CO,80758
+490,Discovery Canyon,491,05:48.31,348.31,3/10/2018,1810 Northgate Blvd,Colorado Springs,CO,80921
+491,Basalt,492,05:48.32,348.32,4/14/2018,600 Southside Dr,Basalt,CO,81621
+492,Palmer Ridge,493,05:48.33,348.33,3/10/2018,19255 Monument Hill Rd,Monument,CO,80132
+493,Cienega,494,05:48.33,348.33,4/6/2018,12775 E. Mary Cleveland Way,Vail,AZ,85641
+494,The Classical Academy,495,05:48.41,348.40999999999997,5/10/2018,975 Stout Rd,Colorado Springs,CO,80921
+495,Shining Mountain,496,05:48.56,348.56,5/19/2018,999 Violet,Boulder,CO,80304
+496,Boulder Creek,497,05:48.74,348.74,3/9/2018,40404 N Gavilan Peak Pkwy,Anthem,AZ,85086
+497,Chatfield,498,05:48.77,348.77,5/5/2018,7227 S Simms St,Littleton,CO,80127
+498,Mountain Vista,499,05:48.80,348.8,3/31/2018,10585 Mountain Vista Ridge,Highlands Ranch,CO,80126
+499,Pueblo County,500,05:48.82,348.82,5/4/2018,1050 Lane 35,Pueblo,CO,81006
+500,Desert Ridge,501,05:48.87,348.87,3/9/2018,10045 E Madero Ave,Mesa,AZ,85212
+501,Cherry Creek,502,05:48.88,348.88,4/7/2018,9300 E Union Ave,Greenwood Village,CO,80111
+502,Brighton,503,05:48.96,348.96,5/11/2018,360 S 8Th Ave,Brighton,CO,80601
+503,Catalina Foothills,504,05:49.04,349.04,4/17/2018,4300 E Sunrise Dr,Tucson,AZ,85718
+504,Notre Dame Prep,505,05:49.06,349.06,3/23/2018,9701 E Bell Rd,Scottsdale,AZ,85260
+505,Trivium Prep,506,05:49.10,349.1,4/14/2018,2001 N. Bullard Ave,Goodyear,AZ,85395
+506,La Joya Community,507,05:49.12,349.12,4/7/2018,11650 W. Whyman Ave,Avondale,AZ,85323
+507,Discovery Canyon,508,05:49.15,349.15,5/10/2018,1810 Northgate Blvd,Colorado Springs,CO,80921
+508,SkyView Academy,509,05:49.17,349.17,3/22/2018,6161 Business Center Drive,Highlands Ranch,CO,80130
+509,Rocky Mountain,510,05:49.38,349.38,3/23/2018,1300 W. Swallow Rd.,Fort Collins,CO,80526
+510,Youngker,511,05:49.46,349.46,3/9/2018,3000 S Apache,Buckeye,AZ,85326
+511,Monarch,512,05:49.54,349.54,5/4/2018,329 Campus Dr,Louisville,CO,80027
+512,Prairie View,513,05:49.62,349.62,5/3/2018,12909 E 120Th Ave,Henderson,CO,80640
+513,Palo Verde,514,05:49.67,349.67,4/21/2018,1302 S Avenida Vega,Tucson,AZ,85710
+514,Elizabeth,515,05:49.70,349.7,5/10/2018,34500 County Road 13,Elizabeth,CO,80107
+515,Golden,516,05:49.72,349.72,5/10/2018,701 24Th St,Golden,CO,80401
+516,Kent Denver,517,05:49.74,349.74,5/5/2018,4000 E Quincy Ave,Englewood,CO,80113
+517,La Joya Community,518,05:49.75,349.75,3/9/2018,11650 W. Whyman Ave,Avondale,AZ,85323
+518,Longmont,519,05:49.76,349.76,4/27/2018,1040 Sunset St,Longmont,CO,80501
+519,Yuma,520,05:49.88,349.88,5/1/2018,1000 South Albany St,Yuma,CO,80759
+520,Perry,521,05:49.92,349.92,4/5/2018,1919 E Queen Creek Rd,Gilbert,AZ,85297
+521,Golden,522,05:49.98,349.98,3/24/2018,701 24Th St,Golden,CO,80401
+522,Higley,523,05:50.00,350.0,3/23/2018,4068 E Pecos Dr,Gilbert,AZ,85297
+523,Moon Valley,524,05:50.03,350.03,4/18/2018,3625 W Cactus Rd,Phoenix,AZ,85029
+524,Evergreen,525,05:50.11,350.11,5/5/2018,29300 Buffalo Park Rd,Evergreen,CO,80439
+525,Steamboat Springs,526,05:50.13,350.13,4/21/2018,45 E Maple Street,Steamboat Springs,CO,80487
+526,Cibola,527,05:50.22,350.22,4/14/2018,4100 W 20Th St,Yuma,AZ,85364
+527,Dakota Ridge,528,05:50.24,350.24,5/5/2018,13399 W Coal Mine Ave,Littleton,CO,80127
+528,Queen Creek,529,05:50.25,350.25,4/5/2018,22149 E Ocotillo Rd,Queen Creek,AZ,85242
+529,Corona del Sol,530,05:50.26,350.26,3/29/2018,1001 E Knox Rd,Tempe,AZ,85284
+530,Prescott,531,05:50.29,350.29,3/23/2018,1050 N Ruth St,Prescott,AZ,86301
+531,Denver East,532,05:50.37,350.37,5/12/2018,1600 City Park Esplanade,Denver,CO,80206
+532,Roaring Fork,533,05:50.45,350.45,5/5/2018,2270 Hwy 133,Carbondale,CO,81623
+533,Saguaro,534,05:50.48,350.48,4/18/2018,6250 N 82Nd St,Scottsdale,AZ,85250
+534,Desert Vista,535,05:50.51,350.51,4/19/2018,16440 S 32Nd St,Phoenix,AZ,85048
+535,D'Evelyn,536,05:50.59,350.59000000000003,3/22/2018,10359 W Nassau Ave,Denver,CO,80235
+536,Palmer Ridge,537,05:50.65,350.65,3/10/2018,19255 Monument Hill Rd,Monument,CO,80132
+537,Douglas County,538,05:50.71,350.71,4/28/2018,2842 Front St,Castle Rock,CO,80104
+538,Arapahoe,539,05:50.72,350.72,4/6/2018,2201 E Dry Creek Rd,Centennial,CO,80122
+539,Desert Vista,540,05:50.81,350.81,4/19/2018,16440 S 32Nd St,Phoenix,AZ,85048
+540,Northfield,541,05:50.88,350.88,5/12/2018,5500 Central Park Blvd.,Denver,CO,80238
+541,Cheyenne Mountain,542,05:50.89,350.89,5/10/2018,1200 Cresta Rd,Colorado Springs,CO,80906
+542,Frontier Academy,543,05:50.98,350.98,5/4/2018,6530 W. 16Th St,Greeley,CO,80634
+543,Discovery Canyon,544,05:50.99,350.99,5/10/2018,1810 Northgate Blvd,Colorado Springs,CO,80921
+544,Corona del Sol,545,05:51.02,351.02,4/25/2018,1001 E Knox Rd,Tempe,AZ,85284
+545,The Classical Academy,546,05:51.10,351.1,3/24/2018,975 Stout Rd,Colorado Springs,CO,80921
+546,Gilbert Christian,547,05:51.13,351.13,4/5/2018,3632 E. Jasper Dr,Gilbert,AZ,85296
+547,Horizon,548,05:51.13,351.13,3/21/2018,5321 E 136Th Ave,Thornton,CO,80602
+548,McClintock,549,05:51.14,351.14,4/19/2018,1830 E Del Rio Dr,Tempe,AZ,85282
+549,Desert Vista,550,05:51.17,351.17,4/19/2018,16440 S 32Nd St,Phoenix,AZ,85048
+550,Denver East,551,05:51.19,351.19,5/5/2018,1600 City Park Esplanade,Denver,CO,80206
+551,Broomfield,552,05:51.21,351.21,4/21/2018,1 Eagle Way,Broomfield,CO,80020
+552,Casa Grande,553,05:51.27,351.27,4/20/2018,2730 N Trekell Rd,Casa Grande,AZ,85222
+553,Maryvale,554,05:51.28,351.28,4/17/2018,3415 N 59 Ave,Phoenix,AZ,85033
+554,Pinnacle,555,05:51.33,351.33,3/23/2018,3535 E Mayo Blvd,Phoenix,AZ,85050
+555,Basalt,556,05:51.36,351.36,4/28/2018,600 Southside Dr,Basalt,CO,81621
+556,Coronado,557,05:51.45,351.45,4/19/2018,1590 W Fillmore St,Colorado Springs,CO,80904
+557,Durango,558,05:51.63,351.63,4/7/2018,2390 Main Ave,Durango,CO,81301
+558,Brush,559,05:51.65,351.65,5/5/2018,400 West Ave,Brush,CO,80723
+559,Valley Vista,560,05:51.71,351.71,3/10/2018,15550 W Parkview Pl,Surprise,AZ,85374
+560,Arvada West,561,05:51.74,351.74,5/5/2018,11325 Allendale Dr,Arvada,CO,80004
+561,Pueblo South,562,05:51.89,351.89,4/14/2018,1801 Hollywood Dr,Pueblo,CO,81005
+562,Lakeland Christian,563,05:51.90,351.9,2/24/2018,1111 Forest Park St,Lakeland,FL,33803
+563,Arcadia,564,05:51.91,351.90999999999997,4/23/2018,4703 E Indian School Rd,Phoenix,AZ,85018
+564,Glendale Prep Academy,565,05:51.93,351.93,4/25/2018,23276 N. 83rd Ave.,Glendale,AZ,85383
+565,Denver Christian,566,05:51.96,351.96,5/12/2018,3898 S. Teller St.,Lakewood,CO,
+566,Silver Creek,567,05:51.97,351.97,4/14/2018,4901 Nelson Rd,Longmont,CO,80503
+567,North Phoenix Preparatory Academy,568,05:51.98,351.98,4/21/2018,14100 N. 32nd St.,Phoenix,AZ,85032
+568,Xavier College Prep,569,05:52.00,352.0,3/28/2018,4710 N. 5Th St,Phoenix,AZ,85012
+569,Battle Mountain,570,05:52.15,352.15,4/12/2018,151 Miller Ranch Rd,Edwards,CO,81632
+570,Casa Grande,571,05:52.19,352.19,4/20/2018,2730 N Trekell Rd,Casa Grande,AZ,85222
+571,Regis Jesuit,572,05:52.27,352.27,4/7/2018,6400 S. Lewiston Way,Aurora,CO,80016
+572,Tuba City,573,05:52.35,352.35,3/23/2018,67 Fir Street,Tuba City,AZ,86045
+573,The Classical Academy,574,05:52.41,352.40999999999997,3/31/2018,975 Stout Rd,Colorado Springs,CO,80921
+574,Caprock Academy,575,05:52.44,352.44,4/21/2018,714 24 1/2 Rd,Grand Junction,CO,81505
+575,Basha,576,05:52.50,352.5,4/18/2018,5990 S Val Vista Dr,Chandler,AZ,85249
+576,Steamboat Springs,577,05:52.61,352.61,4/7/2018,45 E Maple Street,Steamboat Springs,CO,80487
+577,Prairie,578,05:52.62,352.62,3/17/2018,42315 W.C.R 133,New Raymer,CO,80742
+578,O'Connor,579,05:52.63,352.63,4/16/2018,25250 N 35th Ave,Phoenix,AZ,85083
+579,Pueblo West,580,05:52.72,352.72,5/5/2018,661 W. Capistrano Ave.,Pueblo West,CO,81007
+580,Silver Creek,581,05:52.72,352.72,3/31/2018,4901 Nelson Rd,Longmont,CO,80503
+581,Gilbert,582,05:52.78,352.78,4/13/2018,1101 E Elliot Rd,Gilbert,AZ,85234
+582,Hayden,583,05:52.80,352.8,4/27/2018,495 W Jefferson St,Hayden,CO,81639
+583,Lutheran,584,05:52.81,352.81,5/4/2018,11249 Newlin Gulch Blvd.,Parker,CO,80134
+584,Mountain View,585,05:52.85,352.85,3/31/2018,3500 Mountain Lion Dr,Loveland,CO,80537
+585,Mountain Range,586,05:52.88,352.88,4/28/2018,12500 Huron St,Westminster,CO,80234
+586,Chandler Prep,587,05:53.06,353.06,4/18/2018,1951 N Alma School Road,Chandler,AZ,85224
+587,Salida,588,05:53.07,353.07,3/24/2018,26 Jones Ave.,Salida,CO,81201
+588,Denver Christian,589,05:53.15,353.15,5/12/2018,3898 S. Teller St.,Lakewood,CO,
+589,Prescott,590,05:53.15,353.15,3/23/2018,1050 N Ruth St,Prescott,AZ,86301
+590,Hamilton,591,05:53.17,353.17,4/18/2018,3700 S. Arizona Ave,Chandler,AZ,85248
+591,Tolleson,592,05:53.19,353.19,3/2/2018,9419 W Van Buren,Tolleson,AZ,85353
+592,Xavier College Prep,593,05:53.22,353.22,4/20/2018,4710 N. 5Th St,Phoenix,AZ,85012
+593,Regis Jesuit,594,05:53.32,353.32,4/7/2018,6400 S. Lewiston Way,Aurora,CO,80016
+594,ThunderRidge,595,05:53.34,353.34000000000003,5/5/2018,1991 Wildcat Reserve Pkwy,Highlands Ranch,CO,80129
+595,Sunrise Mountain,596,05:53.34,353.34000000000003,3/23/2018,21200 N 83Rd Ave,Peoria,AZ,85382
+596,Aspen,597,05:53.36,353.36,4/7/2018,235 High School Rd,Aspen,CO,81611
+597,Flagstaff,598,05:53.47,353.47,3/30/2018,400 W Elm,Flagstaff,AZ,86001
+598,Broomfield,599,05:53.50,353.5,4/21/2018,1 Eagle Way,Broomfield,CO,80020
+599,Skyline,600,05:53.58,353.58,3/2/2018,845 S Crismon Road,Mesa,AZ,85208
+600,Mountain Pointe,601,05:53.59,353.59000000000003,3/9/2018,4201 E Knox Rd,Phoenix,AZ,85044
+601,Ralston Valley,602,05:53.60,353.6,5/5/2018,13355 W 80Th Ave,Arvada,CO,80005
+602,Valor Christian,603,05:53.65,353.65,5/11/2018,3775 E. Grace Boulevard,Highlands Ranch,CO,80126
+603,Glendale,604,05:53.75,353.75,4/6/2018,6216 W Glendale Ave,Glendale,AZ,85301
+604,Flagstaff,605,05:53.82,353.82,4/14/2018,400 W Elm,Flagstaff,AZ,86001
+605,Boulder,606,05:53.84,353.84000000000003,5/4/2018,1604 Arapahoe Ave,Boulder,CO,80302
+606,Queen Creek,607,05:53.85,353.85,4/20/2018,22149 E Ocotillo Rd,Queen Creek,AZ,85242
+607,Niwot,608,05:53.99,353.99,4/21/2018,8989 E Niwot Rd,Niwot,CO,80503
+608,Palmer,609,05:54.06,354.06,4/21/2018,301 N NEvada Ave,Colorado Springs,CO,80903
+609,Fairview,610,05:54.06,354.06,5/4/2018,1515 Greenbriar Blvd,Boulder,CO,80305
+610,Arvada West,611,05:54.11,354.11,5/5/2018,11325 Allendale Dr,Arvada,CO,80004
+611,Fruita Monument,612,05:54.12,354.12,5/5/2018,1102 Wildcat Ave,Fruita,CO,81521
+612,Saguaro,613,05:54.13,354.13,3/9/2018,6250 N 82Nd St,Scottsdale,AZ,85250
+613,Desert Vista,614,05:54.21,354.21,3/9/2018,16440 S 32Nd St,Phoenix,AZ,85048
+614,Chatfield,615,05:54.22,354.22,3/21/2018,7227 S Simms St,Littleton,CO,80127
+615,Valley Lutheran,616,05:54.27,354.27,4/14/2018,5199 N 7Th Ave,Phoenix,AZ,85013
+616,Bisbee,617,05:54.32,354.32,3/17/2018,675 School Terrace Rd.,Bisbee,AZ,85603
+617,Chaparral,618,05:54.38,354.38,5/5/2018,15655 Brookstone Dr,Parker,CO,80134
+618,Mingus,619,05:54.40,354.4,4/25/2018,1801 E Fir St,Cottonwood,AZ,86326
+619,Casteel,620,05:54.48,354.48,4/20/2018,24901 South Power Road,Queen Creek,AZ,85142
+620,Santa Fe,621,05:54.59,354.59000000000003,3/23/2018,2100 Yucca Rd,Santa Fe,NM,87505
+621,Northwest Christian,622,05:54.61,354.61,3/23/2018,16401 N 43Rd Ave,Phoenix,AZ,85053
+622,Rampart,623,05:54.63,354.63,4/21/2018,8250 Lexington Dr,Colorado Springs,CO,80920
+623,Millennium,624,05:54.65,354.65,4/19/2018,14802 W Wigwam Blvd,Goodyear,AZ,85338
+624,Skyline,625,05:54.65,354.65,3/23/2018,845 S Crismon Road,Mesa,AZ,85208
+625,Cibola,626,05:54.76,354.76,4/20/2018,4100 W 20Th St,Yuma,AZ,85364
+626,Benjamin Franklin,627,05:54.87,354.87,4/6/2018,18864 E Germann Rd,Queen Creek,AZ,85142
+627,Arapahoe,628,05:54.90,354.9,5/3/2018,2201 E Dry Creek Rd,Centennial,CO,80122
+628,Mountain Pointe,629,05:54.96,354.96,4/19/2018,4201 E Knox Rd,Phoenix,AZ,85044
+629,Lyons,630,05:55.08,355.08,5/11/2018,100 McConnell Dr,Lyons,CO,80540
+630,Niwot,631,05:55.15,355.15,4/21/2018,8989 E Niwot Rd,Niwot,CO,80503
+631,Sunrise Mountain,632,05:55.22,355.22,3/10/2018,21200 N 83Rd Ave,Peoria,AZ,85382
+632,Rampart,633,05:55.24,355.24,5/5/2018,8250 Lexington Dr,Colorado Springs,CO,80920
+633,Grandview,634,05:55.24,355.24,3/24/2018,20500 E Arapahoe Rd,Aurora,CO,80016
+634,Sheridan,635,05:55.29,355.29,4/3/2018,3201 W Oxford Ave,Denver,CO,80236
+635,Campo Verde,636,05:55.33,355.33,4/20/2018,3870 S Quartz St,Gilbert,AZ,85297
+636,Legacy,637,05:55.34,355.34000000000003,5/4/2018,2701 W 136Th Ave,Broomfield,CO,80023
+637,Skyline,638,05:55.35,355.35,3/23/2018,845 S Crismon Road,Mesa,AZ,85208
+638,Plateau Valley,639,05:55.36,355.36,4/20/2018,56600 Hwy 330,Collbran,CO,81624
+639,Sand Creek,640,05:55.39,355.39,5/5/2018,7005 N Carefree Cir,Colorado Springs,CO,80922
+640,Highland,641,05:55.39,355.39,3/23/2018,4301 E Guadalupe Rd,Gilbert,AZ,85234
+641,McClintock,642,05:55.41,355.40999999999997,4/13/2018,1830 E Del Rio Dr,Tempe,AZ,85282
+642,Bradshaw Mountain,643,05:55.44,355.44,3/23/2018,6000 E Long Look Dr,Prescott Valley,AZ,86314
+643,Corona del Sol,644,05:55.47,355.47,3/9/2018,1001 E Knox Rd,Tempe,AZ,85284
+644,Center,645,05:55.47,355.47,5/12/2018,550 South Sylvester Ave,Center,CO,81125
+645,Skyline,646,05:55.51,355.51,4/20/2018,845 S Crismon Road,Mesa,AZ,85208
+646,Arapahoe,647,05:55.53,355.53,4/28/2018,2201 E Dry Creek Rd,Centennial,CO,80122
+647,Rock Canyon,648,05:55.55,355.55,4/28/2018,5810 Mcarthur Ranch Rd,Highlands Ranch,CO,80124
+648,Liberty,649,05:55.57,355.57,4/17/2018,9621 W Speckled Gecko Dr,Peoria,AZ,85383
+649,Salpointe Catholic,650,05:55.72,355.72,3/23/2018,1545 E Copper St,Tucson,AZ,85719
+650,Dakota Ridge,651,05:55.78,355.78,4/12/2018,13399 W Coal Mine Ave,Littleton,CO,80127
+651,Millennium,652,05:55.80,355.8,3/23/2018,14802 W Wigwam Blvd,Goodyear,AZ,85338
+652,Ganado,653,05:55.82,355.82,4/20/2018,PO Box 1757,Ganado,AZ,86505
+653,Rock Canyon,654,05:55.84,355.84000000000003,5/5/2018,5810 Mcarthur Ranch Rd,Highlands Ranch,CO,80124
+654,Summit,655,05:55.84,355.84000000000003,4/7/2018,16201 Us Hwy 9,Frisco,CO,80443
+655,Plateau Valley,656,05:55.87,355.87,4/20/2018,56600 Hwy 330,Collbran,CO,81624
+656,Holbrook,657,05:55.96,355.96,4/20/2018,455 N 8Th Ave,Holbrook,AZ,86025
+657,St. Michael,658,05:56.03,356.03,3/30/2018,1 Lupton Rd.,St. Michaels,AZ,86511
+658,Seton Catholic,659,05:56.07,356.07,4/7/2018,1150 N Dobson Rd,Chandler,AZ,85032
+659,Fossil Ridge,660,05:56.09,356.09000000000003,4/27/2018,5400 Ziegler Rd,Fort Collins,CO,80528
+660,Desert Ridge,661,05:56.12,356.12,4/13/2018,10045 E Madero Ave,Mesa,AZ,85212
+661,Pagosa Springs,662,05:56.15,356.15,5/12/2018,800 South 8th Street,Pagosa Springs,CO,81147
+662,Fountain-Fort Carson,663,05:56.17,356.17,4/14/2018,900 Jimmy Camp Rd,Fountain,CO,80817
+663,Scottsdale Preparatory Academy,664,05:56.17,356.17,2/24/2018,16537 N. 92nd St,Scottsdale,AZ,85260
+664,Corona del Sol,665,05:56.20,356.2,3/3/2018,1001 E Knox Rd,Tempe,AZ,85284
+665,Youngker,666,05:56.31,356.31,3/28/2018,3000 S Apache,Buckeye,AZ,85326
+666,Chandler Prep,667,05:56.35,356.35,4/18/2018,1951 N Alma School Road,Chandler,AZ,85224
+667,Valley Christian,668,05:56.42,356.42,4/5/2018,6900 W Galveston,Chandler,AZ,85226
+668,Merino,669,05:56.42,356.42,5/11/2018,315 Lee,Merino,CO,80741
+669,Alamosa,670,05:56.44,356.44,5/4/2018,805 Craft Dr,Alamosa,CO,81101
+670,Greenway,671,05:56.44,356.44,3/9/2018,3930 W Greenway Rd,Phoenix,AZ,85053
+671,Berthoud,672,05:56.52,356.52,5/11/2018,850 Spartan Ave,Berthoud,CO,80513
+672,Montrose,673,05:56.68,356.68,5/5/2018,600 South Selig Avenue,Montrose,CO,81401
+673,American Leadership Academy,674,05:56.74,356.74,3/23/2018,23908 S Hawes Rd,Queen Creek,AZ,85142
+674,Perry,675,05:56.79,356.79,4/14/2018,1919 E Queen Creek Rd,Gilbert,AZ,85297
+675,Red Mountain,676,05:56.82,356.82,4/20/2018,7301 E Brown Rd,Mesa,AZ,85207
+676,Corona del Sol,677,05:56.83,356.83,3/28/2018,1001 E Knox Rd,Tempe,AZ,85284
+677,Mountain Vista,678,05:56.85,356.85,4/21/2018,10585 Mountain Vista Ridge,Highlands Ranch,CO,80126
+678,Primero,679,05:56.90,356.9,5/19/2018,20200 State Hwy 12,Weston,CO,81091
+679,Brighton,680,05:56.91,356.90999999999997,4/14/2018,360 S 8Th Ave,Brighton,CO,80601
+680,Dakota Ridge,681,05:56.94,356.94,5/5/2018,13399 W Coal Mine Ave,Littleton,CO,80127
+681,Battle Mountain,682,05:57.09,357.09000000000003,3/16/2018,151 Miller Ranch Rd,Edwards,CO,81632
+682,Xavier College Prep,683,05:57.12,357.12,3/28/2018,4710 N. 5Th St,Phoenix,AZ,85012
+683,Mountain Vista,684,05:57.14,357.14,5/5/2018,10585 Mountain Vista Ridge,Highlands Ranch,CO,80126
+684,Poston Butte,685,05:57.20,357.2,3/23/2018,32375 N Gantzel Rd,San Tan Valley,AZ,85243
+685,Conifer,686,05:57.26,357.26,5/5/2018,10441 County Hwy 73,Conifer,CO,80433
+686,Fort Collins,687,05:57.37,357.37,3/20/2018,3400 Lambkin Wy,Fort Collins,CO,80525
+687,St. Mary's,688,05:57.40,357.4,3/28/2018,2525 N. 3rd St.,Phoenix,AZ,85004
+688,Desert Vista,689,05:57.41,357.40999999999997,4/19/2018,16440 S 32Nd St,Phoenix,AZ,85048
+689,Glenwood Springs,690,05:57.44,357.44,4/28/2018,1521 Grand Ave,Glenwood Springs,CO,81601
+690,Loveland,691,05:57.48,357.48,4/26/2018,920 W 29Th St,Loveland,CO,80538
+691,Kofa,692,05:57.48,357.48,3/10/2018,3100 S Ave A,Yuma,AZ,85364
+692,Durango,693,05:57.50,357.5,5/5/2018,2390 Main Ave,Durango,CO,81301
+693,Glendale Prep Academy,694,05:57.58,357.58,4/21/2018,23276 N. 83rd Ave.,Glendale,AZ,85383
+694,Cibola,695,05:57.74,357.74,3/17/2018,4100 W 20Th St,Yuma,AZ,85364
+695,Liberty Common,696,05:57.75,357.75,5/11/2018,2745 Minnesota Dr.,Fort Collins,CO,80525
+696,Albuquerque Academy,697,05:57.79,357.79,3/23/2018,6400 Wyoming Blvd NE,Albuquerque,NM,87109
+697,Red Mountain,698,05:57.87,357.87,4/13/2018,7301 E Brown Rd,Mesa,AZ,85207
+698,Littleton,699,05:57.91,357.90999999999997,4/28/2018,199 E Littleton Blvd,Littleton,CO,80121
+699,Greeley Central,700,05:57.98,357.98,4/21/2018,1515 14th Ave,Greeley,CO,80631
+700,Fort Collins,701,05:57.98,357.98,4/10/2018,3400 Lambkin Wy,Fort Collins,CO,80525
+701,Valor Christian,702,05:58.04,358.04,3/17/2018,3775 E. Grace Boulevard,Highlands Ranch,CO,80126
+702,Horizon,703,05:58.15,358.15,4/23/2018,5601 E Greenway Rd,Scottsdale,AZ,85254
+703,The Classical Academy,704,05:58.16,358.15999999999997,4/12/2018,975 Stout Rd,Colorado Springs,CO,80921
+704,Lamar,705,05:58.23,358.23,5/4/2018,1900 S 11Th St,Lamar,CO,81052
+705,Rangeview,706,05:58.33,358.33,5/3/2018,17599 E Iliff Ave,Aurora,CO,80013
+706,Eaton,707,05:58.34,358.34000000000003,5/5/2018,114 Park Ave,Eaton,CO,80615
+707,Chandler Prep,708,05:58.37,358.37,3/3/2018,1951 N Alma School Road,Chandler,AZ,85224
+708,Liberty Common,709,05:58.50,358.5,3/23/2018,2745 Minnesota Dr.,Fort Collins,CO,80525
+709,Liberty,710,05:58.60,358.6,4/17/2018,9621 W Speckled Gecko Dr,Peoria,AZ,85383
+710,Pomona,711,05:58.63,358.63,5/5/2018,8101 W Pomona Dr,Arvada,CO,80005
+711,Steamboat Springs,712,05:58.64,358.64,4/14/2018,45 E Maple Street,Steamboat Springs,CO,80487
+712,Peetz,713,05:58.69,358.69,5/5/2018,311 Coleman,Peetz,CO,80747
+713,Basha,714,05:58.83,358.83,4/20/2018,5990 S Val Vista Dr,Chandler,AZ,85249
+714,Window Rock,715,05:58.85,358.85,4/20/2018,Navajo Route No. 7,Fort Defiance,AZ,86504
+715,Heritage,716,05:58.86,358.86,5/5/2018,1401 W Geddes Ave,Littleton,CO,80120
+716,Chaparral,717,05:58.93,358.93,5/12/2018,15655 Brookstone Dr,Parker,CO,80134
+717,Chinle,718,05:58.95,358.95,4/20/2018,Hwy. 191 and Navajo Route 7,Chinle,AZ,86503
+718,Erie,719,05:58.98,358.98,5/5/2018,3180 County Road 5,Erie,CO,80516
+719,Cheyenne Mountain,720,05:59.05,359.05,5/5/2018,1200 Cresta Rd,Colorado Springs,CO,80906
+720,Denver North,721,05:59.08,359.08,4/14/2018,2960 N Speer Blvd,Denver,CO,80211
+721,Monarch,722,05:59.10,359.1,3/17/2018,329 Campus Dr,Louisville,CO,80027
+722,Pomona,723,05:59.16,359.15999999999997,5/5/2018,8101 W Pomona Dr,Arvada,CO,80005
+723,Saguaro,724,05:59.17,359.17,3/29/2018,6250 N 82Nd St,Scottsdale,AZ,85250
+724,Lyons,725,05:59.18,359.18,5/11/2018,100 McConnell Dr,Lyons,CO,80540
+725,Westview,726,05:59.20,359.2,4/6/2018,10850 W Garden Lakes Pkwy,Avondale,AZ,85323
+726,Rock Canyon,727,05:59.45,359.45,3/17/2018,5810 Mcarthur Ranch Rd,Highlands Ranch,CO,80124
+727,Perry,728,05:59.50,359.5,4/14/2018,1919 E Queen Creek Rd,Gilbert,AZ,85297
+728,San Manuel,729,05:59.55,359.55,3/10/2018,711 McNab Parkway,San Manuel,AZ,85631
+729,Perry,730,05:59.56,359.56,4/14/2018,1919 E Queen Creek Rd,Gilbert,AZ,85297
+730,Gunnison,731,05:59.58,359.58,5/5/2018,800 W Ohio Ave,Gunnison,CO,81230
+731,Rincon/University,732,05:59.60,359.6,3/17/2018,421 N Arcadia Blvd,Tucson,AZ,85711
+732,Nederland,733,05:59.62,359.62,5/5/2018,597 Eldora Rd,Nederland,CO,80466
+733,Holbrook,734,05:59.69,359.69,4/25/2018,455 N 8Th Ave,Holbrook,AZ,86025
+734,Cherokee Trail,735,05:59.70,359.7,3/22/2018,25901 E Arapahoe Pkwy N,Aurora,CO,80016
+735,SkyView Academy,736,05:59.76,359.76,4/28/2018,6161 Business Center Drive,Highlands Ranch,CO,80130
+736,North Canyon,737,05:59.77,359.77,2/24/2018,1700 E Union Hills Dr,Phoenix,AZ,85024
+737,Mesa,738,05:59.80,359.8,3/9/2018,1630 E Southern Ave,Mesa,AZ,85204
+738,Gila Ridge,739,05:59.90,359.9,3/27/2018,7150 East 24th Street,Yuma,AZ,85365
+739,Lyons,740,05:59.95,359.95,3/22/2018,100 McConnell Dr,Lyons,CO,80540
+740,Palmer Ridge,741,06:00.06,360.06,3/24/2018,19255 Monument Hill Rd,Monument,CO,80132
+741,Heritage Christian,742,06:00.07,360.07,5/19/2018,2506 Zurich Dr,Fort Collins,CO,80524
+742,Palmer Ridge,743,06:00.12,360.12,4/7/2018,19255 Monument Hill Rd,Monument,CO,80132
+743,Ganado,744,06:00.12,360.12,4/6/2018,PO Box 1757,Ganado,AZ,86505
+744,Sand Creek,745,06:00.19,360.19,5/5/2018,7005 N Carefree Cir,Colorado Springs,CO,80922
+745,Shadow Mountain,746,06:00.28,360.28,4/18/2018,2902 E Shea Blvd,Phoenix,AZ,85028
+746,Cesar Chavez,747,06:00.41,360.41,4/5/2018,3921 W Baseline Rd,Laveen,AZ,85339
+747,Tolleson,748,06:00.45,360.45,4/18/2018,9419 W Van Buren,Tolleson,AZ,85353
+748,Perry,749,06:00.45,360.45,4/18/2018,1919 E Queen Creek Rd,Gilbert,AZ,85297
+749,Palmer,750,06:00.46,360.46,5/4/2018,301 N NEvada Ave,Colorado Springs,CO,80903
+750,Cesar Chavez,751,06:00.47,360.47,3/2/2018,3921 W Baseline Rd,Laveen,AZ,85339
+751,The Classical Academy,752,06:00.51,360.51,5/10/2018,975 Stout Rd,Colorado Springs,CO,80921
+752,Window Rock,753,06:00.53,360.53,3/30/2018,Navajo Route No. 7,Fort Defiance,AZ,86504
+753,Boulder,754,06:00.56,360.56,5/4/2018,1604 Arapahoe Ave,Boulder,CO,80302
+754,Chaparral,755,06:00.59,360.59,3/3/2018,6935 E. Gold Dust Ave,Scottsdale,AZ,85253
+755,The Vanguard School,756,06:00.65,360.65,3/17/2018,1605 South Corona Ave.,Colorado Springs,CO,80905
+756,Fruita Monument,757,06:00.75,360.75,4/20/2018,1102 Wildcat Ave,Fruita,CO,81521
+757,Central,758,06:00.76,360.76,4/17/2018,4525 N Central Ave,Phoenix,AZ,85012
+758,Boulder,759,06:00.88,360.88,3/21/2018,1604 Arapahoe Ave,Boulder,CO,80302
+759,Chatfield,760,06:00.88,360.88,4/6/2018,7227 S Simms St,Littleton,CO,80127
+760,Elizabeth,761,06:00.90,360.9,3/31/2018,34500 County Road 13,Elizabeth,CO,80107
+761,Saguaro,762,06:00.92,360.92,4/23/2018,6250 N 82Nd St,Scottsdale,AZ,85250
+762,Winslow,763,06:00.92,360.92,3/9/2018,600 East Cherry St.,Winslow,AZ,86047
+763,Estes Park,764,06:00.93,360.93,4/26/2018,1600 Manford Ave,Estes Park,CO,80517
+764,Queen Creek,765,06:00.95,360.95,4/20/2018,22149 E Ocotillo Rd,Queen Creek,AZ,85242
+765,Cedaredge,766,06:00.96,360.96,4/7/2018,575 SE Deer Creek Dr,Cedaredge,CO,81413
+766,Highland,767,06:00.96,360.96,4/21/2018,4301 E Guadalupe Rd,Gilbert,AZ,85234
+767,Lewis-Palmer,768,06:00.96,360.96,5/4/2018,1300 Higby Rd,Monument,CO,80132
+768,Ironwood,769,06:00.99,360.99,4/17/2018,6051 W SWeetwater,Glendale,AZ,85304
+769,Cactus Shadows,770,06:01.03,361.03,3/10/2018,5802 E Dove Valley Rd,Cave Creek,AZ,85327
+770,Hamilton,771,06:01.05,361.05,3/9/2018,3700 S. Arizona Ave,Chandler,AZ,85248
+771,Mancos,772,06:01.06,361.06,4/20/2018,355 W Grand Ave,Mancos,CO,81328
+772,Boulder,773,06:01.07,361.07,4/21/2018,1604 Arapahoe Ave,Boulder,CO,80302
+773,Fairview,774,06:01.11,361.11,3/10/2018,1515 Greenbriar Blvd,Boulder,CO,80305
+774,Boulder,775,06:01.16,361.16,5/4/2018,1604 Arapahoe Ave,Boulder,CO,80302
+775,Catalina Foothills,776,06:01.18,361.18,4/17/2018,4300 E Sunrise Dr,Tucson,AZ,85718
+776,Salpointe Catholic,777,06:01.19,361.19,4/4/2018,1545 E Copper St,Tucson,AZ,85719
+777,Lake Havasu,778,06:01.24,361.24,3/3/2018,2675 S. Palo Verde,Lake Havasu City,AZ,86403
+778,Palmer Ridge,779,06:01.25,361.25,5/5/2018,19255 Monument Hill Rd,Monument,CO,80132
+779,Camelback,780,06:01.36,361.36,4/17/2018,4612 N 28Th St,Phoenix,AZ,85016
+780,St. Michael,781,06:01.41,361.41,4/20/2018,1 Lupton Rd.,St. Michaels,AZ,86511
+781,Flagstaff,782,06:01.42,361.42,4/20/2018,400 W Elm,Flagstaff,AZ,86001
+782,Air Academy,783,06:01.44,361.44,3/31/2018,6910 Carlton Dr,US Air Force Academy,CO,80840
+783,D'Evelyn,784,06:01.45,361.45,4/28/2018,10359 W Nassau Ave,Denver,CO,80235
+784,Brush,785,06:01.46,361.46,4/13/2018,400 West Ave,Brush,CO,80723
+785,Casa Grande,786,06:01.47,361.47,3/9/2018,2730 N Trekell Rd,Casa Grande,AZ,85222
+786,Bradshaw Mountain,787,06:01.61,361.61,2/24/2018,6000 E Long Look Dr,Prescott Valley,AZ,86314
+787,Chandler,788,06:01.68,361.68,4/5/2018,350 N Arizona Ave,Chandler,AZ,85225
+788,Basalt,789,06:01.78,361.78,5/5/2018,600 Southside Dr,Basalt,CO,81621
+789,Maricopa,790,06:01.86,361.86,4/13/2018,45012 W Honeycutt Ave,Maricopa,AZ,85239
+790,Mountain Pointe,791,06:01.89,361.89,4/5/2018,4201 E Knox Rd,Phoenix,AZ,85044
+791,Skyline,792,06:01.98,361.98,3/10/2018,845 S Crismon Road,Mesa,AZ,85208
+792,Rock Canyon,793,06:02.00,362.0,3/31/2018,5810 Mcarthur Ranch Rd,Highlands Ranch,CO,80124
+793,Westover,794,06:02.03,362.03,3/8/2018,277 Bonanza Dr,Fayetteville,NC,28303
+794,Aztec,795,06:02.07,362.07,3/23/2018,500 E Chaco,Aztec,NM,87410
+795,Agua Fria,796,06:02.11,362.11,3/3/2018,530 E Riley Dr.,Avondale,AZ,85323
+796,Thomas Jefferson,797,06:02.15,362.15,5/4/2018,3950 S Holly St,Denver,CO,80237
+797,Regis Jesuit,798,06:02.25,362.25,4/7/2018,6400 S. Lewiston Way,Aurora,CO,80016
+798,Eaglecrest,799,06:02.31,362.31,4/28/2018,5100 S Picadilly St,Centennial,CO,80015
+799,Flowing Wells,800,06:02.34,362.34,4/6/2018,3725 N Flowing Wells Rd,Tucson,AZ,85705
+800,Monarch,801,06:02.52,362.52,3/21/2018,329 Campus Dr,Louisville,CO,80027
+801,Hinkley,802,06:02.57,362.57,5/3/2018,1250 Chambers Rd,Aurora,CO,80011
+802,Ralston Valley,803,06:02.59,362.59,4/26/2018,13355 W 80Th Ave,Arvada,CO,80005
+803,Dakota Ridge,804,06:02.62,362.62,4/12/2018,13399 W Coal Mine Ave,Littleton,CO,80127
+804,Buena,805,06:02.65,362.65,3/2/2018,5225 Buena School Blvd,Sierra Vista,AZ,85635
+805,Pueblo Centennial,806,06:02.65,362.65,4/6/2018,2525 Mountview Dr,Pueblo,CO,81008
+806,Cienega,807,06:02.67,362.67,3/10/2018,12775 E. Mary Cleveland Way,Vail,AZ,85641
+807,Rampart,808,06:02.69,362.69,4/7/2018,8250 Lexington Dr,Colorado Springs,CO,80920
+808,Tempe,809,06:02.73,362.73,3/23/2018,1730 S Mill Ave,Tempe,AZ,85281
+809,Trivium Prep,810,06:02.80,362.8,4/6/2018,2001 N. Bullard Ave,Goodyear,AZ,85395
+810,Flagstaff,811,06:02.90,362.9,4/24/2018,400 W Elm,Flagstaff,AZ,86001
+811,Pinnacle,812,06:02.92,362.92,3/29/2018,3535 E Mayo Blvd,Phoenix,AZ,85050
+812,Lakeland Christian,813,06:02.96,362.96,2/16/2018,1111 Forest Park St,Lakeland,FL,33803
+813,Elizabeth,814,06:02.98,362.98,5/4/2018,34500 County Road 13,Elizabeth,CO,80107
+814,Mountain Vista,815,06:02.99,362.99,5/5/2018,10585 Mountain Vista Ridge,Highlands Ranch,CO,80126
+815,Moon Valley,816,06:03.05,363.05,4/18/2018,3625 W Cactus Rd,Phoenix,AZ,85029
+816,Heritage,817,06:03.07,363.07,4/6/2018,1401 W Geddes Ave,Littleton,CO,80120
+817,River Valley,818,06:03.14,363.14,4/18/2018,2250 Laguna Rd,Mohave Valley,AZ,86440
+818,Rangely,819,06:03.17,363.17,4/21/2018,234 S Jones Ave,Rangely,CO,81648
+819,Palmer,820,06:03.17,363.17,4/6/2018,301 N NEvada Ave,Colorado Springs,CO,80903
+820,McClintock,821,06:03.20,363.2,4/19/2018,1830 E Del Rio Dr,Tempe,AZ,85282
+821,Maryvale,822,06:03.20,363.2,4/17/2018,3415 N 59 Ave,Phoenix,AZ,85033
+822,Vista Ridge,823,06:03.23,363.23,5/11/2018,6888 Black Forest Rd,Colorado Springs,CO,80922
+823,La Junta,824,06:03.26,363.26,5/11/2018,1817 Smithland,La Junta,CO,81050
+824,Clear Creek,825,06:03.28,363.28,5/5/2018,185 Beaver Brook Canyon Rd,Evergreen,CO,80439
+825,Douglas County,826,06:03.30,363.3,4/28/2018,2842 Front St,Castle Rock,CO,80104
+826,Hamilton,827,06:03.39,363.39,3/2/2018,3700 S. Arizona Ave,Chandler,AZ,85248
+827,Columbine,828,06:03.41,363.41,5/10/2018,6201 S Pierce St,Littleton,CO,80123
+828,Castle View,829,06:03.41,363.41,5/12/2018,5254 N. Meadows Dr,Castle Rock,CO,80109
+829,Pima,830,06:03.47,363.47,4/24/2018,131 S Main,Pima,AZ,85543
+830,Gila Ridge,831,06:03.47,363.47,4/12/2018,7150 East 24th Street,Yuma,AZ,85365
+831,D'Evelyn,832,06:03.54,363.54,4/23/2018,10359 W Nassau Ave,Denver,CO,80235
+832,Pueblo Central,833,06:03.64,363.64,3/10/2018,216 E Orman Ave,Pueblo,CO,81004
+833,Evergreen,834,06:03.65,363.65,4/14/2018,29300 Buffalo Park Rd,Evergreen,CO,80439
+834,Cibola,835,06:03.69,363.69,3/17/2018,4100 W 20Th St,Yuma,AZ,85364
+835,Carl Hayden Community,836,06:03.69,363.69,3/10/2018,3333 W Roosevelt St,Phoenix,AZ,85292
+836,Fort Collins,837,06:03.70,363.7,5/4/2018,3400 Lambkin Wy,Fort Collins,CO,80525
+837,Grand Junction,838,06:03.71,363.71,4/7/2018,1400 N 5Th St,Grand Junction,CO,81501
+838,Centaurus,839,06:03.80,363.8,3/24/2018,10300 S Boulder Rd,Lafayette,CO,80026
+839,Cherry Creek,840,06:03.81,363.81,5/3/2018,9300 E Union Ave,Greenwood Village,CO,80111
+840,Sunnyslope,841,06:03.84,363.84,4/18/2018,35 W Dunlap Ave,Phoenix,AZ,85021
+841,Glenwood Springs,842,06:04.00,364.0,4/20/2018,1521 Grand Ave,Glenwood Springs,CO,81601
+842,Heritage Christian,843,06:04.05,364.05,4/21/2018,2506 Zurich Dr,Fort Collins,CO,80524
+843,Sahuarita,844,06:04.25,364.25,3/23/2018,350 W Sahuarita Rd,Sahuarita,AZ,85629
+844,Arapahoe,845,06:04.28,364.28,4/6/2018,2201 E Dry Creek Rd,Centennial,CO,80122
+845,Valley,846,06:04.29,364.29,5/5/2018,1001 Birch Street,Gilcrest,CO,80623
+846,Fowler,847,06:04.39,364.39,4/23/2018,600 West Grant,Fowler,CO,81039
+847,Valor Christian,848,06:04.42,364.42,3/24/2018,3775 E. Grace Boulevard,Highlands Ranch,CO,80126
+848,Winslow,849,06:04.44,364.44,4/20/2018,600 East Cherry St.,Winslow,AZ,86047
+849,Desert Mountain,850,06:04.47,364.47,4/6/2018,12575 E Via Linda,Scottsdale,AZ,85259
+850,Navajo Prep,851,06:04.47,364.47,3/23/2018,1220 W Apache,Farmington,NM,87401
+851,Thunderbird,852,06:04.49,364.49,4/18/2018,1750 W Thunderbird Rd,Phoenix,AZ,85023
+852,Centaurus,853,06:04.50,364.5,5/5/2018,10300 S Boulder Rd,Lafayette,CO,80026
+853,Arcadia,854,06:04.64,364.64,4/23/2018,4703 E Indian School Rd,Phoenix,AZ,85018
+854,Washington,855,06:04.69,364.69,4/18/2018,2217 W Glendale Ave,Phoenix,AZ,85021
+855,Palmer Ridge,856,06:04.81,364.81,5/5/2018,19255 Monument Hill Rd,Monument,CO,80132
+856,Falcon,857,06:04.85,364.85,5/10/2018,10255 Lambert Rd,Falcon,CO,80831
+857,Poudre,858,06:04.89,364.89,5/12/2018,201 Impala Dr,Fort Collins,CO,80521
+858,Longmont,859,06:04.97,364.97,4/27/2018,1040 Sunset St,Longmont,CO,80501
+859,Marana,860,06:04.99,364.99,3/2/2018,12000 W Emigh Rd,Tucson,AZ,85743
+860,Centaurus,861,06:05.01,365.01,5/5/2018,10300 S Boulder Rd,Lafayette,CO,80026
+861,Glenwood Springs,862,06:05.09,365.09,4/28/2018,1521 Grand Ave,Glenwood Springs,CO,81601
+862,Legacy,863,06:05.20,365.2,3/24/2018,2701 W 136Th Ave,Broomfield,CO,80023
+863,Liberty,864,06:05.22,365.22,3/3/2018,9621 W Speckled Gecko Dr,Peoria,AZ,85383
+864,Mountain View,865,06:05.22,365.22,4/13/2018,2700 E Brown Rd,Mesa,AZ,85213
+865,Many Farms,866,06:05.26,365.26,4/20/2018,PO Box 307,Many Farms,AZ,86538
+866,Sargent,867,06:05.26,365.26,4/23/2018,7090 N Rd 2 E,Monte Vista,CO,81144
+867,American Leadership Academy,868,06:05.31,365.31,4/20/2018,23908 S Hawes Rd,Queen Creek,AZ,85142
+868,Page,869,06:05.37,365.37,4/14/2018,434 Lake Powell Blvd,Page,AZ,86040
+869,Horizon,870,06:05.43,365.43,3/21/2018,5321 E 136Th Ave,Thornton,CO,80602
+870,Pueblo East,871,06:05.66,365.66,4/13/2018,9 Macneil Rd,Pueblo,CO,81001
+871,Mountain View,872,06:05.86,365.86,3/23/2018,2700 E Brown Rd,Mesa,AZ,85213
+872,North Canyon,873,06:05.90,365.9,3/3/2018,1700 E Union Hills Dr,Phoenix,AZ,85024
+873,Eagle Valley,874,06:05.91,365.91,4/21/2018,641 Valley Road,Gypsum,CO,81637
+874,Desert Mountain,875,06:06.06,366.06,4/6/2018,12575 E Via Linda,Scottsdale,AZ,85259
+875,Gunnison,876,06:06.16,366.16,4/3/2018,800 W Ohio Ave,Gunnison,CO,81230
+876,Liberty,877,06:06.19,366.19,4/7/2018,9621 W Speckled Gecko Dr,Peoria,AZ,85383
+877,Palmer,878,06:06.21,366.21,5/10/2018,301 N NEvada Ave,Colorado Springs,CO,80903
+878,Chinle,879,06:06.26,366.26,4/25/2018,Hwy. 191 and Navajo Route 7,Chinle,AZ,86503
+879,Palmer Ridge,880,06:06.28,366.28,4/13/2018,19255 Monument Hill Rd,Monument,CO,80132
+880,Lake Havasu,881,06:06.29,366.29,3/24/2018,2675 S. Palo Verde,Lake Havasu City,AZ,86403
+881,Skyview,882,06:06.32,366.32,3/22/2018,8990 York St,Thornton,CO,80229
+882,Skyline,883,06:06.33,366.33,3/23/2018,845 S Crismon Road,Mesa,AZ,85208
+883,Catalina Foothills,884,06:06.34,366.34,4/17/2018,4300 E Sunrise Dr,Tucson,AZ,85718
+884,Westwood,885,06:06.37,366.37,3/9/2018,945 W Rio Salado,Mesa,AZ,85201
+885,Higley,886,06:06.38,366.38,3/23/2018,4068 E Pecos Dr,Gilbert,AZ,85297
+886,Holy Family,887,06:06.40,366.4,4/14/2018,5195 W 144Th Ave,Broomfield,CO,80020
+887,Dakota Ridge,888,06:06.41,366.41,4/14/2018,13399 W Coal Mine Ave,Littleton,CO,80127
+888,Chaparral,889,06:06.42,366.42,2/24/2018,6935 E. Gold Dust Ave,Scottsdale,AZ,85253
+889,Hamilton,890,06:06.46,366.46,4/18/2018,3700 S. Arizona Ave,Chandler,AZ,85248
+890,Tucson High Magnet School,891,06:06.48,366.48,3/17/2018,400 N 2Nd Ave,Tucson,AZ,85705
+891,Denver East,892,06:06.59,366.59,3/22/2018,1600 City Park Esplanade,Denver,CO,80206
+892,Holbrook,893,06:06.59,366.59,4/20/2018,455 N 8Th Ave,Holbrook,AZ,86025
+893,The Vanguard School,894,06:06.62,366.62,5/4/2018,1605 South Corona Ave.,Colorado Springs,CO,80905
+894,Coronado,895,06:06.63,366.63,5/4/2018,1590 W Fillmore St,Colorado Springs,CO,80904
+895,Pinnacle,896,06:06.69,366.69,4/18/2018,3535 E Mayo Blvd,Phoenix,AZ,85050
+896,Erie,897,06:06.69,366.69,4/14/2018,3180 County Road 5,Erie,CO,80516
+897,Douglas County,898,06:06.79,366.79,5/12/2018,2842 Front St,Castle Rock,CO,80104
+898,Chinle,899,06:06.81,366.81,4/20/2018,Hwy. 191 and Navajo Route 7,Chinle,AZ,86503
+899,Chandler Prep,900,06:06.82,366.82,4/14/2018,1951 N Alma School Road,Chandler,AZ,85224
+900,Grandview,901,06:06.83,366.83,5/3/2018,20500 E Arapahoe Rd,Aurora,CO,80016
+901,Rincon/University,902,06:06.97,366.97,4/6/2018,421 N Arcadia Blvd,Tucson,AZ,85711
+902,Platte Valley,903,06:06.97,366.97,3/17/2018,901 Campbell,Kersey,CO,80644
+903,Kellis,904,06:07.02,367.02,3/9/2018,8990 W Orangewood Ave,Glendale,AZ,85305
+904,Legacy,905,06:07.03,367.03,5/10/2018,2701 W 136Th Ave,Broomfield,CO,80023
+905,Williams Field,906,06:07.07,367.07,4/20/2018,2076 S Higley Rd,Gilbert,AZ,85292
+906,Laguna Acoma,907,06:07.11,367.11,4/11/2018,Hwy 66,New Laguna,NM,87007
+907,Heritage,908,06:07.13,367.13,5/12/2018,1401 W Geddes Ave,Littleton,CO,80120
+908,Maryvale,909,06:07.54,367.54,3/2/2018,3415 N 59 Ave,Phoenix,AZ,85033
+909,Mountain View,910,06:07.59,367.59,4/6/2018,2700 E Brown Rd,Mesa,AZ,85213
+910,Ironwood,911,06:07.65,367.65,4/17/2018,6051 W SWeetwater,Glendale,AZ,85304
+911,Tuba City,912,06:07.67,367.67,4/25/2018,67 Fir Street,Tuba City,AZ,86045
+912,Moffat County,913,06:07.70,367.7,4/14/2018,900 Finley Ln,Craig,CO,81625
+913,Conifer,914,06:07.78,367.78,5/12/2018,10441 County Hwy 73,Conifer,CO,80433
+914,Deer Valley,915,06:07.79,367.79,3/23/2018,18424 N 51St Ave,Glendale,AZ,85308
+915,Chino Valley,916,06:07.81,367.81,4/6/2018,760 E Center St,Chino Valley,AZ,86323
+916,Walden Grove,917,06:07.83,367.83,3/2/2018,15510 S Sahuarita Park Rd,Sahuarita,AZ,85629
+917,North Canyon,918,06:07.92,367.92,4/18/2018,1700 E Union Hills Dr,Phoenix,AZ,85024
+918,Palmer Ridge,919,06:08.00,368.0,4/21/2018,19255 Monument Hill Rd,Monument,CO,80132
+919,Rampart,920,06:08.04,368.04,5/4/2018,8250 Lexington Dr,Colorado Springs,CO,80920
+920,Battle Mountain,921,06:08.07,368.07,4/27/2018,151 Miller Ranch Rd,Edwards,CO,81632
+921,Northland Prep Academy,922,06:08.10,368.1,4/7/2018,3300 E Sparrow Ave,Flagstaff,AZ,86004
+922,Alchesay,923,06:08.10,368.1,4/25/2018,200 Falcon Way,Whiteriver,AZ,85941
+923,Snowflake,924,06:08.18,368.18,4/6/2018,220 South 2nd West,Snowflake,AZ,85937
+924,Nederland,925,06:08.23,368.23,5/10/2018,597 Eldora Rd,Nederland,CO,80466
+925,Centennial,926,06:08.23,368.23,4/17/2018,14388 N 79Th Ave,Peoria,AZ,85381
+926,Arete Prep,927,06:08.40,368.4,3/27/2018,4525 E. Baseline Rd,Gilbert,AZ,85234
+927,Greeley Central,928,06:08.55,368.55,3/24/2018,1515 14th Ave,Greeley,CO,80631
+928,Marana,929,06:08.68,368.68,2/28/2018,12000 W Emigh Rd,Tucson,AZ,85743
+929,Monarch,930,06:08.70,368.7,3/21/2018,329 Campus Dr,Louisville,CO,80027
+930,Salpointe Catholic,931,06:08.89,368.89,4/14/2018,1545 E Copper St,Tucson,AZ,85719
+931,Grand Junction Central,932,06:09.00,369.0,5/11/2018,550 Warrior Wy,Grand Junction,CO,81504
+932,Cactus Shadows,933,06:09.01,369.01,4/14/2018,5802 E Dove Valley Rd,Cave Creek,AZ,85327
+933,Arizona College Prep,934,06:09.05,369.05,3/3/2018,4477 S. Gilbert Road,Chandler,AZ,85249
+934,Desert Mountain,935,06:09.17,369.17,3/9/2018,12575 E Via Linda,Scottsdale,AZ,85259
+935,Chandler,936,06:09.19,369.19,4/18/2018,350 N Arizona Ave,Chandler,AZ,85225
+936,Northland Prep Academy,937,06:09.23,369.23,3/3/2018,3300 E Sparrow Ave,Flagstaff,AZ,86004
+937,Dakota Ridge,938,06:09.23,369.23,4/12/2018,13399 W Coal Mine Ave,Littleton,CO,80127
+938,Rio Rico,939,06:09.29,369.29,3/10/2018,590 North Camino Galindo,Rio Rico,AZ,85648
+939,Thompson Valley,940,06:09.29,369.29,3/31/2018,1669 Eagle Dr,Loveland,CO,80537
+940,Shining Mountain,941,06:09.29,369.29,5/4/2018,999 Violet,Boulder,CO,80304
+941,Casa Grande,942,06:09.34,369.34,4/20/2018,2730 N Trekell Rd,Casa Grande,AZ,85222
+942,Liberty,943,06:09.36,369.36,5/10/2018,8720 Scarborough Dr,Colorado Springs,CO,80920
+943,Horizon,944,06:09.39,369.39,4/14/2018,5601 E Greenway Rd,Scottsdale,AZ,85254
+944,Tolleson,945,06:09.40,369.4,4/13/2018,9419 W Van Buren,Tolleson,AZ,85353
+945,Payson,946,06:09.40,369.4,4/20/2018,301 S Mclane Rd,Payson,AZ,85541
+946,Sabino,947,06:09.42,369.42,3/3/2018,5000 N Bowes Rd,Tucson,AZ,85749
+947,Weld Central,948,06:09.51,369.51,3/10/2018,4715 County Road 59,Keenesburg,CO,80643
+948,Snowflake,949,06:09.53,369.53,4/20/2018,220 South 2nd West,Snowflake,AZ,85937
+949,Holy Family,950,06:09.57,369.57,3/24/2018,5195 W 144Th Ave,Broomfield,CO,80020
+950,Scottsdale Preparatory Academy,951,06:09.62,369.62,4/7/2018,16537 N. 92nd St,Scottsdale,AZ,85260
+951,Page,952,06:09.72,369.72,4/21/2018,434 Lake Powell Blvd,Page,AZ,86040
+952,Gilbert,953,06:09.92,369.92,3/23/2018,1101 E Elliot Rd,Gilbert,AZ,85234
+953,Desert Vista,954,06:09.93,369.93,3/28/2018,16440 S 32Nd St,Phoenix,AZ,85048
+954,Swink,955,06:09.95,369.95,4/23/2018,610 Columbia Street,Swink,CO,81077
+955,Cactus,956,06:10.10,370.1,4/17/2018,6330 W Greenway Rd,Glendale,AZ,85306
+956,Jefferson Academy,957,06:10.10,370.1,3/31/2018,11251 Reed Way,Broomfield,CO,80020
+957,Lyons,958,06:10.13,370.13,5/5/2018,100 McConnell Dr,Lyons,CO,80540
+958,Thompson Valley,959,06:10.18,370.18,3/31/2018,1669 Eagle Dr,Loveland,CO,80537
+959,Xavier College Prep,960,06:10.21,370.21,3/28/2018,4710 N. 5Th St,Phoenix,AZ,85012
+960,Standley Lake,961,06:10.30,370.3,4/28/2018,9300 W 104Th Ave,Westminster,CO,80021
+961,Tempe,962,06:10.30,370.3,4/19/2018,1730 S Mill Ave,Tempe,AZ,85281
+962,Alamosa,963,06:10.34,370.34,3/29/2018,805 Craft Dr,Alamosa,CO,81101
+963,Highlands Ranch,964,06:10.35,370.35,5/12/2018,9375 S Cresthill Lane,Highlands Ranch,CO,80130
+964,Lake Havasu,965,06:10.38,370.38,4/23/2018,2675 S. Palo Verde,Lake Havasu City,AZ,86403
+965,Mead,966,06:10.47,370.47,5/5/2018,12750 CR 7,Longmont,CO,80504
+966,Boulder,967,06:10.51,370.51,3/10/2018,1604 Arapahoe Ave,Boulder,CO,80302
+967,West Grand,968,06:10.52,370.52,5/5/2018,208 12th Street,Kremmling,CO,80459
+968,Flowing Wells,969,06:10.66,370.66,4/17/2018,3725 N Flowing Wells Rd,Tucson,AZ,85705
+969,Peoria,970,06:10.68,370.68,3/9/2018,11200 N 83Rd Ave,Peoria,AZ,85345
+970,Gunnison,971,06:10.70,370.7,3/10/2018,800 W Ohio Ave,Gunnison,CO,81230
+971,Palmer,972,06:10.71,370.71,4/6/2018,301 N NEvada Ave,Colorado Springs,CO,80903
+972,Englewood,973,06:10.80,370.8,4/7/2018,3800 S Logan St,Englewood,CO,80113
+973,Denver East,974,06:10.83,370.83,5/4/2018,1600 City Park Esplanade,Denver,CO,80206
+974,Gila Ridge,975,06:10.84,370.84,4/21/2018,7150 East 24th Street,Yuma,AZ,85365
+975,Tonopah Valley,976,06:10.90,370.9,4/7/2018,38201 W Indian School Rd,Tonopah,AZ,85354
+976,Skyline,977,06:11.05,371.05,5/5/2018,600 E Mountain View Ave,Longmont,CO,80501
+977,Centaurus,978,06:11.06,371.06,3/21/2018,10300 S Boulder Rd,Lafayette,CO,80026
+978,Sunnyslope,979,06:11.15,371.15,4/14/2018,35 W Dunlap Ave,Phoenix,AZ,85021
+979,Willow Canyon,980,06:11.15,371.15,4/14/2018,17901 West Lundberg,Surprise,AZ,85388
+980,Niwot,981,06:11.17,371.17,5/12/2018,8989 E Niwot Rd,Niwot,CO,80503
+981,Casa Grande,982,06:11.17,371.17,3/17/2018,2730 N Trekell Rd,Casa Grande,AZ,85222
+982,American Leadership Academy,983,06:11.19,371.19,3/23/2018,23908 S Hawes Rd,Queen Creek,AZ,85142
+983,Lee Williams,984,06:11.22,371.22,3/3/2018,400 Grandview Ave,Kingman,AZ,86401
+984,Dakota Ridge,985,06:11.27,371.27,3/22/2018,13399 W Coal Mine Ave,Littleton,CO,80127
+985,St. Augustine Catholic,986,06:11.33,371.33,4/21/2018,8800 E 22Nd St,Tucson,AZ,85710
+986,The Classical Academy,987,06:11.35,371.35,5/10/2018,975 Stout Rd,Colorado Springs,CO,80921
+987,Fredonia,988,06:11.49,371.49,3/16/2018,221 N. Hortt,Fredonia,AZ,86022
+988,ThunderRidge,989,06:11.52,371.52,3/17/2018,1991 Wildcat Reserve Pkwy,Highlands Ranch,CO,80129
+989,Desert Mountain,990,06:11.52,371.52,3/17/2018,12575 E Via Linda,Scottsdale,AZ,85259
+990,Centauri,991,06:11.57,371.57,3/29/2018,17889 State Hwy 285,La Jara,CO,81140
+991,Tolleson,992,06:11.58,371.58,3/2/2018,9419 W Van Buren,Tolleson,AZ,85353
+992,Skyline,993,06:11.59,371.59,5/5/2018,600 E Mountain View Ave,Longmont,CO,80501
+993,Anthem Prep,994,06:11.60,371.6,4/7/2018,39808 N Gavilan Peak Pkwy,Anthem,AZ,85086
+994,Gila Ridge,995,06:11.63,371.63,3/17/2018,7150 East 24th Street,Yuma,AZ,85365
+995,Skyline,996,06:11.72,371.72,5/5/2018,600 E Mountain View Ave,Longmont,CO,80501
+996,South,997,06:11.84,371.84,5/11/2018,1213 W Allison Rd,Cheyenne,WY,82007
+997,Dakota Ridge,998,06:11.98,371.98,3/17/2018,13399 W Coal Mine Ave,Littleton,CO,80127
+998,Cactus Shadows,999,06:12.00,372.0,3/3/2018,5802 E Dove Valley Rd,Cave Creek,AZ,85327
+999,Peyton,1000,06:12.03,372.03,4/19/2018,13885 Bradshaw Rd,Peyton,CO,80831
+1000,Holbrook,1001,06:12.07,372.07,3/3/2018,455 N 8Th Ave,Holbrook,AZ,86025
+1001,Moffat County,1002,06:12.22,372.22,4/27/2018,900 Finley Ln,Craig,CO,81625
+1002,Fossil Ridge,1003,06:12.25,372.25,4/10/2018,5400 Ziegler Rd,Fort Collins,CO,80528
+1003,Mullen,1004,06:12.27,372.27,5/12/2018,3601 S Lowell Blvd,Denver,CO,80236
+1004,Highland,1006,06:12.31,372.31,4/28/2018,208 W 1st St,Ault,CO,80610
+1005,ThunderRidge,1007,06:12.46,372.46,3/24/2018,1991 Wildcat Reserve Pkwy,Highlands Ranch,CO,80129
+1006,Chinle,1008,06:12.49,372.49,3/16/2018,Hwy. 191 and Navajo Route 7,Chinle,AZ,86503
+1007,Peoria,1009,06:12.52,372.52,4/7/2018,11200 N 83Rd Ave,Peoria,AZ,85345
+1008,Widefield,1010,06:12.63,372.63,5/4/2018,615 Widefield Dr,Colorado Springs,CO,80911
+1009,Independence,1011,06:12.64,372.64,4/14/2018,6602 N 75Th Ave,Glendale,AZ,85303
+1010,Broomfield,1012,06:12.67,372.67,4/21/2018,1 Eagle Way,Broomfield,CO,80020
+1011,Chatfield,1013,06:12.78,372.78,4/6/2018,7227 S Simms St,Littleton,CO,80127
+1012,Denver North,1014,06:12.78,372.78,5/12/2018,2960 N Speer Blvd,Denver,CO,80211
+1013,Hinkley,1015,06:12.83,372.83,5/3/2018,1250 Chambers Rd,Aurora,CO,80011
+1014,Fort Lupton,1016,06:12.97,372.97,3/22/2018,530 Reynolds St,Fort Lupton,CO,80621
+1015,Apollo,1017,06:12.99,372.99,4/18/2018,8045 N 47Th Ave,Glendale,AZ,85302
+1016,Monarch,1018,06:13.02,373.02,4/21/2018,329 Campus Dr,Louisville,CO,80027
+1017,Prospect Ridge Academy,1019,06:13.07,373.07,3/22/2018,2555 Preble Creek Pkwy,Broomfield,CO,80023
+1018,Mountain View,1020,06:13.09,373.09,4/21/2018,3901 W Linda Vista Blvd,Tucson,AZ,85742
+1019,Tuba City,1021,06:13.09,373.09,3/30/2018,67 Fir Street,Tuba City,AZ,86045
+1020,Thornton,1022,06:13.14,373.14,3/21/2018,9351 N Washington,Thornton,CO,80229
+1021,Fairfax,1023,06:13.15,373.15,4/5/2018,8225 South 59th Avenue,Laveen,AZ,85339
+1022,Manitou Springs,1024,06:13.24,373.24,5/4/2018,401 El Monte Pl,Manitou Springs,CO,80829
+1023,Heritage,1025,06:13.37,373.37,4/6/2018,1401 W Geddes Ave,Littleton,CO,80120
+1024,Fountain-Fort Carson,1026,06:13.40,373.4,4/6/2018,900 Jimmy Camp Rd,Fountain,CO,80817
+1025,Columbine,1027,06:13.41,373.41,3/21/2018,6201 S Pierce St,Littleton,CO,80123
+1026,Dobson,1028,06:13.48,373.48,4/13/2018,1501 W Guadalupe Rd,Mesa,AZ,85202
+1027,Mullen,1029,06:13.49,373.49,5/12/2018,3601 S Lowell Blvd,Denver,CO,80236
+1028,Boulder,1030,06:13.50,373.5,3/17/2018,1604 Arapahoe Ave,Boulder,CO,80302
+1029,Standley Lake,1031,06:13.53,373.53,5/10/2018,9300 W 104Th Ave,Westminster,CO,80021
+1030,Rehoboth Christian,1032,06:13.64,373.64,4/20/2018,07B Tse Yaaniichii Lane,Rehoboth,NM,87322
+1031,Desert Vista,1033,06:13.65,373.65,4/19/2018,16440 S 32Nd St,Phoenix,AZ,85048
+1032,Castle View,1034,06:13.75,373.75,4/28/2018,5254 N. Meadows Dr,Castle Rock,CO,80109
+1033,Buena,1035,06:13.77,373.77,3/23/2018,5225 Buena School Blvd,Sierra Vista,AZ,85635
+1034,Cactus Shadows,1036,06:13.81,373.81,3/10/2018,5802 E Dove Valley Rd,Cave Creek,AZ,85327
+1035,Winslow,1037,06:13.86,373.86,3/9/2018,600 East Cherry St.,Winslow,AZ,86047
+1036,Vista Ridge,1038,06:13.91,373.91,5/11/2018,6888 Black Forest Rd,Colorado Springs,CO,80922
+1037,Desert Ridge,1039,06:13.97,373.97,3/29/2018,10045 E Madero Ave,Mesa,AZ,85212
+1038,Denver East,1040,06:14.15,374.15,3/24/2018,1600 City Park Esplanade,Denver,CO,80206
+1039,Erie,1041,06:14.24,374.24,4/27/2018,3180 County Road 5,Erie,CO,80516
+1040,South,1042,06:14.27,374.27,5/4/2018,1213 W Allison Rd,Cheyenne,WY,82007
+1041,Legacy,1043,06:14.30,374.3,3/24/2018,2701 W 136Th Ave,Broomfield,CO,80023
+1042,Thompson Valley,1044,06:14.37,374.37,4/21/2018,1669 Eagle Dr,Loveland,CO,80537
+1043,Valley,1045,06:14.41,374.41,4/6/2018,,Sanders,AZ,86512
+1044,Frontier Academy,1046,06:14.48,374.48,5/5/2018,6530 W. 16Th St,Greeley,CO,80634
+1045,Coconino,1047,06:14.53,374.53,4/14/2018,2801 N Isabel St,Flagstaff,AZ,86004
+1046,Pusch Ridge Christian Academy,1048,06:14.55,374.55,3/2/2018,9500 N Oracle Rd,Tucson,AZ,85737
+1047,Estrella Foothills,1049,06:14.56,374.56,4/6/2018,13033 S Estrella Pkwy,Goodyear,AZ,85338
+1048,Woodland Park,1050,06:14.59,374.59,3/24/2018,151 Panther Way,Woodland Park,CO,80863
+1049,Carl Hayden Community,1051,06:14.68,374.68,4/17/2018,3333 W Roosevelt St,Phoenix,AZ,85292
+1050,Pinnacle,1052,06:14.70,374.7,4/18/2018,3535 E Mayo Blvd,Phoenix,AZ,85050
+1051,American Leadership Academy,1053,06:14.82,374.82,4/14/2018,23908 S Hawes Rd,Queen Creek,AZ,85142
+1052,Tolleson,1054,06:14.97,374.97,3/10/2018,9419 W Van Buren,Tolleson,AZ,85353
+1053,Olathe,1055,06:14.97,374.97,3/24/2018,410 Highway 50,Olathe,CO,81425
+1054,Poston Butte,1056,06:15.12,375.12,3/23/2018,32375 N Gantzel Rd,San Tan Valley,AZ,85243
+1055,Salpointe Catholic,1057,06:15.23,375.23,4/4/2018,1545 E Copper St,Tucson,AZ,85719
+1056,Monarch,1058,06:15.24,375.24,3/17/2018,329 Campus Dr,Louisville,CO,80027
+1057,Corona del Sol,1059,06:15.30,375.3,3/23/2018,1001 E Knox Rd,Tempe,AZ,85284
+1058,Lake City Community,1060,06:15.32,375.32,5/11/2018,614 N. Silver,Lake City,CO,81235
+1059,Mountain View,1061,06:15.35,375.35,5/10/2018,3500 Mountain Lion Dr,Loveland,CO,80537
+1060,Payson,1062,06:15.38,375.38,3/17/2018,301 S Mclane Rd,Payson,AZ,85541
+1061,Horizon,1063,06:15.46,375.46,4/18/2018,5601 E Greenway Rd,Scottsdale,AZ,85254
+1062,University,1064,06:15.63,375.63,4/28/2018,6525 W 18Th St,Greeley,CO,80634
+1063,Littleton,1065,06:15.72,375.72,4/6/2018,199 E Littleton Blvd,Littleton,CO,80121
+1064,Coconino,1066,06:15.73,375.73,3/29/2018,2801 N Isabel St,Flagstaff,AZ,86004
+1065,Arcadia,1067,06:15.74,375.74,4/7/2018,4703 E Indian School Rd,Phoenix,AZ,85018
+1066,Tohatchi,1068,06:15.78,375.78,4/20/2018,1 Cougar Trail,Tohatchi,NM,87325
+1067,Campo Verde,1069,06:15.81,375.81,4/6/2018,3870 S Quartz St,Gilbert,AZ,85297
+1068,Berthoud,1070,06:15.85,375.85,4/28/2018,850 Spartan Ave,Berthoud,CO,80513
+1069,Arvada West,1071,06:15.90,375.9,4/14/2018,11325 Allendale Dr,Arvada,CO,80004
+1070,Prairie View,1072,06:15.90,375.9,4/14/2018,12909 E 120Th Ave,Henderson,CO,80640
+1071,Little Snake River,1073,06:15.94,375.94,4/27/2018,100 Meeker St,Baggs,WY,82321
+1072,Kiowa,1074,06:16.10,376.1,5/5/2018,525 Commanche,Kiowa,CO,80117
+1073,Mountain Pointe,1075,06:16.11,376.11,4/19/2018,4201 E Knox Rd,Phoenix,AZ,85044
+1074,Vista Grande,1076,06:16.27,376.27,4/20/2018,1556 N Arizola Rd,Casa Grande,AZ,85122
+1075,Arizona Lutheran Academy,1077,06:16.29,376.29,3/27/2018,6036 S 27Th Ave,Phoenix,AZ,85041
+1076,Heritage,1078,06:16.35,376.35,4/6/2018,1401 W Geddes Ave,Littleton,CO,80120
+1077,McClintock,1079,06:16.39,376.39,4/19/2018,1830 E Del Rio Dr,Tempe,AZ,85282
+1078,Grandview,1080,06:16.52,376.52,4/7/2018,20500 E Arapahoe Rd,Aurora,CO,80016
+1079,Prescott,1081,06:16.55,376.55,3/10/2018,1050 N Ruth St,Prescott,AZ,86301
+1080,Desert View,1082,06:16.60,376.6,3/10/2018,4101 E Valencia Rd,Tucson,AZ,85706
+1081,Ironwood Ridge,1083,06:16.61,376.61,4/21/2018,2475 W Naranja Dr,Tucson,AZ,85742
+1082,Doherty,1084,06:16.70,376.7,5/4/2018,4515 Barnes Rd,Colorado Springs,CO,80917
+1083,Middle Park,1085,06:16.72,376.72,4/17/2018,765 North 2nd Street,Granby,CO,80446
+1084,Pomona,1086,06:16.75,376.75,5/10/2018,8101 W Pomona Dr,Arvada,CO,80005
+1085,Cesar Chavez,1087,06:16.75,376.75,4/17/2018,3921 W Baseline Rd,Laveen,AZ,85339
+1086,Olathe,1088,06:16.76,376.76,3/17/2018,410 Highway 50,Olathe,CO,81425
+1087,Ironwood,1089,06:16.77,376.77,4/14/2018,6051 W SWeetwater,Glendale,AZ,85304
+1088,Holly,1090,06:16.77,376.77,5/5/2018,206 North 3rd Street,Holly,CO,81047
+1089,Eaglecrest,1091,06:16.79,376.79,3/17/2018,5100 S Picadilly St,Centennial,CO,80015
+1090,Apache Junction,1092,06:16.93,376.93,3/9/2018,2525 S Ironwood Drive,Apache Junction,AZ,85120
+1091,Columbine,1093,06:16.94,376.94,4/28/2018,6201 S Pierce St,Littleton,CO,80123
+1092,Holy Family,1094,06:16.94,376.94,4/27/2018,5195 W 144Th Ave,Broomfield,CO,80020
+1093,Flagstaff,1095,06:16.99,376.99,4/20/2018,400 W Elm,Flagstaff,AZ,86001
+1094,Heritage,1096,06:17.03,377.03,4/6/2018,1401 W Geddes Ave,Littleton,CO,80120
+1095,Thunderbird,1097,06:17.03,377.03,4/18/2018,1750 W Thunderbird Rd,Phoenix,AZ,85023
+1096,Copper Canyon,1098,06:17.03,377.03,4/18/2018,9126 W Camelback Rd,Glendale,AZ,85305
+1097,Fruita Monument,1099,06:17.05,377.05,5/5/2018,1102 Wildcat Ave,Fruita,CO,81521
+1098,Glendale Prep Academy,1100,06:17.07,377.07,3/23/2018,23276 N. 83rd Ave.,Glendale,AZ,85383
+1099,Faith Christian,1101,06:17.11,377.11,4/7/2018,4890 Carr St,Arvada,CO,80002
+1100,Hopi,1102,06:17.16,377.16,4/6/2018,Highway 264,Keams Canyon,AZ,86034
+1101,Coronado,1103,06:17.17,377.17,5/4/2018,1590 W Fillmore St,Colorado Springs,CO,80904
+1102,Highland,1104,06:17.22,377.22,4/28/2018,208 W 1st St,Ault,CO,80610
+1103,Glenwood Springs,1105,06:17.24,377.24,4/7/2018,1521 Grand Ave,Glenwood Springs,CO,81601
+1104,South Mountain,1106,06:17.31,377.31,4/14/2018,5401 S 7Th St,Phoenix,AZ,85040
+1105,Desert Ridge,1107,06:17.35,377.35,3/9/2018,10045 E Madero Ave,Mesa,AZ,85212
+1106,D'Evelyn,1108,06:17.40,377.4,4/23/2018,10359 W Nassau Ave,Denver,CO,80235
+1107,Arvada West,1109,06:17.42,377.42,3/21/2018,11325 Allendale Dr,Arvada,CO,80004
+1108,Chaparral,1110,06:17.52,377.52,4/27/2018,15655 Brookstone Dr,Parker,CO,80134
+1109,Desert Edge,1111,06:17.58,377.58,3/31/2018,15778 W Yuma Rd,Goodyear,AZ,85338
+1110,Skyline,1112,06:17.78,377.78,4/11/2018,845 S Crismon Road,Mesa,AZ,85208
+1111,Seton Catholic,1113,06:17.98,377.98,4/18/2018,1150 N Dobson Rd,Chandler,AZ,85032
+1112,Flagstaff,1114,06:18.11,378.11,4/20/2018,400 W Elm,Flagstaff,AZ,86001
+1113,Chatfield,1115,06:18.12,378.12,4/6/2018,7227 S Simms St,Littleton,CO,80127
+1114,Mountain View,1116,06:18.12,378.12,4/21/2018,3901 W Linda Vista Blvd,Tucson,AZ,85742
+1115,Lyons,1117,06:18.16,378.16,5/11/2018,100 McConnell Dr,Lyons,CO,80540
+1116,Vista Grande,1118,06:18.18,378.18,3/10/2018,1556 N Arizola Rd,Casa Grande,AZ,85122
+1117,Red Mountain,1119,06:18.21,378.21,4/20/2018,7301 E Brown Rd,Mesa,AZ,85207
+1118,La Joya Community,1120,06:18.28,378.28,3/31/2018,11650 W. Whyman Ave,Avondale,AZ,85323
+1119,Williams Field,1121,06:18.29,378.29,3/30/2018,2076 S Higley Rd,Gilbert,AZ,85292
+1120,Fruita Monument,1122,06:18.30,378.3,3/10/2018,1102 Wildcat Ave,Fruita,CO,81521
+1121,Boulder,1123,06:18.35,378.35,3/21/2018,1604 Arapahoe Ave,Boulder,CO,80302
+1122,Golden View Classical Academy,1124,06:18.36,378.36,4/14/2018,601 Corporate Circle,Golden,CO,80401
+1123,Resurrection Christian,1125,06:18.44,378.44,4/23/2018,6508 E Crossroads Blvd,Loveland,CO,80538
+1124,Washington,1126,06:18.50,378.5,4/7/2018,2217 W Glendale Ave,Phoenix,AZ,85021
+1125,Air Academy,1127,06:18.52,378.52,4/27/2018,6910 Carlton Dr,US Air Force Academy,CO,80840
+1126,Estrella Foothills,1128,06:18.53,378.53,3/3/2018,13033 S Estrella Pkwy,Goodyear,AZ,85338
+1127,Montezuma-Cortez,1129,06:18.60,378.6,4/20/2018,418 S. Sligo Street,Cortez,CO,81321
+1128,Desert Edge,1130,06:18.62,378.62,4/7/2018,15778 W Yuma Rd,Goodyear,AZ,85338
+1129,Kellis,1131,06:18.64,378.64,4/7/2018,8990 W Orangewood Ave,Glendale,AZ,85305
+1130,Round Valley,1132,06:18.66,378.66,3/3/2018,550 N Butler St,Eagar,AZ,85925
+1131,Pueblo West,1133,06:18.66,378.66,5/4/2018,661 W. Capistrano Ave.,Pueblo West,CO,81007
+1132,Page,1134,06:18.68,378.68,3/23/2018,434 Lake Powell Blvd,Page,AZ,86040
+1133,Pueblo West,1135,06:18.76,378.76,5/10/2018,661 W. Capistrano Ave.,Pueblo West,CO,81007
+1134,Rye,1136,06:18.76,378.76,4/23/2018,PO Box 10,Rye,CO,81069
+1135,Arete Prep,1137,06:18.77,378.77,4/14/2018,4525 E. Baseline Rd,Gilbert,AZ,85234
+1136,Northwest Christian,1138,06:18.96,378.96,3/23/2018,16401 N 43Rd Ave,Phoenix,AZ,85053
+1137,Thomas MacLaren School,1139,06:19.06,379.06,5/5/2018,1702 N. Murray Blvd.,Colorado Springs,CO,80915
+1138,The Classical Academy,1140,06:19.15,379.15,5/4/2018,975 Stout Rd,Colorado Springs,CO,80921
+1139,Highland,1141,06:19.29,379.29,5/5/2018,208 W 1st St,Ault,CO,80610
+1140,Conifer,1142,06:19.50,379.5,4/28/2018,10441 County Hwy 73,Conifer,CO,80433
+1141,Cheyenne Mountain,1143,06:19.58,379.58,5/10/2018,1200 Cresta Rd,Colorado Springs,CO,80906
+1142,Many Farms,1144,06:19.61,379.61,4/20/2018,PO Box 307,Many Farms,AZ,86538
+1143,Page,1145,06:19.62,379.62,2/24/2018,434 Lake Powell Blvd,Page,AZ,86040
+1144,Northfield,1146,06:19.62,379.62,5/4/2018,5500 Central Park Blvd.,Denver,CO,80238
+1145,Olathe,1147,06:19.63,379.63,4/28/2018,410 Highway 50,Olathe,CO,81425
+1146,Greeley West,1148,06:19.70,379.7,4/23/2018,2401 35th Avenue,Greeley,CO,80634
+1147,Hinkley,1149,06:19.70,379.7,4/23/2018,1250 Chambers Rd,Aurora,CO,80011
+1148,Byers,1150,06:19.71,379.71,4/28/2018,444 E Front St,Byers,CO,80103
+1149,Higley,1151,06:19.73,379.73,4/14/2018,4068 E Pecos Dr,Gilbert,AZ,85297
+1150,Telluride,1152,06:19.79,379.79,3/17/2018,725 West Colorado,Telluride,CO,81435
+1151,Ironwood Ridge,1153,06:19.83,379.83,4/21/2018,2475 W Naranja Dr,Tucson,AZ,85742
+1152,Shadow Ridge,1154,06:19.89,379.89,4/5/2018,10909 N Perryville Rd,Surprise,AZ,85388
+1153,Denver South,1155,06:19.94,379.94,3/22/2018,1700 E Louisiana Ave,Denver,CO,80210
+1154,Strasburg,1156,06:19.98,379.98,5/5/2018,56729 East Colorado Avenue,Strasburg,CO,80836
+1155,Rocky Mountain,1157,06:20.00,380.0,3/31/2018,1300 W. Swallow Rd.,Fort Collins,CO,80526
+1156,Bradshaw Mountain,1158,06:20.07,380.07,3/23/2018,6000 E Long Look Dr,Prescott Valley,AZ,86314
+1157,Limon,1159,06:20.12,380.12,5/11/2018,912 Badger Way,Limon,CO,80828
+1158,Lee Williams,1160,06:20.20,380.2,4/7/2018,400 Grandview Ave,Kingman,AZ,86401
+1159,Page,1161,06:20.21,380.21,4/25/2018,434 Lake Powell Blvd,Page,AZ,86040
+1160,Lake Havasu,1162,06:20.25,380.25,3/3/2018,2675 S. Palo Verde,Lake Havasu City,AZ,86403
+1161,Skyline,1163,06:20.25,380.25,3/23/2018,845 S Crismon Road,Mesa,AZ,85208
+1162,Cibola,1164,06:20.26,380.26,4/20/2018,4100 W 20Th St,Yuma,AZ,85364
+1163,Mountain View,1165,06:20.34,380.34,4/20/2018,2700 E Brown Rd,Mesa,AZ,85213
+1164,Desert Ridge,1166,06:20.54,380.54,4/20/2018,10045 E Madero Ave,Mesa,AZ,85212
+1165,Valley,1167,06:20.56,380.56,3/30/2018,,Sanders,AZ,86512
+1166,Monument Valley,1168,06:20.62,380.62,4/20/2018,North U.S. Hwy 163/Mustang Boulevard,Kayenta,AZ,86033
+1167,Middle Park,1169,06:20.74,380.74,3/31/2018,765 North 2nd Street,Granby,CO,80446
+1168,Chinle,1170,06:20.78,380.78,4/6/2018,Hwy. 191 and Navajo Route 7,Chinle,AZ,86503
+1169,Pusch Ridge Christian Academy,1171,06:20.78,380.78,4/6/2018,9500 N Oracle Rd,Tucson,AZ,85737
+1170,Hamilton,1172,06:20.79,380.79,4/18/2018,3700 S. Arizona Ave,Chandler,AZ,85248
+1171,Denver East,1173,06:20.84,380.84,3/22/2018,1600 City Park Esplanade,Denver,CO,80206
+1172,Middle Park,1174,06:20.93,380.93,3/31/2018,765 North 2nd Street,Granby,CO,80446
+1173,Peoria,1175,06:20.96,380.96,3/9/2018,11200 N 83Rd Ave,Peoria,AZ,85345
+1174,Berthoud,1176,06:20.96,380.96,3/10/2018,850 Spartan Ave,Berthoud,CO,80513
+1175,Loveland,1177,06:20.97,380.97,3/31/2018,920 W 29Th St,Loveland,CO,80538
+1176,Douglas County,1178,06:21.00,381.0,3/31/2018,2842 Front St,Castle Rock,CO,80104
+1177,Fountain-Fort Carson,1179,06:21.01,381.01,3/10/2018,900 Jimmy Camp Rd,Fountain,CO,80817
+1178,Youngker,1180,06:21.09,381.09,3/23/2018,3000 S Apache,Buckeye,AZ,85326
+1179,Cortez,1181,06:21.13,381.13,4/6/2018,8828 N 31St Ave,Phoenix,AZ,85051
+1180,Ganado,1182,06:21.13,381.13,3/23/2018,PO Box 1757,Ganado,AZ,86505
+1181,Trivium Prep,1183,06:21.15,381.15,4/14/2018,2001 N. Bullard Ave,Goodyear,AZ,85395
+1182,Horizon,1184,06:21.16,381.16,4/18/2018,5601 E Greenway Rd,Scottsdale,AZ,85254
+1183,Valley Christian,1185,06:21.33,381.33,4/7/2018,6900 W Galveston,Chandler,AZ,85226
+1184,Mead,1186,06:21.35,381.35,3/22/2018,12750 CR 7,Longmont,CO,80504
+1185,Monument Valley,1187,06:21.40,381.4,3/23/2018,North U.S. Hwy 163/Mustang Boulevard,Kayenta,AZ,86033
+1186,Chandler Prep,1188,06:21.40,381.4,4/6/2018,1951 N Alma School Road,Chandler,AZ,85224
+1187,ThunderRidge,1189,06:21.44,381.44,4/19/2018,1991 Wildcat Reserve Pkwy,Highlands Ranch,CO,80129
+1188,Broomfield,1190,06:21.46,381.46,4/21/2018,1 Eagle Way,Broomfield,CO,80020
+1189,Empire,1191,06:21.47,381.47,4/21/2018,10701 E Mary Ann Cleveland Wy,Tucson,AZ,85747
+1190,The Vanguard School,1192,06:21.47,381.47,4/14/2018,1605 South Corona Ave.,Colorado Springs,CO,80905
+1191,Golden View Classical Academy,1193,06:21.53,381.53,4/7/2018,601 Corporate Circle,Golden,CO,80401
+1192,Lutheran,1194,06:21.63,381.63,4/11/2018,11249 Newlin Gulch Blvd.,Parker,CO,80134
+1193,Pomona,1195,06:21.66,381.66,4/27/2018,8101 W Pomona Dr,Arvada,CO,80005
+1194,Ignacio,1196,06:21.72,381.72,4/27/2018,315 Ignacio Street,Ignacio,CO,81137
+1195,Eagle Valley,1197,06:21.74,381.74,4/7/2018,641 Valley Road,Gypsum,CO,81637
+1196,Valor Christian,1198,06:21.79,381.79,4/11/2018,3775 E. Grace Boulevard,Highlands Ranch,CO,80126
+1197,Battle Mountain,1199,06:21.79,381.79,4/7/2018,151 Miller Ranch Rd,Edwards,CO,81632
+1198,Heritage Christian,1200,06:21.82,381.82,4/13/2018,2506 Zurich Dr,Fort Collins,CO,80524
+1199,Chandler,1201,06:21.92,381.92,3/17/2018,350 N Arizona Ave,Chandler,AZ,85225
+1200,Apollo,1202,06:21.94,381.94,4/18/2018,8045 N 47Th Ave,Glendale,AZ,85302
+1201,Mesa,1203,06:21.94,381.94,3/9/2018,1630 E Southern Ave,Mesa,AZ,85204
+1202,Greenway,1204,06:21.97,381.97,4/7/2018,3930 W Greenway Rd,Phoenix,AZ,85053
+1203,Lee Williams,1205,06:22.00,382.0,4/7/2018,400 Grandview Ave,Kingman,AZ,86401
+1204,Payson,1206,06:22.04,382.04,3/2/2018,301 S Mclane Rd,Payson,AZ,85541
+1205,Rocky Ford,1207,06:22.04,382.04,4/23/2018,100 W Washington Ave,Rocky Ford,CO,81067
+1206,Red Mountain,1208,06:22.06,382.06,4/20/2018,7301 E Brown Rd,Mesa,AZ,85207
+1207,Willcox,1209,06:22.08,382.08,3/29/2018,240 N. Bisbee,Willcox,AZ,85643
+1208,South Mountain,1210,06:22.10,382.1,2/24/2018,5401 S 7Th St,Phoenix,AZ,85040
+1209,Cibola,1211,06:22.13,382.13,4/14/2018,4100 W 20Th St,Yuma,AZ,85364
+1210,Sterling,1212,06:22.32,382.32,4/14/2018,401 W Broadway St,Sterling,CO,80751
+1211,Chaparral,1213,06:22.36,382.36,4/7/2018,15655 Brookstone Dr,Parker,CO,80134
+1212,Morenci,1214,06:22.37,382.37,4/12/2018,1 Stadium Drive,Morenci,AZ,85540
+1213,Pomona,1215,06:22.42,382.42,4/21/2018,8101 W Pomona Dr,Arvada,CO,80005
+1214,Moffat County,1216,06:22.48,382.48,5/11/2018,900 Finley Ln,Craig,CO,81625
+1215,Lakeland Christian,1217,06:22.48,382.48,4/18/2018,1111 Forest Park St,Lakeland,FL,33803
+1216,Palmer Ridge,1218,06:22.52,382.52,4/28/2018,19255 Monument Hill Rd,Monument,CO,80132
+1217,Denver South,1219,06:22.83,382.83,5/12/2018,1700 E Louisiana Ave,Denver,CO,80210
+1218,Gilbert,1220,06:22.83,382.83,4/11/2018,1101 E Elliot Rd,Gilbert,AZ,85234
+1219,Windsor,1221,06:22.84,382.84,5/10/2018,1100 W Main St,Windsor,CO,80550
+1220,Mesa,1222,06:22.94,382.94,4/6/2018,1630 E Southern Ave,Mesa,AZ,85204
+1221,Catalina Foothills,1223,06:23.01,383.01,3/17/2018,4300 E Sunrise Dr,Tucson,AZ,85718
+1222,Tuba City,1224,06:23.03,383.03,4/20/2018,67 Fir Street,Tuba City,AZ,86045
+1223,Woodland Park,1225,06:23.05,383.05,5/10/2018,151 Panther Way,Woodland Park,CO,80863
+1224,Snowflake,1226,06:23.13,383.13,4/6/2018,220 South 2nd West,Snowflake,AZ,85937
+1225,Greenway,1227,06:23.15,383.15,4/7/2018,3930 W Greenway Rd,Phoenix,AZ,85053
+1226,Horizon,1228,06:23.20,383.2,4/18/2018,5601 E Greenway Rd,Scottsdale,AZ,85254
+1227,Tucson High Magnet School,1229,06:23.21,383.21,3/29/2018,400 N 2Nd Ave,Tucson,AZ,85705
+1228,Eaglecrest,1230,06:23.24,383.24,3/17/2018,5100 S Picadilly St,Centennial,CO,80015
+1229,Battle Mountain,1231,06:23.27,383.27,4/7/2018,151 Miller Ranch Rd,Edwards,CO,81632
+1230,Greenway,1232,06:23.29,383.29,3/9/2018,3930 W Greenway Rd,Phoenix,AZ,85053
+1231,Chinle,1233,06:23.31,383.31,4/25/2018,Hwy. 191 and Navajo Route 7,Chinle,AZ,86503
+1232,ThunderRidge,1234,06:23.33,383.33,4/19/2018,1991 Wildcat Reserve Pkwy,Highlands Ranch,CO,80129
+1233,Desert View,1235,06:23.36,383.36,4/21/2018,4101 E Valencia Rd,Tucson,AZ,85706
+1234,Laguna Acoma,1236,06:23.36,383.36,3/10/2018,Hwy 66,New Laguna,NM,87007
+1235,Valley Vista,1237,06:23.44,383.44,3/23/2018,15550 W Parkview Pl,Surprise,AZ,85374
+1236,Loveland,1238,06:23.44,383.44,3/31/2018,920 W 29Th St,Loveland,CO,80538
+1237,Apache Junction,1239,06:23.46,383.46,4/17/2018,2525 S Ironwood Drive,Apache Junction,AZ,85120
+1238,Bennett,1240,06:23.48,383.48,5/11/2018,610 7Th St,Bennett,CO,80102
+1239,Rampart,1241,06:23.61,383.61,4/3/2018,8250 Lexington Dr,Colorado Springs,CO,80920
+1240,Catalina Foothills,1242,06:23.62,383.62,4/17/2018,4300 E Sunrise Dr,Tucson,AZ,85718
+1241,McClave,1243,06:23.68,383.68,4/19/2018,308 N Lincoln Ave,McClave,CO,81057
+1242,St. Augustine Catholic,1244,06:23.74,383.74,3/17/2018,8800 E 22Nd St,Tucson,AZ,85710
+1243,Arcadia,1245,06:23.79,383.79,4/7/2018,4703 E Indian School Rd,Phoenix,AZ,85018
+1244,Sahuarita,1246,06:23.80,383.8,3/29/2018,350 W Sahuarita Rd,Sahuarita,AZ,85629
+1245,Round Valley,1247,06:23.87,383.87,4/6/2018,550 N Butler St,Eagar,AZ,85925
+1246,Nederland,1248,06:23.89,383.89,4/14/2018,597 Eldora Rd,Nederland,CO,80466
+1247,Cedaredge,1249,06:23.90,383.9,4/13/2018,575 SE Deer Creek Dr,Cedaredge,CO,81413
+1248,Valley Vista,1250,06:23.93,383.93,3/10/2018,15550 W Parkview Pl,Surprise,AZ,85374
+1249,Walden Grove,1251,06:23.93,383.93,3/29/2018,15510 S Sahuarita Park Rd,Sahuarita,AZ,85629
+1250,Carl Hayden Community,1252,06:23.94,383.94,3/10/2018,3333 W Roosevelt St,Phoenix,AZ,85292
+1251,The Vanguard School,1253,06:23.94,383.94,4/28/2018,1605 South Corona Ave.,Colorado Springs,CO,80905
+1252,Hopi,1254,06:24.01,384.01,4/6/2018,Highway 264,Keams Canyon,AZ,86034
+1253,Longmont,1255,06:24.10,384.1,3/22/2018,1040 Sunset St,Longmont,CO,80501
+1254,Plateau Valley,1256,06:24.11,384.11,4/20/2018,56600 Hwy 330,Collbran,CO,81624
+1255,Apache Junction,1257,06:24.21,384.21,4/7/2018,2525 S Ironwood Drive,Apache Junction,AZ,85120
+1256,Rampart,1258,06:24.27,384.27,3/24/2018,8250 Lexington Dr,Colorado Springs,CO,80920
+1257,Woodland Park,1259,06:24.36,384.36,5/10/2018,151 Panther Way,Woodland Park,CO,80863
+1258,Rifle,1260,06:24.37,384.37,4/20/2018,1350 Prefontaine Ave,Rifle,CO,81650
+1259,Empire,1261,06:24.41,384.41,3/3/2018,10701 E Mary Ann Cleveland Wy,Tucson,AZ,85747
+1260,St. Augustine Catholic,1262,06:24.44,384.44,3/29/2018,8800 E 22Nd St,Tucson,AZ,85710
+1261,Browne,1263,06:24.45,384.45,4/17/2018,7402 W Catalina Dr,Phoenix,AZ,85033
+1262,Valley Christian,1264,06:24.52,384.52,3/27/2018,6900 W Galveston,Chandler,AZ,85226
+1263,Eagle Valley,1265,06:24.52,384.52,4/21/2018,641 Valley Road,Gypsum,CO,81637
+1264,Rincon/University,1266,06:24.54,384.54,2/28/2018,421 N Arcadia Blvd,Tucson,AZ,85711
+1265,Jefferson Academy,1267,06:24.61,384.61,3/31/2018,11251 Reed Way,Broomfield,CO,80020
+1266,Lyons,1268,06:24.69,384.69,3/22/2018,100 McConnell Dr,Lyons,CO,80540
+1267,Hinkley,1269,06:24.72,384.72,5/3/2018,1250 Chambers Rd,Aurora,CO,80011
+1268,Hamilton,1270,06:24.78,384.78,3/23/2018,3700 S. Arizona Ave,Chandler,AZ,85248
+1269,Westwood,1271,06:24.79,384.79,3/23/2018,945 W Rio Salado,Mesa,AZ,85201
+1270,Longmont,1272,06:24.84,384.84,3/31/2018,1040 Sunset St,Longmont,CO,80501
+1271,Lewis-Palmer,1273,06:24.86,384.86,3/22/2018,1300 Higby Rd,Monument,CO,80132
+1272,Sahuaro,1274,06:25.00,385.0,3/10/2018,545 N Camino SEco,Tucson,AZ,85710
+1273,Show Low,1275,06:25.00,385.0,4/20/2018,500 W Old Linden Rd,Show Low,AZ,85901
+1274,Gateway,1276,06:25.01,385.01,5/3/2018,1300 S Sable Blvd,Aurora,CO,80012
+1275,Tohatchi,1277,06:25.02,385.02,4/20/2018,1 Cougar Trail,Tohatchi,NM,87325
+1276,Heritage,1278,06:25.04,385.04,3/17/2018,1401 W Geddes Ave,Littleton,CO,80120
+1277,Tempe Prep,1279,06:25.08,385.08,4/7/2018,1251 E. Southern Ave,Tempe,AZ,85282
+1278,Frontier Academy,1280,06:25.16,385.16,4/28/2018,6530 W. 16Th St,Greeley,CO,80634
+1279,Delta,1281,06:25.24,385.24,4/13/2018,1400 Pioneer Rd,Delta,CO,81416
+1280,Independence,1282,06:25.31,385.31,4/14/2018,6602 N 75Th Ave,Glendale,AZ,85303
+1281,Legacy,1283,06:25.35,385.35,3/10/2018,2701 W 136Th Ave,Broomfield,CO,80023
+1282,McClintock,1284,06:25.36,385.36,4/19/2018,1830 E Del Rio Dr,Tempe,AZ,85282
+1283,Fort Collins,1285,06:25.37,385.37,3/20/2018,3400 Lambkin Wy,Fort Collins,CO,80525
+1284,Englewood,1286,06:25.38,385.38,3/22/2018,3800 S Logan St,Englewood,CO,80113
+1285,Legacy,1287,06:25.48,385.48,3/21/2018,2701 W 136Th Ave,Broomfield,CO,80023
+1286,Valor Christian,1288,06:25.51,385.51,4/11/2018,3775 E. Grace Boulevard,Highlands Ranch,CO,80126
+1287,Arizona College Prep,1289,06:25.51,385.51,4/18/2018,4477 S. Gilbert Road,Chandler,AZ,85249
+1288,Arcadia,1290,06:25.53,385.53,4/18/2018,4703 E Indian School Rd,Phoenix,AZ,85018
+1289,Scottsdale Preparatory Academy,1291,06:25.56,385.56,3/10/2018,16537 N. 92nd St,Scottsdale,AZ,85260
+1290,Hinkley,1292,06:25.67,385.67,3/24/2018,1250 Chambers Rd,Aurora,CO,80011
+1291,Rincon/University,1293,06:25.68,385.68,4/21/2018,421 N Arcadia Blvd,Tucson,AZ,85711
+1292,Perry,1294,06:25.69,385.69,4/14/2018,1919 E Queen Creek Rd,Gilbert,AZ,85297
+1293,Arcadia,1295,06:25.73,385.73,4/18/2018,4703 E Indian School Rd,Phoenix,AZ,85018
+1294,Chino Valley,1296,06:25.75,385.75,4/6/2018,760 E Center St,Chino Valley,AZ,86323
+1295,Salpointe Catholic,1297,06:25.76,385.76,3/10/2018,1545 E Copper St,Tucson,AZ,85719
+1296,Estrella Foothills,1298,06:25.79,385.79,4/14/2018,13033 S Estrella Pkwy,Goodyear,AZ,85338
+1297,Ponderosa,1299,06:25.84,385.84,3/24/2018,7007 E Bayou Gulch Rd,Parker,CO,80134
+1298,Centauri,1300,06:25.86,385.86,3/29/2018,17889 State Hwy 285,La Jara,CO,81140
+1299,Gilbert Classical Academy,1301,06:25.88,385.88,3/27/2018,1016 N Burk St,Gilbert,AZ,85234
+1300,Chino Valley,1302,06:25.92,385.92,4/21/2018,760 E Center St,Chino Valley,AZ,86323
+1301,Chandler Prep,1303,06:26.05,386.05,4/7/2018,1951 N Alma School Road,Chandler,AZ,85224
+1302,Mountain View,1304,06:26.17,386.17,4/17/2018,3901 W Linda Vista Blvd,Tucson,AZ,85742
+1303,Prospect Ridge Academy,1305,06:26.28,386.28,4/3/2018,2555 Preble Creek Pkwy,Broomfield,CO,80023
+1304,Corona del Sol,1306,06:26.38,386.38,3/3/2018,1001 E Knox Rd,Tempe,AZ,85284
+1305,Chatfield,1307,06:26.44,386.44,4/6/2018,7227 S Simms St,Littleton,CO,80127
+1306,Carl Hayden Community,1308,06:26.49,386.49,3/2/2018,3333 W Roosevelt St,Phoenix,AZ,85292
+1307,Longmont,1309,06:26.54,386.54,3/17/2018,1040 Sunset St,Longmont,CO,80501
+1308,D'Evelyn,1310,06:26.59,386.59,4/7/2018,10359 W Nassau Ave,Denver,CO,80235
+1309,Cesar Chavez,1311,06:26.62,386.62,4/17/2018,3921 W Baseline Rd,Laveen,AZ,85339
+1310,Combs,1312,06:26.67,386.67,4/20/2018,2505 E Germann Road,San Tan Valley,AZ,85140
+1311,Grand Valley,1313,06:26.79,386.79,4/20/2018,800 Cardinal Way,Parachute,CO,81635
+1312,Peyton,1314,06:26.83,386.83,3/24/2018,13885 Bradshaw Rd,Peyton,CO,80831
+1313,Pueblo West,1315,06:26.83,386.83,5/4/2018,661 W. Capistrano Ave.,Pueblo West,CO,81007
+1314,Pusch Ridge Christian Academy,1316,06:26.95,386.95,4/17/2018,9500 N Oracle Rd,Tucson,AZ,85737
+1315,Greeley West,1317,06:26.96,386.96,4/28/2018,2401 35th Avenue,Greeley,CO,80634
+1316,North,1318,06:26.96,386.96,4/14/2018,1101 E Thomas Rd,Phoenix,AZ,85014
+1317,Grand Canyon,1319,06:27.01,387.01,3/16/2018,100 Boulder St,Grand Canyon,AZ,86023
+1318,Horizon,1320,06:27.03,387.03,3/10/2018,5321 E 136Th Ave,Thornton,CO,80602
+1319,Denver South,1321,06:27.10,387.1,3/22/2018,1700 E Louisiana Ave,Denver,CO,80210
+1320,Conifer,1322,06:27.11,387.11,3/31/2018,10441 County Hwy 73,Conifer,CO,80433
+1321,Englewood,1323,06:27.13,387.13,5/5/2018,3800 S Logan St,Englewood,CO,80113
+1322,Shadow Ridge,1324,06:27.19,387.19,4/14/2018,10909 N Perryville Rd,Surprise,AZ,85388
+1323,Burlington,1325,06:27.22,387.22,5/4/2018,380 Mike Lounge Dr,Burlington,CO,80807
+1324,Gilbert Christian,1326,06:27.25,387.25,4/5/2018,3632 E. Jasper Dr,Gilbert,AZ,85296
+1325,Lamar,1327,06:27.26,387.26,5/4/2018,1900 S 11Th St,Lamar,CO,81052
+1326,Navajo Prep,1328,06:27.27,387.27,3/23/2018,1220 W Apache,Farmington,NM,87401
+1327,Burlington,1329,06:27.28,387.28,5/4/2018,380 Mike Lounge Dr,Burlington,CO,80807
+1328,Rocky Mountain,1330,06:27.30,387.3,4/10/2018,1300 W. Swallow Rd.,Fort Collins,CO,80526
+1329,Cedaredge,1331,06:27.35,387.35,4/28/2018,575 SE Deer Creek Dr,Cedaredge,CO,81413
+1330,American Leadership Academy,1332,06:27.37,387.37,4/20/2018,23908 S Hawes Rd,Queen Creek,AZ,85142
+1331,Window Rock,1333,06:27.40,387.4,3/30/2018,Navajo Route No. 7,Fort Defiance,AZ,86504
+1332,Maryvale,1334,06:27.41,387.41,2/24/2018,3415 N 59 Ave,Phoenix,AZ,85033
+1333,ThunderRidge,1335,06:27.43,387.43,4/19/2018,1991 Wildcat Reserve Pkwy,Highlands Ranch,CO,80129
+1334,Yuma,1336,06:27.65,387.65,3/27/2018,400 S 6Th Ave,Yuma,AZ,85364
+1335,Cienega,1337,06:27.67,387.67,4/17/2018,12775 E. Mary Cleveland Way,Vail,AZ,85641
+1336,Desert Vista,1338,06:27.68,387.68,4/19/2018,16440 S 32Nd St,Phoenix,AZ,85048
+1337,Lewis-Palmer,1339,06:27.68,387.68,4/7/2018,1300 Higby Rd,Monument,CO,80132
+1338,Tempe,1340,06:27.69,387.69,4/19/2018,1730 S Mill Ave,Tempe,AZ,85281
+1339,Mountain Vista,1341,06:27.73,387.73,4/11/2018,10585 Mountain Vista Ridge,Highlands Ranch,CO,80126
+1340,Legend,1342,06:27.77,387.77,4/19/2018,22219 Hilltop Rd,Parker,CO,80138
+1341,La Joya Community,1343,06:27.78,387.78,3/31/2018,11650 W. Whyman Ave,Avondale,AZ,85323
+1342,Dakota Ridge,1344,06:27.82,387.82,4/14/2018,13399 W Coal Mine Ave,Littleton,CO,80127
+1343,Prairie View,1346,06:27.83,387.83,4/3/2018,12909 E 120Th Ave,Henderson,CO,80640
+1344,Anthem Prep,1347,06:27.84,387.84,4/6/2018,39808 N Gavilan Peak Pkwy,Anthem,AZ,85086
+1345,Grandview,1348,06:27.87,387.87,4/19/2018,20500 E Arapahoe Rd,Aurora,CO,80016
+1346,Cienega,1349,06:27.94,387.94,4/17/2018,12775 E. Mary Cleveland Way,Vail,AZ,85641
+1347,Liberty,1350,06:27.97,387.97,5/5/2018,8720 Scarborough Dr,Colorado Springs,CO,80920
+1348,Moffat County,1351,06:28.08,388.08,4/27/2018,900 Finley Ln,Craig,CO,81625
+1349,Higley,1352,06:28.09,388.09,4/14/2018,4068 E Pecos Dr,Gilbert,AZ,85297
+1350,Centennial,1353,06:28.26,388.26,3/30/2018,14388 N 79Th Ave,Peoria,AZ,85381
+1351,Casteel,1354,06:28.26,388.26,4/6/2018,24901 South Power Road,Queen Creek,AZ,85142
+1352,Catalina Foothills,1355,06:28.32,388.32,4/17/2018,4300 E Sunrise Dr,Tucson,AZ,85718
+1353,Eagle Valley,1356,06:28.36,388.36,4/14/2018,641 Valley Road,Gypsum,CO,81637
+1354,Battle Mountain,1357,06:28.47,388.47,4/7/2018,151 Miller Ranch Rd,Edwards,CO,81632
+1355,Perry,1358,06:28.56,388.56,3/23/2018,1919 E Queen Creek Rd,Gilbert,AZ,85297
+1356,George Washington,1359,06:28.56,388.56,5/12/2018,655 S Monaco Pkwy,Denver,CO,80224
+1357,Flowing Wells,1360,06:28.71,388.71,3/10/2018,3725 N Flowing Wells Rd,Tucson,AZ,85705
+1358,Liberty,1361,06:28.73,388.73,4/13/2018,8720 Scarborough Dr,Colorado Springs,CO,80920
+1359,Chinle,1362,06:28.78,388.78,3/16/2018,Hwy. 191 and Navajo Route 7,Chinle,AZ,86503
+1360,Prospect Ridge Academy,1363,06:28.79,388.79,5/4/2018,2555 Preble Creek Pkwy,Broomfield,CO,80023
+1361,Browne,1364,06:28.84,388.84,4/6/2018,7402 W Catalina Dr,Phoenix,AZ,85033
+1362,Buena Vista,1365,06:28.95,388.95,5/4/2018,559 Railroad,Buena Vista,CO,81211
+1363,Lee Williams,1366,06:28.98,388.98,4/14/2018,400 Grandview Ave,Kingman,AZ,86401
+1364,Palisade,1367,06:29.02,389.02,3/24/2018,3679 G Rd,Palisade,CO,81526
+1365,McClave,1368,06:29.03,389.03,4/23/2018,308 N Lincoln Ave,McClave,CO,81057
+1366,Northglenn,1369,06:29.04,389.04,4/3/2018,601 W 100Th Pl,Northglenn,CO,80260
+1367,Independence,1370,06:29.06,389.06,4/7/2018,6602 N 75Th Ave,Glendale,AZ,85303
+1368,Winslow,1371,06:29.12,389.12,3/14/2018,600 East Cherry St.,Winslow,AZ,86047
+1369,Williams Field,1372,06:29.13,389.13,4/20/2018,2076 S Higley Rd,Gilbert,AZ,85292
+1370,Pusch Ridge Christian Academy,1373,06:29.17,389.17,3/10/2018,9500 N Oracle Rd,Tucson,AZ,85737
+1371,Mingus,1374,06:29.17,389.17,4/21/2018,1801 E Fir St,Cottonwood,AZ,86326
+1372,Sahuaro,1375,06:29.17,389.17,3/10/2018,545 N Camino SEco,Tucson,AZ,85710
+1373,Northwest Christian,1376,06:29.18,389.18,4/14/2018,16401 N 43Rd Ave,Phoenix,AZ,85053
+1374,Tuba City,1377,06:29.29,389.29,3/16/2018,67 Fir Street,Tuba City,AZ,86045
+1375,Odyssey Institute,1378,06:29.32,389.32,4/14/2018,1495 S Verrado Way,Buckeye,AZ,85326
+1376,Chaparral,1379,06:29.34,389.34,4/27/2018,15655 Brookstone Dr,Parker,CO,80134
+1377,Valley Vista,1380,06:29.35,389.35,3/3/2018,15550 W Parkview Pl,Surprise,AZ,85374
+1378,Liberty,1381,06:29.36,389.36,4/7/2018,9621 W Speckled Gecko Dr,Peoria,AZ,85383
+1379,Carl Hayden Community,1382,06:29.38,389.38,4/17/2018,3333 W Roosevelt St,Phoenix,AZ,85292
+1380,Summit,1383,06:29.39,389.39,5/5/2018,16201 Us Hwy 9,Frisco,CO,80443
+1381,Peoria,1384,06:29.45,389.45,4/17/2018,11200 N 83Rd Ave,Peoria,AZ,85345
+1382,Denver East,1385,06:29.55,389.55,4/11/2018,1600 City Park Esplanade,Denver,CO,80206
+1383,Cheyenne Mountain,1386,06:29.56,389.56,5/10/2018,1200 Cresta Rd,Colorado Springs,CO,80906
+1384,Desert Vista,1387,06:29.64,389.64,3/28/2018,16440 S 32Nd St,Phoenix,AZ,85048
+1385,Winslow,1388,06:29.67,389.67,4/20/2018,600 East Cherry St.,Winslow,AZ,86047
+1386,Manitou Springs,1389,06:29.68,389.68,4/6/2018,401 El Monte Pl,Manitou Springs,CO,80829
+1387,Prescott,1390,06:29.70,389.7,3/23/2018,1050 N Ruth St,Prescott,AZ,86301
+1388,Round Valley,1391,06:29.74,389.74,4/25/2018,550 N Butler St,Eagar,AZ,85925
+1389,Marcos de Niza,1392,06:29.75,389.75,4/19/2018,6000 South Lakeshore Drive,Tempe,AZ,85283
+1390,Brush,1393,06:29.80,389.8,3/10/2018,400 West Ave,Brush,CO,80723
+1391,Brighton,1394,06:29.98,389.98,4/14/2018,360 S 8Th Ave,Brighton,CO,80601
+1392,Olathe,1395,06:30.04,390.04,5/11/2018,410 Highway 50,Olathe,CO,81425
+1393,Liberty Common,1396,06:30.06,390.06,4/28/2018,2745 Minnesota Dr.,Fort Collins,CO,80525
+1394,Faith Christian,1397,06:30.12,390.12,4/27/2018,4890 Carr St,Arvada,CO,80002
+1395,Prairie View,1398,06:30.15,390.15,3/22/2018,12909 E 120Th Ave,Henderson,CO,80640
+1396,Holyoke,1399,06:30.23,390.23,4/9/2018,545 E Hale St,Holyoke,CO,80734
+1397,Hoehne,1400,06:30.24,390.24,4/2/2018,19851 C.R. 75.1,Hoehne,CO,81046
+1398,Ganado,1401,06:30.25,390.25,4/13/2018,PO Box 1757,Ganado,AZ,86505
+1399,La Joya Community,1402,06:30.26,390.26,3/3/2018,11650 W. Whyman Ave,Avondale,AZ,85323
+1400,Chatfield,1403,06:30.37,390.37,5/5/2018,7227 S Simms St,Littleton,CO,80127
+1401,Buena Vista,1404,06:30.38,390.38,5/4/2018,559 Railroad,Buena Vista,CO,81211
+1402,Dakota Ridge,1405,06:30.49,390.49,3/17/2018,13399 W Coal Mine Ave,Littleton,CO,80127
+1403,Highlands Ranch,1406,06:30.50,390.5,4/14/2018,9375 S Cresthill Lane,Highlands Ranch,CO,80130
+1404,Elizabeth,1407,06:30.65,390.65,5/4/2018,34500 County Road 13,Elizabeth,CO,80107
+1405,Stargate School,1408,06:30.65,390.65,5/5/2018,14530 Washington St,Thornton,CO,80023
+1406,Valor Christian,1409,06:30.70,390.7,3/31/2018,3775 E. Grace Boulevard,Highlands Ranch,CO,80126
+1407,Highlands Ranch,1410,06:30.70,390.7,3/17/2018,9375 S Cresthill Lane,Highlands Ranch,CO,80130
+1408,Conifer,1411,06:30.71,390.71,4/28/2018,10441 County Hwy 73,Conifer,CO,80433
+1409,Delta,1412,06:30.76,390.76,4/3/2018,1400 Pioneer Rd,Delta,CO,81416
+1410,St. Mary's,1413,06:30.77,390.77,3/17/2018,2525 N. 3rd St.,Phoenix,AZ,85004
+1411,Wickenburg,1414,06:30.96,390.96,3/27/2018,1090 South Vulture Mine Rd,Wickenburg,AZ,85390
+1412,Center,1415,06:31.00,391.0,3/29/2018,550 South Sylvester Ave,Center,CO,81125
+1413,Coconino,1416,06:31.01,391.01,3/31/2018,2801 N Isabel St,Flagstaff,AZ,86004
+1414,Pueblo West,1417,06:31.18,391.18,3/17/2018,661 W. Capistrano Ave.,Pueblo West,CO,81007
+1415,Tonopah Valley,1418,06:31.27,391.27,4/21/2018,38201 W Indian School Rd,Tonopah,AZ,85354
+1416,Legacy,1419,06:31.28,391.28,3/10/2018,2701 W 136Th Ave,Broomfield,CO,80023
+1417,Peyton,1420,06:31.32,391.32,5/5/2018,13885 Bradshaw Rd,Peyton,CO,80831
+1418,Cholla,1421,06:31.58,391.58,3/29/2018,2001 W Starr Pass Blvd,Tucson,AZ,85713
+1419,Gilbert,1422,06:31.59,391.59,4/20/2018,1101 E Elliot Rd,Gilbert,AZ,85234
+1420,Conifer,1423,06:31.60,391.6,5/5/2018,10441 County Hwy 73,Conifer,CO,80433
+1421,Rye,1424,06:31.68,391.68,4/14/2018,PO Box 10,Rye,CO,81069
+1422,Eagle Valley,1425,06:31.74,391.74,4/28/2018,641 Valley Road,Gypsum,CO,81637
+1423,Palmer Ridge,1426,06:31.74,391.74,5/5/2018,19255 Monument Hill Rd,Monument,CO,80132
+1424,Flowing Wells,1427,06:31.76,391.76,4/21/2018,3725 N Flowing Wells Rd,Tucson,AZ,85705
+1425,Ganado,1428,06:31.80,391.8,3/9/2018,PO Box 1757,Ganado,AZ,86505
+1426,Valor Christian,1429,06:31.93,391.93,4/11/2018,3775 E. Grace Boulevard,Highlands Ranch,CO,80126
+1427,Frontier Academy,1430,06:31.97,391.97,4/28/2018,6530 W. 16Th St,Greeley,CO,80634
+1428,Verrado,1431,06:31.98,391.98,3/3/2018,20050 W Indian School Rd,Buckeye,AZ,85396
+1429,Valor Christian,1432,06:31.99,391.99,4/11/2018,3775 E. Grace Boulevard,Highlands Ranch,CO,80126
+1430,SkyView Academy,1433,06:32.07,392.07,3/22/2018,6161 Business Center Drive,Highlands Ranch,CO,80130
+1431,Standley Lake,1434,06:32.09,392.09000000000003,5/5/2018,9300 W 104Th Ave,Westminster,CO,80021
+1432,Safford,1435,06:32.11,392.11,4/4/2018,1400 W 11Th St,Safford,AZ,85546
+1433,Arizona College Prep,1436,06:32.17,392.17,3/3/2018,4477 S. Gilbert Road,Chandler,AZ,85249
+1434,Apache Junction,1437,06:32.19,392.19,3/9/2018,2525 S Ironwood Drive,Apache Junction,AZ,85120
+1435,Skyview,1438,06:32.24,392.24,5/5/2018,8990 York St,Thornton,CO,80229
+1436,Columbine,1439,06:32.28,392.28,3/10/2018,6201 S Pierce St,Littleton,CO,80123
+1437,Campo Verde,1440,06:32.44,392.44,4/14/2018,3870 S Quartz St,Gilbert,AZ,85297
+1438,Cibola,1441,06:32.49,392.49,3/27/2018,4100 W 20Th St,Yuma,AZ,85364
+1439,Greeley West,1442,06:32.56,392.56,4/23/2018,2401 35th Avenue,Greeley,CO,80634
+1440,Del Norte,1443,06:32.60,392.6,4/7/2018,950 French St,Del Norte,CO,81132
+1441,Cesar Chavez,1444,06:32.71,392.71,4/13/2018,3921 W Baseline Rd,Laveen,AZ,85339
+1442,Pagosa Springs,1445,06:32.73,392.73,4/7/2018,800 South 8th Street,Pagosa Springs,CO,81147
+1443,Liberty,1446,06:32.74,392.74,4/7/2018,9621 W Speckled Gecko Dr,Peoria,AZ,85383
+1444,Arizona Lutheran Academy,1447,06:32.79,392.79,3/27/2018,6036 S 27Th Ave,Phoenix,AZ,85041
+1445,Combs,1448,06:32.81,392.81,3/2/2018,2505 E Germann Road,San Tan Valley,AZ,85140
+1446,Coronado,1449,06:32.87,392.87,5/4/2018,1590 W Fillmore St,Colorado Springs,CO,80904
+1447,Rincon/University,1450,06:33.02,393.02,3/17/2018,421 N Arcadia Blvd,Tucson,AZ,85711
+1448,Horizon,1451,06:33.35,393.35,4/18/2018,5601 E Greenway Rd,Scottsdale,AZ,85254
+1449,Saguaro,1452,06:33.37,393.37,4/18/2018,6250 N 82Nd St,Scottsdale,AZ,85250
+1450,Loveland,1453,06:33.49,393.49,3/31/2018,920 W 29Th St,Loveland,CO,80538
+1451,Willow Canyon,1454,06:33.55,393.55,3/31/2018,17901 West Lundberg,Surprise,AZ,85388
+1452,Snowflake,1455,06:33.56,393.56,4/20/2018,220 South 2nd West,Snowflake,AZ,85937
+1453,Mesa,1456,06:33.67,393.67,4/20/2018,1630 E Southern Ave,Mesa,AZ,85204
+1454,Xavier College Prep,1457,06:33.70,393.7,4/11/2018,4710 N. 5Th St,Phoenix,AZ,85012
+1455,Chino Valley,1458,06:33.92,393.92,4/6/2018,760 E Center St,Chino Valley,AZ,86323
+1456,Benjamin Franklin,1459,06:33.99,393.99,4/6/2018,18864 E Germann Rd,Queen Creek,AZ,85142
+1457,Rincon/University,1460,06:34.00,394.0,4/6/2018,421 N Arcadia Blvd,Tucson,AZ,85711
+1458,North,1461,06:34.04,394.04,3/2/2018,1101 E Thomas Rd,Phoenix,AZ,85014
+1459,Flagstaff,1462,06:34.10,394.1,4/7/2018,400 W Elm,Flagstaff,AZ,86001
+1460,Cactus Shadows,1463,06:34.19,394.19,3/3/2018,5802 E Dove Valley Rd,Cave Creek,AZ,85327
+1461,Nogales,1465,06:34.49,394.49,3/29/2018,1950 Apache Blvd,Nogales,AZ,85261
+1462,Monument Valley,1466,06:34.56,394.56,3/3/2018,North U.S. Hwy 163/Mustang Boulevard,Kayenta,AZ,86033
+1463,Horizon,1467,06:34.58,394.58,3/17/2018,5321 E 136Th Ave,Thornton,CO,80602
+1464,Red Mountain,1468,06:34.74,394.74,3/23/2018,7301 E Brown Rd,Mesa,AZ,85207
+1465,Greenway,1469,06:34.83,394.83,3/29/2018,3930 W Greenway Rd,Phoenix,AZ,85053
+1466,Conifer,1470,06:34.88,394.88,3/31/2018,10441 County Hwy 73,Conifer,CO,80433
+1467,Meeker,1471,06:34.95,394.95,4/7/2018,550 School Street,Meeker,CO,81641
+1468,Dakota Ridge,1473,06:34.98,394.98,4/12/2018,13399 W Coal Mine Ave,Littleton,CO,80127
+1469,Eastern Hancock,1474,06:35.00,395.0,3/15/2018,10320 E 250 N,Charlottesville,IN,46117
+1470,Estrella Foothills,1475,06:35.01,395.01,4/14/2018,13033 S Estrella Pkwy,Goodyear,AZ,85338
+1471,Mesquite,1476,06:35.02,395.02,3/2/2018,500 S Mcqueen Rd,Gilbert,AZ,85233
+1472,Arete Prep,1477,06:35.04,395.04,4/20/2018,4525 E. Baseline Rd,Gilbert,AZ,85234
+1473,Prairie View,1478,06:35.15,395.15,3/10/2018,12909 E 120Th Ave,Henderson,CO,80640
+1474,Caprock Academy,1479,06:35.16,395.15999999999997,3/24/2018,714 24 1/2 Rd,Grand Junction,CO,81505
+1475,Peoria,1480,06:35.20,395.2,4/5/2018,11200 N 83Rd Ave,Peoria,AZ,85345
+1476,Millennium,1481,06:35.20,395.2,4/19/2018,14802 W Wigwam Blvd,Goodyear,AZ,85338
+1477,Shadow Ridge,1482,06:35.28,395.28,3/3/2018,10909 N Perryville Rd,Surprise,AZ,85388
+1478,Highlands Ranch,1483,06:35.30,395.3,3/31/2018,9375 S Cresthill Lane,Highlands Ranch,CO,80130
+1479,Erie,1484,06:35.36,395.36,4/14/2018,3180 County Road 5,Erie,CO,80516
+1480,Regis Jesuit,1485,06:35.49,395.49,3/15/2018,6400 S. Lewiston Way,Aurora,CO,80016
+1481,Platte Canyon,1486,06:35.55,395.55,4/23/2018,57243 US Highway 285,Bailey,CO,80421
+1482,Prospect Ridge Academy,1487,06:35.62,395.62,3/22/2018,2555 Preble Creek Pkwy,Broomfield,CO,80023
+1483,Thatcher,1488,06:35.62,395.62,4/4/2018,601 N. 3rd Ave.,Thatcher,AZ,85552
+1484,North Phoenix Preparatory Academy,1489,06:35.72,395.72,3/29/2018,14100 N. 32nd St.,Phoenix,AZ,85032
+1485,Stargate School,1490,06:35.72,395.72,4/21/2018,14530 Washington St,Thornton,CO,80023
+1486,Denver Christian,1491,06:35.76,395.76,5/5/2018,3898 S. Teller St.,Lakewood,CO,
+1487,Horizon,1492,06:35.82,395.82,4/18/2018,5601 E Greenway Rd,Scottsdale,AZ,85254
+1488,Rye,1493,06:35.87,395.87,4/2/2018,PO Box 10,Rye,CO,81069
+1489,Arete Prep,1494,06:35.88,395.88,4/7/2018,4525 E. Baseline Rd,Gilbert,AZ,85234
+1490,Kennedy,1495,06:35.90,395.9,5/4/2018,2855 S Lamar St,Denver,CO,80227
+1491,Desert Edge,1496,06:35.92,395.92,4/19/2018,15778 W Yuma Rd,Goodyear,AZ,85338
+1492,Peyton,1497,06:36.01,396.01,5/5/2018,13885 Bradshaw Rd,Peyton,CO,80831
+1493,Cactus,1498,06:36.13,396.13,3/30/2018,6330 W Greenway Rd,Glendale,AZ,85306
+1494,Palisade,1499,06:36.44,396.44,3/24/2018,3679 G Rd,Palisade,CO,81526
+1495,Flowing Wells,1500,06:36.46,396.46,4/21/2018,3725 N Flowing Wells Rd,Tucson,AZ,85705
+1496,Crowley County,1501,06:36.46,396.46,3/24/2018,602 Main Street,Ordway,CO,81063
+1497,Cortez,1502,06:36.53,396.53,3/9/2018,8828 N 31St Ave,Phoenix,AZ,85051
+1498,Centennial,1503,06:36.53,396.53,2/24/2018,14388 N 79Th Ave,Peoria,AZ,85381
+1499,Glenwood Springs,1504,06:36.61,396.61,5/5/2018,1521 Grand Ave,Glenwood Springs,CO,81601
+1500,Mohave,1505,06:36.70,396.7,4/7/2018,2251 Hwy 95,Bullhead City,AZ,86442
+1501,Red Mountain,1506,06:36.78,396.78,3/23/2018,7301 E Brown Rd,Mesa,AZ,85207
+1502,Centaurus,1507,06:36.79,396.79,3/21/2018,10300 S Boulder Rd,Lafayette,CO,80026
+1503,Basis,1508,06:36.80,396.8,4/24/2018,1700 N Gemini Rd,Flagstaff,AZ,86001
+1504,Brighton,1509,06:36.81,396.81,4/21/2018,360 S 8Th Ave,Brighton,CO,80601
+1505,Chaparral,1510,06:36.85,396.85,4/18/2018,6935 E. Gold Dust Ave,Scottsdale,AZ,85253
+1506,Trivium Prep,1511,06:36.87,396.87,4/6/2018,2001 N. Bullard Ave,Goodyear,AZ,85395
+1507,Conemaugh Township,1512,06:36.87,396.87,4/13/2018,300 W Campus Ave,Davidsville,PA,15928
+1508,Globe,1513,06:36.98,396.98,4/20/2018,437 S. High St.,Globe,AZ,85501
+1509,Chaparral,1514,06:37.02,397.02,3/15/2018,15655 Brookstone Dr,Parker,CO,80134
+1510,Willow Canyon,1515,06:37.03,397.03,3/9/2018,17901 West Lundberg,Surprise,AZ,85388
+1511,Rangeview,1516,06:37.06,397.06,5/3/2018,17599 E Iliff Ave,Aurora,CO,80013
+1512,Holy Family,1517,06:37.11,397.11,3/10/2018,5195 W 144Th Ave,Broomfield,CO,80020
+1513,ThunderRidge,1518,06:37.12,397.12,4/19/2018,1991 Wildcat Reserve Pkwy,Highlands Ranch,CO,80129
+1514,Mesquite,1519,06:37.15,397.15,4/7/2018,500 S Mcqueen Rd,Gilbert,AZ,85233
+1515,Kennedy,1520,06:37.20,397.2,5/4/2018,2855 S Lamar St,Denver,CO,80227
+1516,Mesa,1521,06:37.26,397.26,4/20/2018,1630 E Southern Ave,Mesa,AZ,85204
+1517,Holbrook,1522,06:37.29,397.29,3/9/2018,455 N 8Th Ave,Holbrook,AZ,86025
+1518,Evangelical Christian,1523,06:37.31,397.31,5/5/2018,4052 Nonchalant Circle South,Colorado Springs,CO,80917
+1519,Steamboat Springs,1524,06:37.36,397.36,4/7/2018,45 E Maple Street,Steamboat Springs,CO,80487
+1520,Camp Verde,1525,06:37.38,397.38,4/13/2018,1326 Montezuma Castle Hwy,Camp Verde,AZ,86322
+1521,Youngker,1526,06:37.45,397.45,3/28/2018,3000 S Apache,Buckeye,AZ,85326
+1522,Perry,1527,06:37.54,397.54,4/18/2018,1919 E Queen Creek Rd,Gilbert,AZ,85297
+1523,Sand Creek,1528,06:37.63,397.63,5/5/2018,7005 N Carefree Cir,Colorado Springs,CO,80922
+1524,Cesar Chavez,1529,06:37.63,397.63,2/24/2018,3921 W Baseline Rd,Laveen,AZ,85339
+1525,Westview,1530,06:37.69,397.69,4/6/2018,10850 W Garden Lakes Pkwy,Avondale,AZ,85323
+1526,Gilbert,1531,06:37.78,397.78,4/20/2018,1101 E Elliot Rd,Gilbert,AZ,85234
+1527,Maryvale,1532,06:37.78,397.78,4/6/2018,3415 N 59 Ave,Phoenix,AZ,85033
+1528,Overland,1533,06:37.94,397.94,4/28/2018,12400 E Jewell Ave,Aurora,CO,80012
+1529,Rocky Mountain,1534,06:37.99,397.99,4/10/2018,1300 W. Swallow Rd.,Fort Collins,CO,80526
+1530,Strasburg,1535,06:38.00,398.0,5/5/2018,56729 East Colorado Avenue,Strasburg,CO,80836
+1531,Stargate School,1536,06:38.03,398.03,4/26/2018,14530 Washington St,Thornton,CO,80023
+1532,Boulder Creek,1537,06:38.16,398.15999999999997,4/23/2018,40404 N Gavilan Peak Pkwy,Anthem,AZ,85086
+1533,Alchesay,1538,06:38.18,398.18,3/30/2018,200 Falcon Way,Whiteriver,AZ,85941
+1534,Coconino,1539,06:38.32,398.32,4/14/2018,2801 N Isabel St,Flagstaff,AZ,86004
+1535,Peoria,1540,06:38.32,398.32,3/2/2018,11200 N 83Rd Ave,Peoria,AZ,85345
+1536,Williams Field,1541,06:38.33,398.33,3/30/2018,2076 S Higley Rd,Gilbert,AZ,85292
+1537,Eaton,1542,06:38.39,398.39,5/5/2018,114 Park Ave,Eaton,CO,80615
+1538,Browne,1543,06:38.43,398.43,4/17/2018,7402 W Catalina Dr,Phoenix,AZ,85033
+1539,Stargate School,1544,06:38.46,398.46,4/26/2018,14530 Washington St,Thornton,CO,80023
+1540,Rehoboth Christian,1545,06:38.48,398.48,4/20/2018,07B Tse Yaaniichii Lane,Rehoboth,NM,87322
+1541,Marcos de Niza,1546,06:38.49,398.49,4/6/2018,6000 South Lakeshore Drive,Tempe,AZ,85283
+1542,Resurrection Christian,1547,06:38.50,398.5,3/24/2018,6508 E Crossroads Blvd,Loveland,CO,80538
+1543,San Luis,1548,06:38.51,398.51,3/27/2018,1250 N 8th Ave,San Luis,AZ,85349
+1544,Millennium,1549,06:38.79,398.79,4/21/2018,14802 W Wigwam Blvd,Goodyear,AZ,85338
+1545,Palmer,1550,06:38.87,398.87,4/27/2018,301 N NEvada Ave,Colorado Springs,CO,80903
+1546,South,1551,06:39.01,399.01,5/11/2018,1213 W Allison Rd,Cheyenne,WY,82007
+1547,Morenci,1552,06:39.02,399.02,4/7/2018,1 Stadium Drive,Morenci,AZ,85540
+1548,Heritage Christian,1553,06:39.17,399.17,4/10/2018,2506 Zurich Dr,Fort Collins,CO,80524
+1549,Pine Creek,1554,06:39.25,399.25,4/20/2018,10750 Thunder Mountain Ave,Colorado Springs,CO,80908
+1550,St. Mary's,1555,06:39.51,399.51,3/17/2018,2501 E Yampa St,Colorado Springs,CO,80909
+1551,Thatcher,1556,06:39.69,399.69,4/4/2018,601 N. 3rd Ave.,Thatcher,AZ,85552
+1552,South,1557,06:39.73,399.73,3/23/2018,1213 W Allison Rd,Cheyenne,WY,82007
+1553,Berthoud,1558,06:39.73,399.73,4/14/2018,850 Spartan Ave,Berthoud,CO,80513
+1554,Fairview,1559,06:40.02,400.02,4/21/2018,1515 Greenbriar Blvd,Boulder,CO,80305
+1555,Buena Vista,1560,06:40.04,400.04,4/21/2018,559 Railroad,Buena Vista,CO,81211
+1556,Moon Valley,1561,06:40.08,400.08,3/30/2018,3625 W Cactus Rd,Phoenix,AZ,85029
+1557,Tri-West Hendricks,1562,06:40.12,400.12,4/12/2018,7883 N SR 39,Lizton,IN,46149
+1558,St. David,1563,06:40.12,400.12,4/7/2018,70 E. Patton St,St. David,AZ,85630
+1559,Glendale,1564,06:40.12,400.12,4/18/2018,6216 W Glendale Ave,Glendale,AZ,85301
+1560,Strasburg,1565,06:40.13,400.13,3/24/2018,56729 East Colorado Avenue,Strasburg,CO,80836
+1561,Regis Jesuit,1566,06:40.13,400.13,5/5/2018,6400 S. Lewiston Way,Aurora,CO,80016
+1562,Bethune,1567,06:40.14,400.14,4/10/2018,145 W 3rd Ave,Bethune,CO,80805
+1563,Moffat County,1568,06:40.16,400.15999999999997,4/20/2018,900 Finley Ln,Craig,CO,81625
+1564,Greeley Central,1569,06:40.22,400.22,3/31/2018,1515 14th Ave,Greeley,CO,80631
+1565,Verrado,1570,06:40.43,400.43,4/19/2018,20050 W Indian School Rd,Buckeye,AZ,85396
+1566,Poudre,1571,06:40.54,400.54,3/31/2018,201 Impala Dr,Fort Collins,CO,80521
+1567,Lake City,1572,06:40.61,400.61,4/23/2018,614 N Silver St,Lake City,CO,81235
+1568,Payson,1573,06:40.62,400.62,3/2/2018,301 S Mclane Rd,Payson,AZ,85541
+1569,Heritage Christian,1574,06:40.66,400.65999999999997,4/14/2018,2506 Zurich Dr,Fort Collins,CO,80524
+1570,Crested Butte,1575,06:40.67,400.67,3/31/2018,818 Red Lady Avenue,Crested Butte,CO,81224
+1571,Coconino,1576,06:40.67,400.67,3/3/2018,2801 N Isabel St,Flagstaff,AZ,86004
+1572,Centaurus,1577,06:40.68,400.68,3/17/2018,10300 S Boulder Rd,Lafayette,CO,80026
+1573,Chandler Prep,1578,06:40.71,400.71,3/29/2018,1951 N Alma School Road,Chandler,AZ,85224
+1574,Tolleson,1579,06:40.72,400.72,3/2/2018,9419 W Van Buren,Tolleson,AZ,85353
+1575,Empire,1580,06:40.74,400.74,3/10/2018,10701 E Mary Ann Cleveland Wy,Tucson,AZ,85747
+1576,Poudre,1581,06:40.85,400.85,4/10/2018,201 Impala Dr,Fort Collins,CO,80521
+1577,Palmer,1582,06:40.91,400.90999999999997,4/27/2018,301 N NEvada Ave,Colorado Springs,CO,80903
+1578,Marana,1583,06:40.95,400.95,3/29/2018,12000 W Emigh Rd,Tucson,AZ,85743
+1579,Chaparral,1584,06:41.00,401.0,4/18/2018,6935 E. Gold Dust Ave,Scottsdale,AZ,85253
+1580,Canyon del Oro,1585,06:41.01,401.01,4/6/2018,25 W Calle Concordia,Tucson,AZ,85737
+1581,Aspen,1586,06:41.01,401.01,4/21/2018,235 High School Rd,Aspen,CO,81611
+1582,North Park,1587,06:41.03,401.03,4/28/2018,910 4th Street,Walden,CO,80480
+1583,Liberty Common,1588,06:41.20,401.2,4/10/2018,2745 Minnesota Dr.,Fort Collins,CO,80525
+1584,Las Animas,1589,06:41.23,401.23,3/29/2018,300 Grove Ave,Las Animas,CO,81054
+1585,Corona del Sol,1590,06:41.26,401.26,4/19/2018,1001 E Knox Rd,Tempe,AZ,85284
+1586,Cedaredge,1591,06:41.28,401.28,4/20/2018,575 SE Deer Creek Dr,Cedaredge,CO,81413
+1587,Camelback,1592,06:41.31,401.31,4/17/2018,4612 N 28Th St,Phoenix,AZ,85016
+1588,Weldon Valley,1593,06:41.36,401.36,3/24/2018,911 North Ave,Weldona,CO,80653
+1589,De Beque,1594,06:41.71,401.71,4/28/2018,730 Minter Avenue,De Beque,CO,81630
+1590,Denver West,1595,06:41.71,401.71,5/4/2018,951 Elati St,Denver,CO,80204
+1591,Tombstone,1596,06:41.72,401.72,4/17/2018,1211 Yellow Jacket Way,Tombstone,AZ,85638
+1592,St. Michael,1597,06:41.74,401.74,4/6/2018,1 Lupton Rd.,St. Michaels,AZ,86511
+1593,Holyoke,1598,06:41.89,401.89,4/14/2018,545 E Hale St,Holyoke,CO,80734
+1594,Maryvale,1599,06:42.02,402.02,3/2/2018,3415 N 59 Ave,Phoenix,AZ,85033
+1595,Gila Ridge,1600,06:42.05,402.05,4/12/2018,7150 East 24th Street,Yuma,AZ,85365
+1596,Joseph City,1601,06:42.10,402.1,4/7/2018,4629 2nd North,Joseph City,AZ,86032
+1597,Lee Williams,1602,06:42.10,402.1,4/7/2018,400 Grandview Ave,Kingman,AZ,86401
+1598,Tuba City,1603,06:42.10,402.1,4/20/2018,67 Fir Street,Tuba City,AZ,86045
+1599,Rincon/University,1604,06:42.14,402.14,4/6/2018,421 N Arcadia Blvd,Tucson,AZ,85711
+1600,Pueblo East,1605,06:42.15,402.15,5/4/2018,9 Macneil Rd,Pueblo,CO,81001
+1601,Legend,1606,06:42.20,402.2,3/31/2018,22219 Hilltop Rd,Parker,CO,80138
+1602,Willcox,1607,06:42.29,402.29,3/3/2018,240 N. Bisbee,Willcox,AZ,85643
+1603,Westwood,1608,06:42.31,402.31,3/9/2018,945 W Rio Salado,Mesa,AZ,85201
+1604,Denver East,1609,06:42.41,402.40999999999997,5/4/2018,1600 City Park Esplanade,Denver,CO,80206
+1605,Sunnyslope,1610,06:42.54,402.54,4/14/2018,35 W Dunlap Ave,Phoenix,AZ,85021
+1606,Cholla,1611,06:42.54,402.54,3/29/2018,2001 W Starr Pass Blvd,Tucson,AZ,85713
+1607,Conifer,1612,06:42.56,402.56,5/12/2018,10441 County Hwy 73,Conifer,CO,80433
+1608,Sabino,1613,06:42.84,402.84000000000003,3/3/2018,5000 N Bowes Rd,Tucson,AZ,85749
+1609,Pueblo Centennial,1614,06:42.87,402.87,3/31/2018,2525 Mountview Dr,Pueblo,CO,81008
+1610,Horizon,1615,06:42.93,402.93,3/10/2018,5321 E 136Th Ave,Thornton,CO,80602
+1611,Hamilton,1616,06:43.24,403.24,4/11/2018,3700 S. Arizona Ave,Chandler,AZ,85248
+1612,Woodland Park,1617,06:43.31,403.31,5/10/2018,151 Panther Way,Woodland Park,CO,80863
+1613,Westminster,1618,06:43.41,403.40999999999997,3/16/2018,6933 Raleigh Street,Westminster,CO,80030
+1614,Westover,1619,06:43.48,403.48,3/22/2018,277 Bonanza Dr,Fayetteville,NC,28303
+1615,Blue Ridge,1620,06:43.48,403.48,3/30/2018,1200 W White Mountain Blvd,Lakeside,AZ,85929
+1616,Buena Vista,1621,06:43.48,403.48,5/4/2018,559 Railroad,Buena Vista,CO,81211
+1617,Deer Valley,1622,06:43.55,403.55,3/3/2018,18424 N 51St Ave,Glendale,AZ,85308
+1618,Dobson,1623,06:43.63,403.63,3/23/2018,1501 W Guadalupe Rd,Mesa,AZ,85202
+1619,Mead,1624,06:43.86,403.86,3/17/2018,12750 CR 7,Longmont,CO,80504
+1620,Grand Junction Central,1625,06:43.90,403.9,3/10/2018,550 Warrior Wy,Grand Junction,CO,81504
+1621,Boulder,1626,06:43.97,403.97,3/21/2018,1604 Arapahoe Ave,Boulder,CO,80302
+1622,Northland Prep Academy,1627,06:43.99,403.99,3/29/2018,3300 E Sparrow Ave,Flagstaff,AZ,86004
+1623,Jefferson Academy,1628,06:44.05,404.05,3/24/2018,11251 Reed Way,Broomfield,CO,80020
+1624,Cactus Shadows,1629,06:44.06,404.06,4/14/2018,5802 E Dove Valley Rd,Cave Creek,AZ,85327
+1625,Castle View,1630,06:44.10,404.1,3/31/2018,5254 N. Meadows Dr,Castle Rock,CO,80109
+1626,Pueblo East,1631,06:44.17,404.17,3/31/2018,9 Macneil Rd,Pueblo,CO,81001
+1627,Valley Vista,1632,06:44.23,404.23,3/3/2018,15550 W Parkview Pl,Surprise,AZ,85374
+1628,Casteel,1633,06:44.31,404.31,3/2/2018,24901 South Power Road,Queen Creek,AZ,85142
+1629,Jefferson Academy,1634,06:44.37,404.37,4/14/2018,11251 Reed Way,Broomfield,CO,80020
+1630,Chandler,1635,06:44.40,404.4,3/3/2018,350 N Arizona Ave,Chandler,AZ,85225
+1631,Alhambra,1636,06:44.46,404.46,4/14/2018,3839 W Camelback Rd,Phoenix,AZ,85019
+1632,Monument Valley,1637,06:44.56,404.56,3/3/2018,North U.S. Hwy 163/Mustang Boulevard,Kayenta,AZ,86033
+1633,Paradise Valley,1638,06:44.56,404.56,3/23/2018,3950 E Bell Rd,Phoenix,AZ,85032
+1634,Northglenn,1639,06:44.57,404.57,4/26/2018,601 W 100Th Pl,Northglenn,CO,80260
+1635,Fruita Monument,1640,06:44.65,404.65,4/20/2018,1102 Wildcat Ave,Fruita,CO,81521
+1636,Scottsdale Christian Academy,1641,06:44.65,404.65,3/20/2018,14400 N Tatum Blvd,Phoenix,AZ,85032
+1637,Chandler Prep,1642,06:44.73,404.73,3/10/2018,1951 N Alma School Road,Chandler,AZ,85224
+1638,Dobson,1643,06:44.74,404.74,4/20/2018,1501 W Guadalupe Rd,Mesa,AZ,85202
+1639,Denver East,1644,06:44.75,404.75,4/11/2018,1600 City Park Esplanade,Denver,CO,80206
+1640,Arizona College Prep,1645,06:44.76,404.76,4/18/2018,4477 S. Gilbert Road,Chandler,AZ,85249
+1641,Rincon/University,1646,06:44.86,404.86,3/2/2018,421 N Arcadia Blvd,Tucson,AZ,85711
+1642,Chino Valley,1647,06:44.97,404.97,4/20/2018,760 E Center St,Chino Valley,AZ,86323
+1643,Mead,1648,06:45.02,405.02,4/28/2018,12750 CR 7,Longmont,CO,80504
+1644,Snowflake,1649,06:45.23,405.23,4/14/2018,220 South 2nd West,Snowflake,AZ,85937
+1645,Delta,1650,06:45.54,405.54,3/24/2018,1400 Pioneer Rd,Delta,CO,81416
+1646,Desert Mountain,1651,06:45.59,405.59000000000003,4/18/2018,12575 E Via Linda,Scottsdale,AZ,85259
+1647,Mountain View,1652,06:45.64,405.64,4/4/2018,3901 W Linda Vista Blvd,Tucson,AZ,85742
+1648,Regis Jesuit,1653,06:45.70,405.7,5/5/2018,6400 S. Lewiston Way,Aurora,CO,80016
+1649,St. Mary's,1654,06:46.18,406.18,5/5/2018,2501 E Yampa St,Colorado Springs,CO,80909
+1650,Frontier Academy,1655,06:46.28,406.28,3/31/2018,6530 W. 16Th St,Greeley,CO,80634
+1651,Casteel,1656,06:46.46,406.46,4/14/2018,24901 South Power Road,Queen Creek,AZ,85142
+1652,Ponderosa,1657,06:46.50,406.5,3/31/2018,7007 E Bayou Gulch Rd,Parker,CO,80134
+1653,Valley Christian,1658,06:46.53,406.53,4/18/2018,6900 W Galveston,Chandler,AZ,85226
+1654,Delta,1659,06:46.53,406.53,4/13/2018,1400 Pioneer Rd,Delta,CO,81416
+1655,Dakota Ridge,1660,06:46.59,406.59000000000003,4/6/2018,13399 W Coal Mine Ave,Littleton,CO,80127
+1656,Wiggins,1661,06:46.60,406.6,3/23/2018,201 Tiger Way,Wiggins,CO,80654
+1657,Montrose,1662,06:46.65,406.65,4/7/2018,600 South Selig Avenue,Montrose,CO,81401
+1658,Kit Carson,1663,06:46.76,406.76,3/24/2018,102 West 5th Avenue,Kit Carson,CO,80825
+1659,Rincon/University,1664,06:46.77,406.77,3/23/2018,421 N Arcadia Blvd,Tucson,AZ,85711
+1660,Brush,1665,06:46.80,406.8,3/10/2018,400 West Ave,Brush,CO,80723
+1661,Tempe,1666,06:46.92,406.92,4/19/2018,1730 S Mill Ave,Tempe,AZ,85281
+1662,Greeley West,1667,06:46.98,406.98,3/8/2018,2401 35th Avenue,Greeley,CO,80634
+1663,Pueblo Central,1668,06:47.10,407.1,5/4/2018,216 E Orman Ave,Pueblo,CO,81004
+1664,Pusch Ridge Christian Academy,1669,06:47.12,407.12,3/10/2018,9500 N Oracle Rd,Tucson,AZ,85737
+1665,Liberty,1670,06:47.24,407.24,3/17/2018,8720 Scarborough Dr,Colorado Springs,CO,80920
+1666,Valley Vista,1671,06:47.25,407.25,4/13/2018,15550 W Parkview Pl,Surprise,AZ,85374
+1667,Seton Catholic,1672,06:47.27,407.27,3/17/2018,1150 N Dobson Rd,Chandler,AZ,85032
+1668,Doherty,1673,06:47.34,407.34000000000003,3/10/2018,4515 Barnes Rd,Colorado Springs,CO,80917
+1669,Desert Christian,1674,06:47.34,407.34000000000003,3/10/2018,7525 East Speedway Boulevard,Tucson,AZ,85710
+1670,Doherty,1675,06:47.38,407.38,4/27/2018,4515 Barnes Rd,Colorado Springs,CO,80917
+1671,Buena Vista,1676,06:47.45,407.45,4/7/2018,559 Railroad,Buena Vista,CO,81211
+1672,Goldwater,1677,06:47.49,407.49,4/16/2018,2820 W Rose Garden Ln,Phoenix,AZ,85027
+1673,Meeker,1678,06:47.51,407.51,4/21/2018,550 School Street,Meeker,CO,81641
+1674,Independence,1679,06:47.57,407.57,4/14/2018,6602 N 75Th Ave,Glendale,AZ,85303
+1675,Catalina Foothills,1680,06:47.60,407.6,4/17/2018,4300 E Sunrise Dr,Tucson,AZ,85718
+1676,Cotopaxi,1681,06:47.62,407.62,5/5/2018,345 County Road 12,Cotopaxi,CO,81223
+1677,West Grand,1682,06:47.77,407.77,5/5/2018,208 12th Street,Kremmling,CO,80459
+1678,Eads,1683,06:47.79,407.79,3/24/2018,210 W 10Th St,Eads,CO,81036
+1679,Desert Edge,1684,06:47.84,407.84000000000003,4/23/2018,15778 W Yuma Rd,Goodyear,AZ,85338
+1680,Greeley West,1685,06:47.95,407.95,4/13/2018,2401 35th Avenue,Greeley,CO,80634
+1681,Aspen,1686,06:48.06,408.06,4/21/2018,235 High School Rd,Aspen,CO,81611
+1682,Glenwood Springs,1687,06:48.10,408.1,4/20/2018,1521 Grand Ave,Glenwood Springs,CO,81601
+1683,Flagstaff,1688,06:48.20,408.2,4/7/2018,400 W Elm,Flagstaff,AZ,86001
+1684,Combs,1689,06:48.35,408.35,3/2/2018,2505 E Germann Road,San Tan Valley,AZ,85140
+1685,Sunnyside,1690,06:48.38,408.38,3/23/2018,1725 E Bilby Rd,Tucson,AZ,85706
+1686,Westwood,1691,06:48.42,408.42,4/20/2018,945 W Rio Salado,Mesa,AZ,85201
+1687,Glendale,1692,06:48.42,408.42,4/18/2018,6216 W Glendale Ave,Glendale,AZ,85301
+1688,Prairie View,1693,06:48.43,408.43,4/14/2018,12909 E 120Th Ave,Henderson,CO,80640
+1689,Ponderosa,1694,06:48.43,408.43,5/5/2018,7007 E Bayou Gulch Rd,Parker,CO,80134
+1690,Resurrection Christian,1695,06:48.44,408.44,3/31/2018,6508 E Crossroads Blvd,Loveland,CO,80538
+1691,Cedaredge,1696,06:48.56,408.56,5/5/2018,575 SE Deer Creek Dr,Cedaredge,CO,81413
+1692,Anthem Prep,1697,06:48.56,408.56,3/29/2018,39808 N Gavilan Peak Pkwy,Anthem,AZ,85086
+1693,Niwot,1698,06:48.64,408.64,3/22/2018,8989 E Niwot Rd,Niwot,CO,80503
+1694,Kofa,1699,06:48.70,408.7,3/27/2018,3100 S Ave A,Yuma,AZ,85364
+1695,Fossil Ridge,1700,06:48.78,408.78,4/10/2018,5400 Ziegler Rd,Fort Collins,CO,80528
+1696,Centennial,1701,06:48.89,408.89,3/9/2018,14388 N 79Th Ave,Peoria,AZ,85381
+1697,Pueblo West,1702,06:48.91,408.90999999999997,4/6/2018,661 W. Capistrano Ave.,Pueblo West,CO,81007
+1698,Coconino,1703,06:48.94,408.94,4/20/2018,2801 N Isabel St,Flagstaff,AZ,86004
+1699,Skyview,1704,06:48.98,408.98,4/26/2018,8990 York St,Thornton,CO,80229
+1700,Palisade,1705,06:49.02,409.02,5/11/2018,3679 G Rd,Palisade,CO,81526
+1701,Lee Williams,1706,06:49.10,409.1,4/7/2018,400 Grandview Ave,Kingman,AZ,86401
+1702,Poudre,1707,06:49.13,409.13,4/3/2018,201 Impala Dr,Fort Collins,CO,80521
+1703,Pine Creek,1708,06:49.16,409.15999999999997,4/20/2018,10750 Thunder Mountain Ave,Colorado Springs,CO,80908
+1704,Westminster,1709,06:49.35,409.35,5/3/2018,6933 Raleigh Street,Westminster,CO,80030
+1705,Thunderbird,1710,06:49.40,409.4,4/14/2018,1750 W Thunderbird Rd,Phoenix,AZ,85023
+1706,Horizon,1711,06:49.47,409.47,4/18/2018,5601 E Greenway Rd,Scottsdale,AZ,85254
+1707,Gilbert Christian,1712,06:49.48,409.48,3/2/2018,3632 E. Jasper Dr,Gilbert,AZ,85296
+1708,Ponderosa,1713,06:49.48,409.48,5/5/2018,7007 E Bayou Gulch Rd,Parker,CO,80134
+1709,Brush,1714,06:49.66,409.65999999999997,4/28/2018,400 West Ave,Brush,CO,80723
+1710,Horizon,1715,06:49.81,409.81,4/18/2018,5601 E Greenway Rd,Scottsdale,AZ,85254
+1711,Rocky Ford,1716,06:49.90,409.9,5/12/2018,100 W Washington Ave,Rocky Ford,CO,81067
+1712,Standley Lake,1717,06:49.99,409.99,3/22/2018,9300 W 104Th Ave,Westminster,CO,80021
+1713,Heritage Christian,1719,06:50.12,410.12,4/26/2018,2506 Zurich Dr,Fort Collins,CO,80524
+1714,Ironwood,1720,06:50.16,410.15999999999997,4/21/2018,6051 W SWeetwater,Glendale,AZ,85304
+1715,Gateway,1721,06:50.19,410.19,5/3/2018,1300 S Sable Blvd,Aurora,CO,80012
+1716,Harrison,1722,06:50.29,410.29,5/10/2018,2755 Janitell Rd,Colorado Springs,CO,80906
+1717,Lyons,1723,06:50.31,410.31,4/14/2018,100 McConnell Dr,Lyons,CO,80540
+1718,Cedaredge,1724,06:50.40,410.4,4/3/2018,575 SE Deer Creek Dr,Cedaredge,CO,81413
+1719,Benson,1725,06:50.44,410.44,3/8/2018,360 S Patagonia,Benson,AZ,85602
+1720,Denver East,1726,06:50.57,410.57,4/14/2018,1600 City Park Esplanade,Denver,CO,80206
+1721,Thornton,1727,06:50.62,410.62,3/10/2018,9351 N Washington,Thornton,CO,80229
+1722,Pomona,1728,06:50.71,410.71,4/7/2018,8101 W Pomona Dr,Arvada,CO,80005
+1723,Silver Creek,1729,06:50.75,410.75,3/22/2018,4901 Nelson Rd,Longmont,CO,80503
+1724,San Carlos,1730,06:50.76,410.76,3/3/2018,Highway #70 Milepost #270,San Carlos,AZ,85550
+1725,Aurora Central,1731,06:50.80,410.8,5/12/2018,11700 E 11Th Ave,Aurora,CO,80010
+1726,Horizon,1732,06:50.87,410.87,3/17/2018,5321 E 136Th Ave,Thornton,CO,80602
+1727,Horizon,1733,06:51.29,411.29,4/18/2018,5601 E Greenway Rd,Scottsdale,AZ,85254
+1728,Flowing Wells,1734,06:51.29,411.29,3/10/2018,3725 N Flowing Wells Rd,Tucson,AZ,85705
+1729,Tempe,1735,06:51.32,411.32,4/13/2018,1730 S Mill Ave,Tempe,AZ,85281
+1730,Greeley Central,1736,06:51.33,411.33,4/13/2018,1515 14th Ave,Greeley,CO,80631
+1731,Glendale,1737,06:51.42,411.42,4/6/2018,6216 W Glendale Ave,Glendale,AZ,85301
+1732,Valor Christian,1738,06:51.44,411.44,4/27/2018,3775 E. Grace Boulevard,Highlands Ranch,CO,80126
+1733,Durango,1739,06:51.52,411.52,4/7/2018,2390 Main Ave,Durango,CO,81301
+1734,Cactus Shadows,1740,06:51.58,411.58,4/14/2018,5802 E Dove Valley Rd,Cave Creek,AZ,85327
+1735,Tohono O'Odham,1741,06:51.63,411.63,4/7/2018,Mile Marker 74,Sells,AZ,85634
+1736,Doherty,1742,06:51.74,411.74,3/31/2018,4515 Barnes Rd,Colorado Springs,CO,80917
+1737,Odyssey Institute,1743,06:51.81,411.81,3/3/2018,1495 S Verrado Way,Buckeye,AZ,85326
+1738,Horizon,1744,06:51.86,411.86,4/18/2018,5601 E Greenway Rd,Scottsdale,AZ,85254
+1739,Mitchell,1745,06:51.96,411.96,4/27/2018,1205 Potter Dr,Colorado Springs,CO,80909
+1740,Conifer,1746,06:52.02,412.02,5/12/2018,10441 County Hwy 73,Conifer,CO,80433
+1741,Shadow Mountain,1747,06:52.04,412.04,4/18/2018,2902 E Shea Blvd,Phoenix,AZ,85028
+1742,Veritas Prep,1748,06:52.19,412.19,4/14/2018,3102 N. 56th Street,Phoenix,AZ,85108
+1743,Page,1749,06:52.20,412.2,4/14/2018,434 Lake Powell Blvd,Page,AZ,86040
+1744,George Washington,1750,06:52.37,412.37,4/25/2018,655 S Monaco Pkwy,Denver,CO,80224
+1745,Grandview,1751,06:52.41,412.40999999999997,4/19/2018,20500 E Arapahoe Rd,Aurora,CO,80016
+1746,Cactus,1752,06:52.45,412.45,3/3/2018,6330 W Greenway Rd,Glendale,AZ,85306
+1747,Anthem Prep,1753,06:52.46,412.46,4/21/2018,39808 N Gavilan Peak Pkwy,Anthem,AZ,85086
+1748,Resurrection Christian,1754,06:52.55,412.55,5/5/2018,6508 E Crossroads Blvd,Loveland,CO,80538
+1749,Standley Lake,1755,06:52.57,412.57,3/22/2018,9300 W 104Th Ave,Westminster,CO,80021
+1750,Central,1756,06:52.58,412.58,3/17/2018,5500 Education Dr,Cheyenne,WY,82009
+1751,Xavier College Prep,1757,06:52.67,412.67,4/11/2018,4710 N. 5Th St,Phoenix,AZ,85012
+1752,Northglenn,1758,06:52.67,412.67,5/12/2018,601 W 100Th Pl,Northglenn,CO,80260
+1753,Prospect Ridge Academy,1759,06:52.72,412.72,3/22/2018,2555 Preble Creek Pkwy,Broomfield,CO,80023
+1754,Aurora Central,1760,06:52.76,412.76,5/12/2018,11700 E 11Th Ave,Aurora,CO,80010
+1755,Yuma Catholic,1761,06:52.83,412.83,3/3/2018,2100 W 28th Street,Yuma,AZ,85364
+1756,Pine Creek,1762,06:52.84,412.84000000000003,4/20/2018,10750 Thunder Mountain Ave,Colorado Springs,CO,80908
+1757,Grand Valley,1763,06:52.87,412.87,4/27/2018,800 Cardinal Way,Parachute,CO,81635
+1758,Carl Hayden Community,1764,06:52.94,412.94,2/24/2018,3333 W Roosevelt St,Phoenix,AZ,85292
+1759,Sierra,1765,06:52.94,412.94,4/21/2018,2250 Jetwing Dr,Colorado Springs,CO,80916
+1760,Peoria,1766,06:53.02,413.02,4/7/2018,11200 N 83Rd Ave,Peoria,AZ,85345
+1761,Pueblo Centennial,1767,06:53.07,413.07,4/6/2018,2525 Mountview Dr,Pueblo,CO,81008
+1762,Scottsdale Christian Academy,1768,06:53.10,413.1,4/7/2018,14400 N Tatum Blvd,Phoenix,AZ,85032
+1763,Cactus Shadows,1769,06:53.13,413.13,4/6/2018,5802 E Dove Valley Rd,Cave Creek,AZ,85327
+1764,Hamilton,1770,06:53.13,413.13,3/23/2018,3700 S. Arizona Ave,Chandler,AZ,85248
+1765,Mountain Range,1771,06:53.17,413.17,5/4/2018,12500 Huron St,Westminster,CO,80234
+1766,Payson,1772,06:53.30,413.3,3/17/2018,301 S Mclane Rd,Payson,AZ,85541
+1767,Mead,1773,06:53.31,413.31,3/22/2018,12750 CR 7,Longmont,CO,80504
+1768,Snowflake,1774,06:53.39,413.39,4/13/2018,220 South 2nd West,Snowflake,AZ,85937
+1769,Pueblo,1775,06:53.51,413.51,3/29/2018,3500 S 12Th Ave,Tucson,AZ,85713
+1770,Tuba City,1776,06:53.53,413.53,3/16/2018,67 Fir Street,Tuba City,AZ,86045
+1771,Copper Canyon,1777,06:53.55,413.55,3/23/2018,9126 W Camelback Rd,Glendale,AZ,85305
+1772,East Fork Lutheran,1778,06:53.67,413.67,3/8/2018,Fort Apache Road,Whiteriver,AZ,85941
+1773,Many Farms,1779,06:53.71,413.71,3/9/2018,PO Box 307,Many Farms,AZ,86538
+1774,North,1780,06:53.80,413.8,3/2/2018,1101 E Thomas Rd,Phoenix,AZ,85014
+1775,Horizon,1781,06:53.81,413.81,4/18/2018,5601 E Greenway Rd,Scottsdale,AZ,85254
+1776,Xavier College Prep,1782,06:53.82,413.82,4/11/2018,4710 N. 5Th St,Phoenix,AZ,85012
+1777,Seton Catholic,1783,06:53.84,413.84000000000003,3/17/2018,1150 N Dobson Rd,Chandler,AZ,85032
+1778,Westwood,1784,06:53.90,413.9,4/20/2018,945 W Rio Salado,Mesa,AZ,85201
+1779,Browne,1785,06:54.06,414.06,4/6/2018,7402 W Catalina Dr,Phoenix,AZ,85033
+1780,Greeley West,1786,06:54.22,414.22,4/13/2018,2401 35th Avenue,Greeley,CO,80634
+1781,Lakeland Christian,1787,06:54.29,414.29,3/8/2018,1111 Forest Park St,Lakeland,FL,33803
+1782,Mountain Pointe,1788,06:54.33,414.33,4/11/2018,4201 E Knox Rd,Phoenix,AZ,85044
+1783,Perry,1789,06:54.37,414.37,4/18/2018,1919 E Queen Creek Rd,Gilbert,AZ,85297
+1784,Lone Star,1790,06:54.39,414.39,5/5/2018,44940 Cr 54,Otis,CO,80743
+1785,Paradise Valley,1791,06:54.48,414.48,4/14/2018,3950 E Bell Rd,Phoenix,AZ,85032
+1786,Northglenn,1792,06:54.53,414.53,5/3/2018,601 W 100Th Pl,Northglenn,CO,80260
+1787,Chandler,1793,06:54.59,414.59000000000003,4/18/2018,350 N Arizona Ave,Chandler,AZ,85225
+1788,Horizon,1794,06:54.62,414.62,4/18/2018,5601 E Greenway Rd,Scottsdale,AZ,85254
+1789,Windsor,1795,06:54.70,414.7,4/28/2018,1100 W Main St,Windsor,CO,80550
+1790,Lee Williams,1796,06:54.76,414.76,3/3/2018,400 Grandview Ave,Kingman,AZ,86401
+1791,Carl Hayden Community,1797,06:54.76,414.76,3/10/2018,3333 W Roosevelt St,Phoenix,AZ,85292
+1792,Lake Havasu,1798,06:54.77,414.77,4/23/2018,2675 S. Palo Verde,Lake Havasu City,AZ,86403
+1793,Copper Canyon,1799,06:54.80,414.8,3/31/2018,9126 W Camelback Rd,Glendale,AZ,85305
+1794,Tohatchi,1800,06:55.02,415.02,4/20/2018,1 Cougar Trail,Tohatchi,NM,87325
+1795,Washington,1801,06:55.08,415.08,4/18/2018,2217 W Glendale Ave,Phoenix,AZ,85021
+1796,Brighton,1802,06:55.11,415.11,4/7/2018,360 S 8Th Ave,Brighton,CO,80601
+1797,Peyton,1803,06:55.17,415.17,3/10/2018,13885 Bradshaw Rd,Peyton,CO,80831
+1798,Longmont,1804,06:55.20,415.2,3/17/2018,1040 Sunset St,Longmont,CO,80501
+1799,Eaton,1805,06:55.25,415.25,3/23/2018,114 Park Ave,Eaton,CO,80615
+1800,Desert Mountain,1806,06:55.28,415.28,4/18/2018,12575 E Via Linda,Scottsdale,AZ,85259
+1801,Fruita Monument,1807,06:55.37,415.37,4/20/2018,1102 Wildcat Ave,Fruita,CO,81521
+1802,Shadow Ridge,1808,06:55.37,415.37,3/3/2018,10909 N Perryville Rd,Surprise,AZ,85388
+1803,Kofa,1809,06:55.40,415.4,3/27/2018,3100 S Ave A,Yuma,AZ,85364
+1804,North Fork,1810,06:55.48,415.48,4/28/2018,438 Miners Wy,Hotchkiss,CO,81419
+1805,Red Mesa,1811,06:55.52,415.52,4/25/2018,N. Hwy 160,Teec Nos Pos,AZ,86514
+1806,Coconino,1812,06:55.93,415.93,4/20/2018,2801 N Isabel St,Flagstaff,AZ,86004
+1807,Delta,1813,06:56.00,416.0,3/17/2018,1400 Pioneer Rd,Delta,CO,81416
+1808,Prairie View,1814,06:56.05,416.05,4/14/2018,12909 E 120Th Ave,Henderson,CO,80640
+1809,Dakota Ridge,1815,06:56.06,416.06,4/14/2018,13399 W Coal Mine Ave,Littleton,CO,80127
+1810,Pueblo County,1816,06:56.13,416.13,3/17/2018,1050 Lane 35,Pueblo,CO,81006
+1811,Cholla,1817,06:56.15,416.15,3/29/2018,2001 W Starr Pass Blvd,Tucson,AZ,85713
+1812,Rampart,1818,06:56.18,416.18,3/24/2018,8250 Lexington Dr,Colorado Springs,CO,80920
+1813,Fossil Ridge,1819,06:56.27,416.27,4/10/2018,5400 Ziegler Rd,Fort Collins,CO,80528
+1814,Gateway,1820,06:56.68,416.68,5/3/2018,1300 S Sable Blvd,Aurora,CO,80012
+1815,Payson,1821,06:56.80,416.8,3/23/2018,301 S Mclane Rd,Payson,AZ,85541
+1816,Faith Christian,1822,06:56.80,416.8,5/4/2018,4890 Carr St,Arvada,CO,80002
+1817,Poston Butte,1823,06:56.94,416.94,4/20/2018,32375 N Gantzel Rd,San Tan Valley,AZ,85243
+1818,La Joya Community,1824,06:56.97,416.97,3/3/2018,11650 W. Whyman Ave,Avondale,AZ,85323
+1819,Chaparral,1825,06:57.00,417.0,4/18/2018,6935 E. Gold Dust Ave,Scottsdale,AZ,85253
+1820,Valor Christian,1826,06:57.12,417.12,4/27/2018,3775 E. Grace Boulevard,Highlands Ranch,CO,80126
+1821,Agua Fria,1827,06:57.19,417.19,3/3/2018,530 E Riley Dr.,Avondale,AZ,85323
+1822,Greeley West,1828,06:57.67,417.67,5/10/2018,2401 35th Avenue,Greeley,CO,80634
+1823,Ganado,1829,06:57.69,417.69,3/23/2018,PO Box 1757,Ganado,AZ,86505
+1824,Nogales,1830,06:57.71,417.71,3/29/2018,1950 Apache Blvd,Nogales,AZ,85261
+1825,Tonopah Valley,1831,06:57.80,417.8,4/7/2018,38201 W Indian School Rd,Tonopah,AZ,85354
+1826,Maryvale,1832,06:57.86,417.86,3/2/2018,3415 N 59 Ave,Phoenix,AZ,85033
+1827,Rocky Ford,1833,06:58.06,418.06,5/4/2018,100 W Washington Ave,Rocky Ford,CO,81067
+1828,Soroco,1834,06:58.16,418.15999999999997,4/27/2018,305 South Grant Street,Oak Creek,CO,80467
+1829,Skyview,1835,06:58.18,418.18,4/26/2018,8990 York St,Thornton,CO,80229
+1830,Thatcher,1836,06:58.26,418.26,4/7/2018,601 N. 3rd Ave.,Thatcher,AZ,85552
+1831,Campo Verde,1837,06:58.28,418.28,4/6/2018,3870 S Quartz St,Gilbert,AZ,85297
+1832,Millennium,1838,06:58.49,418.49,4/19/2018,14802 W Wigwam Blvd,Goodyear,AZ,85338
+1833,Jefferson Academy,1839,06:58.69,418.69,5/4/2018,11251 Reed Way,Broomfield,CO,80020
+1834,Littleton,1840,06:58.74,418.74,3/22/2018,199 E Littleton Blvd,Littleton,CO,80121
+1835,Odyssey Institute,1841,06:58.86,418.86,3/3/2018,1495 S Verrado Way,Buckeye,AZ,85326
+1836,Fowler,1842,06:58.96,418.96,5/12/2018,600 West Grant,Fowler,CO,81039
+1837,Rangeview,1843,06:59.02,419.02,5/3/2018,17599 E Iliff Ave,Aurora,CO,80013
+1838,Heritage Christian,1844,06:59.03,419.03,5/5/2018,2506 Zurich Dr,Fort Collins,CO,80524
+1839,Valley,1845,06:59.06,419.06,4/13/2018,1001 Birch Street,Gilcrest,CO,80623
+1840,Grand Canyon,1846,06:59.07,419.07,4/7/2018,100 Boulder St,Grand Canyon,AZ,86023
+1841,Tohatchi,1847,06:59.19,419.19,4/20/2018,1 Cougar Trail,Tohatchi,NM,87325
+1842,Wiggins,1848,06:59.21,419.21,3/10/2018,201 Tiger Way,Wiggins,CO,80654
+1843,Estrella Foothills,1849,06:59.33,419.33,3/3/2018,13033 S Estrella Pkwy,Goodyear,AZ,85338
+1844,Mountain View,1850,06:59.36,419.36,3/10/2018,3901 W Linda Vista Blvd,Tucson,AZ,85742
+1845,Ralston Valley,1851,06:59.40,419.4,4/26/2018,13355 W 80Th Ave,Arvada,CO,80005
+1846,Walden Grove,1852,06:59.43,419.43,3/29/2018,15510 S Sahuarita Park Rd,Sahuarita,AZ,85629
+1847,Grand Junction Central,1853,06:59.46,419.46,3/17/2018,550 Warrior Wy,Grand Junction,CO,81504
+1848,Lakewood,1854,06:59.58,419.58,4/3/2018,9700 W 8Th Ave,Lakewood,CO,80215
+1849,Westview,1855,06:59.58,419.58,3/23/2018,10850 W Garden Lakes Pkwy,Avondale,AZ,85323
+1850,Pueblo Central,1856,06:59.60,419.6,4/26/2018,216 E Orman Ave,Pueblo,CO,81004
+1851,Englewood,1857,06:59.69,419.69,5/5/2018,3800 S Logan St,Englewood,CO,80113
+1852,Burlington,1858,06:59.70,419.7,4/9/2018,380 Mike Lounge Dr,Burlington,CO,80807
+1853,Hopi,1859,06:59.70,419.7,4/25/2018,Highway 264,Keams Canyon,AZ,86034
+1854,Casa Grande,1860,06:59.71,419.71,3/2/2018,2730 N Trekell Rd,Casa Grande,AZ,85222
+1855,Rampart,1861,06:59.82,419.82,4/3/2018,8250 Lexington Dr,Colorado Springs,CO,80920
+1856,Desert Mountain,1862,06:59.88,419.88,4/18/2018,12575 E Via Linda,Scottsdale,AZ,85259
+1857,Woodland Park,1863,06:59.90,419.9,5/5/2018,151 Panther Way,Woodland Park,CO,80863
+1858,Overland,1864,06:59.93,419.93,5/12/2018,12400 E Jewell Ave,Aurora,CO,80012
+1859,Nederland,1865,06:59.96,419.96,5/10/2018,597 Eldora Rd,Nederland,CO,80466
+1860,Chaparral,1866,07:00.01,420.01,4/18/2018,6935 E. Gold Dust Ave,Scottsdale,AZ,85253
+1861,Vista Grande,1867,07:00.02,420.02,4/20/2018,1556 N Arizola Rd,Casa Grande,AZ,85122
+1862,Grand Valley,1868,07:00.03,420.03,4/20/2018,800 Cardinal Way,Parachute,CO,81635
+1863,Westover,1869,07:00.08,420.08,3/3/2018,277 Bonanza Dr,Fayetteville,NC,28303
+1864,Durango,1870,07:00.16,420.16,4/14/2018,2390 Main Ave,Durango,CO,81301
+1865,Burlington,1871,07:00.22,420.22,5/11/2018,380 Mike Lounge Dr,Burlington,CO,80807
+1866,Florence,1872,07:00.22,420.22,3/29/2018,1000 S Main,Florence,AZ,85132
+1867,Heritage Christian,1873,07:00.26,420.26,4/23/2018,2506 Zurich Dr,Fort Collins,CO,80524
+1868,Poston Butte,1874,07:00.35,420.35,4/20/2018,32375 N Gantzel Rd,San Tan Valley,AZ,85243
+1869,Grand Junction Central,1875,07:00.41,420.41,4/20/2018,550 Warrior Wy,Grand Junction,CO,81504
+1870,Palmer Ridge,1876,07:00.57,420.57,3/24/2018,19255 Monument Hill Rd,Monument,CO,80132
+1871,Scottsdale Christian Academy,1877,07:00.76,420.76,4/20/2018,14400 N Tatum Blvd,Phoenix,AZ,85032
+1872,Glenwood Springs,1878,07:00.78,420.78,4/14/2018,1521 Grand Ave,Glenwood Springs,CO,81601
+1873,Salome,1879,07:00.98,420.98,4/7/2018,67488 E. Salome Rd.,Salome,AZ,85348
+1874,Yuma,1880,07:01.18,421.18,4/9/2018,1000 South Albany St,Yuma,CO,80759
+1875,Verrado,1881,07:01.34,421.34,3/9/2018,20050 W Indian School Rd,Buckeye,AZ,85396
+1876,Seton Catholic,1882,07:01.45,421.45,4/18/2018,1150 N Dobson Rd,Chandler,AZ,85032
+1877,Liberty,1883,07:01.48,421.48,3/24/2018,8720 Scarborough Dr,Colorado Springs,CO,80920
+1878,Lee Williams,1884,07:01.51,421.51,4/14/2018,400 Grandview Ave,Kingman,AZ,86401
+1879,Washington,1885,07:01.54,421.54,4/18/2018,2217 W Glendale Ave,Phoenix,AZ,85021
+1880,Shining Mountain,1886,07:01.62,421.62,4/3/2018,999 Violet,Boulder,CO,80304
+1881,Fowler,1887,07:01.67,421.67,5/4/2018,600 West Grant,Fowler,CO,81039
+1882,Rangely,1888,07:01.76,421.76,5/5/2018,234 S Jones Ave,Rangely,CO,81648
+1883,Montezuma-Cortez,1889,07:01.80,421.8,4/14/2018,418 S. Sligo Street,Cortez,CO,81321
+1884,Eagle Valley,1890,07:01.91,421.91,4/21/2018,641 Valley Road,Gypsum,CO,81637
+1885,Chaparral,1891,07:01.93,421.93,4/18/2018,6935 E. Gold Dust Ave,Scottsdale,AZ,85253
+1886,Chinle,1892,07:01.98,421.98,3/9/2018,Hwy. 191 and Navajo Route 7,Chinle,AZ,86503
+1887,La Veta,1893,07:02.06,422.06,3/16/2018,126 E Garland St,La Veta,CO,81055
+1888,Alamosa,1894,07:02.16,422.16,4/7/2018,805 Craft Dr,Alamosa,CO,81101
+1889,Rio Rico,1895,07:02.21,422.21,3/3/2018,590 North Camino Galindo,Rio Rico,AZ,85648
+1890,Marcos de Niza,1896,07:02.25,422.25,4/19/2018,6000 South Lakeshore Drive,Tempe,AZ,85283
+1891,Tempe,1897,07:02.61,422.61,3/2/2018,1730 S Mill Ave,Tempe,AZ,85281
+1892,Springfield,1898,07:02.65,422.65,5/5/2018,389 Tipton St,Springfield,CO,81073
+1893,Central,1899,07:02.67,422.67,4/17/2018,4525 N Central Ave,Phoenix,AZ,85012
+1894,Moffat County,1900,07:03.02,423.02,4/27/2018,900 Finley Ln,Craig,CO,81625
+1895,Pueblo West,1901,07:03.02,423.02,4/26/2018,661 W. Capistrano Ave.,Pueblo West,CO,81007
+1896,Briggsdale,1902,07:03.26,423.26,4/23/2018,515 Leslie Street,Briggsdale,CO,80611
+1897,Chaparral,1903,07:03.27,423.27,3/15/2018,15655 Brookstone Dr,Parker,CO,80134
+1898,Dobson,1904,07:03.35,423.35,3/2/2018,1501 W Guadalupe Rd,Mesa,AZ,85202
+1899,Rocky Mountain,1905,07:03.42,423.42,4/10/2018,1300 W. Swallow Rd.,Fort Collins,CO,80526
+1900,Fairfax,1906,07:03.43,423.43,3/21/2018,8225 South 59th Avenue,Laveen,AZ,85339
+1901,Youngker,1907,07:03.45,423.45,3/3/2018,3000 S Apache,Buckeye,AZ,85326
+1902,Mesa,1908,07:03.87,423.87,3/2/2018,1630 E Southern Ave,Mesa,AZ,85204
+1903,Wickenburg,1909,07:03.92,423.92,4/21/2018,1090 South Vulture Mine Rd,Wickenburg,AZ,85390
+1904,Willow Canyon,1910,07:03.93,423.93,4/14/2018,17901 West Lundberg,Surprise,AZ,85388
+1905,Alchesay,1911,07:04.09,424.09,3/30/2018,200 Falcon Way,Whiteriver,AZ,85941
+1906,Mullen,1912,07:04.10,424.1,5/3/2018,3601 S Lowell Blvd,Denver,CO,80236
+1907,Steamboat Springs,1913,07:04.12,424.12,3/31/2018,45 E Maple Street,Steamboat Springs,CO,80487
+1908,Shining Mountain,1914,07:04.16,424.16,3/24/2018,999 Violet,Boulder,CO,80304
+1909,Montezuma-Cortez,1915,07:04.54,424.54,4/28/2018,418 S. Sligo Street,Cortez,CO,81321
+1910,Holyoke,1916,07:04.59,424.59,5/5/2018,545 E Hale St,Holyoke,CO,80734
+1911,Ralston Valley,1917,07:04.72,424.72,4/26/2018,13355 W 80Th Ave,Arvada,CO,80005
+1912,Lake City Community,1918,07:04.84,424.84,4/28/2018,614 N. Silver,Lake City,CO,81235
+1913,Browne,1919,07:04.86,424.86,4/17/2018,7402 W Catalina Dr,Phoenix,AZ,85033
+1914,Coconino,1920,07:04.90,424.9,4/24/2018,2801 N Isabel St,Flagstaff,AZ,86004
+1915,Willow Canyon,1921,07:04.90,424.9,4/14/2018,17901 West Lundberg,Surprise,AZ,85388
+1916,East,1922,07:04.92,424.92,3/22/2018,2800 E Pershing Blvd,Cheyenne,WY,82001
+1917,Estrella Foothills,1923,07:05.02,425.02,4/12/2018,13033 S Estrella Pkwy,Goodyear,AZ,85338
+1918,Browne,1924,07:05.03,425.03,3/2/2018,7402 W Catalina Dr,Phoenix,AZ,85033
+1919,Lewis-Palmer,1925,07:05.19,425.19,4/7/2018,1300 Higby Rd,Monument,CO,80132
+1920,Doherty,1926,07:05.20,425.2,5/10/2018,4515 Barnes Rd,Colorado Springs,CO,80917
+1921,Thatcher,1927,07:05.34,425.34,3/29/2018,601 N. 3rd Ave.,Thatcher,AZ,85552
+1922,Woodland Park,1928,07:05.51,425.51,4/7/2018,151 Panther Way,Woodland Park,CO,80863
+1923,Yuma,1929,07:05.54,425.54,3/27/2018,400 S 6Th Ave,Yuma,AZ,85364
+1924,Legend,1930,07:05.71,425.71,4/11/2018,22219 Hilltop Rd,Parker,CO,80138
+1925,Pinon,1931,07:05.73,425.73,4/20/2018,1 Mile N Navajo Rte 41,Pinon,AZ,86510
+1926,John Mall,1932,07:06.26,426.26,3/24/2018,355 Pine St,Walsenburg,CO,81089
+1927,Greeley Central,1933,07:06.31,426.31,3/8/2018,1515 14th Ave,Greeley,CO,80631
+1928,Silver Creek,1934,07:06.36,426.36,3/10/2018,4901 Nelson Rd,Longmont,CO,80503
+1929,Ouray,1935,07:06.39,426.39,5/11/2018,400 7th Ave,Ouray,CO,81427
+1930,Show Low,1936,07:06.47,426.47,3/30/2018,500 W Old Linden Rd,Show Low,AZ,85901
+1931,Horizon,1937,07:06.52,426.52,3/10/2018,5321 E 136Th Ave,Thornton,CO,80602
+1932,Casteel,1938,07:06.76,426.76,4/11/2018,24901 South Power Road,Queen Creek,AZ,85142
+1933,Apache Junction,1939,07:06.85,426.85,4/7/2018,2525 S Ironwood Drive,Apache Junction,AZ,85120
+1934,Parker,1940,07:06.87,426.87,3/24/2018,1600 Kofa Ave.,Parker,AZ,85344
+1935,Ouray,1941,07:06.94,426.94,5/11/2018,400 7th Ave,Ouray,CO,81427
+1936,Desert Ridge,1942,07:07.04,427.04,3/2/2018,10045 E Madero Ave,Mesa,AZ,85212
+1937,Douglas County,1943,07:07.18,427.18,4/11/2018,2842 Front St,Castle Rock,CO,80104
+1938,Perry,1944,07:07.29,427.29,4/18/2018,1919 E Queen Creek Rd,Gilbert,AZ,85297
+1939,Basha,1945,07:07.36,427.36,4/18/2018,5990 S Val Vista Dr,Chandler,AZ,85249
+1940,Coconino,1946,07:07.78,427.78,4/6/2018,2801 N Isabel St,Flagstaff,AZ,86004
+1941,Glenwood Springs,1947,07:07.80,427.8,3/10/2018,1521 Grand Ave,Glenwood Springs,CO,81601
+1942,Cactus,1948,07:07.85,427.85,3/9/2018,6330 W Greenway Rd,Glendale,AZ,85306
+1943,Paradise Valley,1949,07:07.93,427.93,3/2/2018,3950 E Bell Rd,Phoenix,AZ,85032
+1944,Pagosa Springs,1950,07:07.95,427.95,5/5/2018,800 South 8th Street,Pagosa Springs,CO,81147
+1945,Flagstaff,1951,07:08.00,428.0,4/7/2018,400 W Elm,Flagstaff,AZ,86001
+1946,Tempe,1952,07:08.20,428.2,4/19/2018,1730 S Mill Ave,Tempe,AZ,85281
+1947,Valley Lutheran,1953,07:08.25,428.25,4/7/2018,5199 N 7Th Ave,Phoenix,AZ,85013
+1948,Sterling,1954,07:08.36,428.36,4/26/2018,401 W Broadway St,Sterling,CO,80751
+1949,Veritas Prep,1955,07:08.42,428.42,3/23/2018,3102 N. 56th Street,Phoenix,AZ,85108
+1950,Moon Valley,1956,07:08.60,428.6,4/18/2018,3625 W Cactus Rd,Phoenix,AZ,85029
+1951,Shining Mountain,1957,07:08.68,428.68,4/3/2018,999 Violet,Boulder,CO,80304
+1952,Dobson,1958,07:08.69,428.69,4/20/2018,1501 W Guadalupe Rd,Mesa,AZ,85202
+1953,Skyview,1959,07:08.78,428.78,4/26/2018,8990 York St,Thornton,CO,80229
+1954,Amphitheater,1960,07:08.92,428.92,3/29/2018,125 W Yavapai Rd,Tucson,AZ,85705
+1955,Kofa,1961,07:09.29,429.29,3/27/2018,3100 S Ave A,Yuma,AZ,85364
+1956,Greeley West,1962,07:09.42,429.42,4/28/2018,2401 35th Avenue,Greeley,CO,80634
+1957,Olathe,1963,07:09.46,429.46,5/11/2018,410 Highway 50,Olathe,CO,81425
+1958,Valley,1964,07:09.64,429.64,3/10/2018,1001 Birch Street,Gilcrest,CO,80623
+1959,Windsor,1965,07:09.70,429.7,3/17/2018,1100 W Main St,Windsor,CO,80550
+1960,Rye,1966,07:09.71,429.71,4/19/2018,PO Box 10,Rye,CO,81069
+1961,Steamboat Springs,1967,07:09.82,429.82,4/7/2018,45 E Maple Street,Steamboat Springs,CO,80487
+1962,Greeley West,1968,07:09.94,429.94,4/28/2018,2401 35th Avenue,Greeley,CO,80634
+1963,Salida,1969,07:10.15,430.15,3/16/2018,26 Jones Ave.,Salida,CO,81201
+1964,Rincon/University,1970,07:10.19,430.19,2/28/2018,421 N Arcadia Blvd,Tucson,AZ,85711
+1965,Steamboat Springs,1971,07:10.21,430.21,4/27/2018,45 E Maple Street,Steamboat Springs,CO,80487
+1966,Vista Ridge,1972,07:10.23,430.23,3/10/2018,6888 Black Forest Rd,Colorado Springs,CO,80922
+1967,Arizona Lutheran Academy,1973,07:10.36,430.36,2/24/2018,6036 S 27Th Ave,Phoenix,AZ,85041
+1968,Discovery Canyon,1974,07:10.53,430.53,4/20/2018,1810 Northgate Blvd,Colorado Springs,CO,80921
+1969,Valley Christian,1975,07:10.58,430.58,3/27/2018,6900 W Galveston,Chandler,AZ,85226
+1970,Odyssey Institute,1976,07:10.67,430.67,4/21/2018,1495 S Verrado Way,Buckeye,AZ,85326
+1971,Pagosa Springs,1977,07:10.73,430.73,5/5/2018,800 South 8th Street,Pagosa Springs,CO,81147
+1972,Mountain View,1978,07:10.76,430.76,2/28/2018,3901 W Linda Vista Blvd,Tucson,AZ,85742
+1973,Mohave,1979,07:10.91,430.91,3/24/2018,2251 Hwy 95,Bullhead City,AZ,86442
+1974,Moffat County,1980,07:11.03,431.03,3/10/2018,900 Finley Ln,Craig,CO,81625
+1975,Phoenix Christian,1981,07:11.48,431.48,4/6/2018,1751 W Indian School Rd,Phoenix,AZ,85015
+1976,Vista Ridge,1982,07:11.49,431.49,3/17/2018,6888 Black Forest Rd,Colorado Springs,CO,80922
+1977,Maryvale,1983,07:11.67,431.67,4/6/2018,3415 N 59 Ave,Phoenix,AZ,85033
+1978,Fairfax,1984,07:11.85,431.85,4/17/2018,8225 South 59th Avenue,Laveen,AZ,85339
+1979,Caprock Academy,1985,07:11.91,431.91,4/7/2018,714 24 1/2 Rd,Grand Junction,CO,81505
+1980,East,1986,07:11.93,431.93,3/22/2018,2800 E Pershing Blvd,Cheyenne,WY,82001
+1981,Arickaree,1987,07:12.23,432.23,3/31/2018,12155 Rd Nn,Anton,CO,80801
+1982,Denver Academy,1988,07:12.29,432.29,4/28/2018,4400 E. Iliff Ave,Denver,CO,80222
+1983,Coal Ridge,1989,07:12.38,432.38,5/11/2018,35947 Hwy 6,New Castle,CO,81647
+1984,Kent Denver,1990,07:12.42,432.42,5/4/2018,4000 E Quincy Ave,Englewood,CO,80113
+1985,Fowler,1991,07:12.67,432.67,3/17/2018,600 West Grant,Fowler,CO,81039
+1986,Fountain Hills,1992,07:12.83,432.83,4/20/2018,16100 E Palisades Blvd,Fountain Hills,AZ,85268
+1987,Dobson,1993,07:13.11,433.11,3/23/2018,1501 W Guadalupe Rd,Mesa,AZ,85202
+1988,Stratton,1994,07:13.12,433.12,3/24/2018,219 Illinois Ave,Stratton,CO,80836
+1989,Mancos,1995,07:13.37,433.37,5/1/2018,355 W Grand Ave,Mancos,CO,81328
+1990,Lyons,1996,07:13.43,433.43,4/21/2018,100 McConnell Dr,Lyons,CO,80540
+1991,Otis,1997,07:13.43,433.43,4/28/2018,301 Work St,Otis,CO,80743
+1992,Skyview,1998,07:13.48,433.48,4/28/2018,8990 York St,Thornton,CO,80229
+1993,Odyssey Institute,1999,07:13.51,433.51,4/14/2018,1495 S Verrado Way,Buckeye,AZ,85326
+1994,Canyon del Oro,2000,07:13.63,433.63,4/6/2018,25 W Calle Concordia,Tucson,AZ,85737
+1995,Grand Junction Central,2001,07:13.71,433.71,3/10/2018,550 Warrior Wy,Grand Junction,CO,81504
+1996,Eaglecrest,2002,07:13.85,433.85,5/12/2018,5100 S Picadilly St,Centennial,CO,80015
+1997,Wray,2003,07:13.87,433.87,5/5/2018,30074 County Road 35,Wray,CO,80758
+1998,Pueblo South,2004,07:13.99,433.99,4/14/2018,1801 Hollywood Dr,Pueblo,CO,81005
+1999,North Pointe Prep,2005,07:14.29,434.29,3/27/2018,10215 N 43rd Ave,Phoenix,AZ,85051
+2000,Holy Family,2006,07:14.81,434.81,4/7/2018,5195 W 144Th Ave,Broomfield,CO,80020
+2001,Chino Valley,2007,07:14.87,434.87,3/3/2018,760 E Center St,Chino Valley,AZ,86323
+2002,Winslow,2008,07:14.87,434.87,3/14/2018,600 East Cherry St.,Winslow,AZ,86047
+2003,Northwest Christian,2009,07:14.89,434.89,4/7/2018,16401 N 43Rd Ave,Phoenix,AZ,85053
+2004,Browne,2010,07:15.09,435.09,3/9/2018,7402 W Catalina Dr,Phoenix,AZ,85033
+2005,Scottsdale Christian Academy,2011,07:15.30,435.3,3/20/2018,14400 N Tatum Blvd,Phoenix,AZ,85032
+2006,Meeker,2012,07:15.45,435.45,4/27/2018,550 School Street,Meeker,CO,81641
+2007,North Fork,2013,07:15.47,435.47,4/28/2018,438 Miners Wy,Hotchkiss,CO,81419
+2008,Limon,2014,07:15.81,435.81,5/11/2018,912 Badger Way,Limon,CO,80828
+2009,Niwot,2015,07:15.94,435.94,4/21/2018,8989 E Niwot Rd,Niwot,CO,80503
+2010,Blue Ridge,2016,07:16.00,436.0,4/25/2018,1200 W White Mountain Blvd,Lakeside,AZ,85929
+2011,Catalina,2017,07:16.03,436.03,2/28/2018,3645 E Pima St,Tucson,AZ,85716
+2012,Calhan,2018,07:16.05,436.05,3/24/2018,800 Bulldog Dr.,Calhan,CO,80808
+2013,Tempe Prep,2019,07:16.12,436.12,4/20/2018,1251 E. Southern Ave,Tempe,AZ,85282
+2014,Lee Williams,2020,07:16.16,436.16,4/4/2018,400 Grandview Ave,Kingman,AZ,86401
+2015,Skyline,2021,07:16.25,436.25,4/20/2018,845 S Crismon Road,Mesa,AZ,85208
+2016,Byers,2022,07:16.30,436.3,5/11/2018,444 E Front St,Byers,CO,80103
+2017,Mohave,2023,07:16.38,436.38,4/14/2018,2251 Hwy 95,Bullhead City,AZ,86442
+2018,Basha,2024,07:16.62,436.62,4/18/2018,5990 S Val Vista Dr,Chandler,AZ,85249
+2019,Greeley West,2025,07:16.73,436.73,5/10/2018,2401 35th Avenue,Greeley,CO,80634
+2020,Many Farms,2026,07:16.77,436.77,4/6/2018,PO Box 307,Many Farms,AZ,86538
+2021,Kent Denver,2027,07:17.08,437.08,5/4/2018,4000 E Quincy Ave,Englewood,CO,80113
+2022,Centauri,2028,07:17.11,437.11,4/28/2018,17889 State Hwy 285,La Jara,CO,81140
+2023,Steamboat Springs,2029,07:17.24,437.24,4/27/2018,45 E Maple Street,Steamboat Springs,CO,80487
+2024,Ellicott,2030,07:17.27,437.27,5/1/2018,375 S Ellicott Hwy,Calhan,CO,80808
+2025,Maricopa,2031,07:17.55,437.55,4/7/2018,45012 W Honeycutt Ave,Maricopa,AZ,85239
+2026,Coronado,2032,07:17.57,437.57,4/7/2018,7501 E. Virginia Ave,Scottsdale,AZ,85257
+2027,Winslow,2033,07:17.70,437.7,4/13/2018,600 East Cherry St.,Winslow,AZ,86047
+2028,Skyview,2034,07:18.03,438.03,4/26/2018,8990 York St,Thornton,CO,80229
+2029,Windsor,2035,07:18.07,438.07,4/28/2018,1100 W Main St,Windsor,CO,80550
+2030,Willow Canyon,2036,07:18.22,438.22,3/3/2018,17901 West Lundberg,Surprise,AZ,85388
+2031,Mountain Pointe,2037,07:18.26,438.26,4/19/2018,4201 E Knox Rd,Phoenix,AZ,85044
+2032,Browne,2038,07:18.26,438.26,3/2/2018,7402 W Catalina Dr,Phoenix,AZ,85033
+2033,Legend,2039,07:18.36,438.36,4/11/2018,22219 Hilltop Rd,Parker,CO,80138
+2034,Gilbert,2040,07:18.64,438.64,4/11/2018,1101 E Elliot Rd,Gilbert,AZ,85234
+2035,Valley,2041,07:18.70,438.7,5/11/2018,1001 Birch Street,Gilcrest,CO,80623
+2036,Cholla,2042,07:18.85,438.85,4/21/2018,2001 W Starr Pass Blvd,Tucson,AZ,85713
+2037,Snowflake,2043,07:18.88,438.88,4/6/2018,220 South 2nd West,Snowflake,AZ,85937
+2038,Valley Vista,2044,07:19.11,439.11,3/3/2018,15550 W Parkview Pl,Surprise,AZ,85374
+2039,Lake County,2045,07:19.22,439.22,3/10/2018,1000 W 4Th St,Leadville,CO,80461
+2040,Fort Collins,2046,07:19.37,439.37,4/10/2018,3400 Lambkin Wy,Fort Collins,CO,80525
+2041,Aurora Central,2047,07:19.37,439.37,4/7/2018,11700 E 11Th Ave,Aurora,CO,80010
+2042,Overland,2048,07:19.46,439.46,3/22/2018,12400 E Jewell Ave,Aurora,CO,80012
+2043,Battle Mountain,2049,07:19.57,439.57,4/7/2018,151 Miller Ranch Rd,Edwards,CO,81632
+2044,Mountain View,2050,07:19.59,439.59,4/21/2018,3500 Mountain Lion Dr,Loveland,CO,80537
+2045,Monument Valley,2051,07:19.61,439.61,4/20/2018,North U.S. Hwy 163/Mustang Boulevard,Kayenta,AZ,86033
+2046,Camp Verde,2052,07:19.98,439.98,3/29/2018,1326 Montezuma Castle Hwy,Camp Verde,AZ,86322
+2047,Willow Canyon,2053,07:20.12,440.12,3/3/2018,17901 West Lundberg,Surprise,AZ,85388
+2048,Horizon,2054,07:20.21,440.21,4/18/2018,5601 E Greenway Rd,Scottsdale,AZ,85254
+2049,Pomona,2055,07:20.28,440.28,3/17/2018,8101 W Pomona Dr,Arvada,CO,80005
+2050,Lake City,2056,07:20.70,440.7,4/23/2018,614 N Silver St,Lake City,CO,81235
+2051,Pusch Ridge Christian Academy,2057,07:20.89,440.89,2/28/2018,9500 N Oracle Rd,Tucson,AZ,85737
+2052,Evangelical Christian,2058,07:20.98,440.98,5/12/2018,4052 Nonchalant Circle South,Colorado Springs,CO,80917
+2053,Valley,2059,07:21.25,441.25,4/20/2018,,Sanders,AZ,86512
+2054,Mingus Mountain Academy,2060,07:21.58,441.58,4/21/2018,15801 E Don Carlos Dr,Prescott Valley,AZ,86315
+2055,Basalt,2061,07:21.79,441.79,5/12/2018,600 Southside Dr,Basalt,CO,81621
+2056,Doherty,2062,07:21.87,441.87,3/10/2018,4515 Barnes Rd,Colorado Springs,CO,80917
+2057,Thornton,2063,07:21.89,441.89,3/21/2018,9351 N Washington,Thornton,CO,80229
+2058,Marcos de Niza,2064,07:22.48,442.48,3/29/2018,6000 South Lakeshore Drive,Tempe,AZ,85283
+2059,Camp Verde,2065,07:22.50,442.5,4/13/2018,1326 Montezuma Castle Hwy,Camp Verde,AZ,86322
+2060,Scottsdale Christian Academy,2066,07:22.51,442.51,3/14/2018,14400 N Tatum Blvd,Phoenix,AZ,85032
+2061,Calhan,2067,07:22.52,442.52,3/24/2018,800 Bulldog Dr.,Calhan,CO,80808
+2062,Thatcher,2068,07:22.63,442.63,3/8/2018,601 N. 3rd Ave.,Thatcher,AZ,85552
+2063,Plateau Valley,2069,07:23.06,443.06,3/16/2018,56600 Hwy 330,Collbran,CO,81624
+2064,Basha,2070,07:23.29,443.29,4/18/2018,5990 S Val Vista Dr,Chandler,AZ,85249
+2065,Northglenn,2071,07:23.29,443.29,3/10/2018,601 W 100Th Pl,Northglenn,CO,80260
+2066,Denver Academy,2072,07:23.32,443.32,4/28/2018,4400 E. Iliff Ave,Denver,CO,80222
+2067,Liberty,2073,07:23.89,443.89,3/10/2018,8720 Scarborough Dr,Colorado Springs,CO,80920
+2068,Pueblo Central,2074,07:24.08,444.08,3/31/2018,216 E Orman Ave,Pueblo,CO,81004
+2069,Discovery Canyon,2075,07:24.10,444.1,4/20/2018,1810 Northgate Blvd,Colorado Springs,CO,80921
+2070,Campo Verde,2076,07:24.14,444.14,3/23/2018,3870 S Quartz St,Gilbert,AZ,85297
+2071,Platte Canyon,2077,07:24.21,444.21,3/22/2018,57243 US Highway 285,Bailey,CO,80421
+2072,Wickenburg,2078,07:24.32,444.32,3/3/2018,1090 South Vulture Mine Rd,Wickenburg,AZ,85390
+2073,Haxtun,2079,07:24.42,444.42,4/14/2018,201 W Powell St,Haxtun,CO,80731
+2074,Liberty Common,2080,07:24.77,444.77,4/28/2018,2745 Minnesota Dr.,Fort Collins,CO,80525
+2075,Xavier College Prep,2081,07:25.02,445.02,4/11/2018,4710 N. 5Th St,Phoenix,AZ,85012
+2076,Tempe,2082,07:25.13,445.13,2/24/2018,1730 S Mill Ave,Tempe,AZ,85281
+2077,Pomona,2083,07:25.27,445.27,3/17/2018,8101 W Pomona Dr,Arvada,CO,80005
+2078,Laguna Acoma,2084,07:25.30,445.3,3/10/2018,Hwy 66,New Laguna,NM,87007
+2079,Youngker,2085,07:25.33,445.33,3/3/2018,3000 S Apache,Buckeye,AZ,85326
+2080,Eaton,2086,07:25.37,445.37,4/28/2018,114 Park Ave,Eaton,CO,80615
+2081,South Baca [Campo/Vilas/Pritchett],2087,07:25.46,445.46,3/29/2018,533 Irving St.,Vilas,CO,81064
+2082,Salome,2088,07:25.55,445.55,3/24/2018,67488 E. Salome Rd.,Salome,AZ,85348
+2083,ASU Prep,2089,07:25.60,445.6,2/24/2018,735 E Fillmore,Phoenix,AZ,85006
+2084,Coolidge,2090,07:26.00,446.0,4/23/2018,684 West Northern Ave.,Coolidge,AZ,85128
+2085,Heritage,2091,07:26.09,446.09,3/17/2018,1401 W Geddes Ave,Littleton,CO,80120
+2086,Falcon,2092,07:26.32,446.32,3/24/2018,10255 Lambert Rd,Falcon,CO,80831
+2087,Horizon,2093,07:26.49,446.49,4/18/2018,5601 E Greenway Rd,Scottsdale,AZ,85254
+2088,Tonopah Valley,2094,07:26.49,446.49,4/21/2018,38201 W Indian School Rd,Tonopah,AZ,85354
+2089,Dobson,2095,07:26.57,446.57,4/20/2018,1501 W Guadalupe Rd,Mesa,AZ,85202
+2090,Florence,2096,07:27.41,447.41,4/6/2018,1000 S Main,Florence,AZ,85132
+2091,Sierra Linda,2097,07:27.57,447.57,4/18/2018,3434 S 67th Ave,Phoenix,AZ,85043
+2092,Valley,2098,07:27.63,447.63,4/25/2018,,Sanders,AZ,86512
+2093,Mohave,2099,07:27.82,447.82,4/14/2018,2251 Hwy 95,Bullhead City,AZ,86442
+2094,Greeley Central,2100,07:28.22,448.22,4/21/2018,1515 14th Ave,Greeley,CO,80631
+2095,Trinidad,2101,07:28.36,448.36,4/6/2018,816 West St,Trinidad,CO,81082
+2096,Littleton,2102,07:28.96,448.96,3/22/2018,199 E Littleton Blvd,Littleton,CO,80121
+2097,Sullivan,2103,07:29.00,449.0,4/5/2018,902 N Section St,Sullivan,IN,47882
+2098,South Baca [Campo/Vilas/Pritchett],2104,07:29.12,449.12,3/24/2018,533 Irving St.,Vilas,CO,81064
+2099,Dysart,2105,07:29.22,449.22,3/3/2018,11425 N Dysart Rd,El Mirage,AZ,85335
+2100,Salome,2106,07:29.44,449.44,4/7/2018,67488 E. Salome Rd.,Salome,AZ,85348
+2101,Copper Canyon,2107,07:29.51,449.51,3/31/2018,9126 W Camelback Rd,Glendale,AZ,85305
+2102,Smoky Hill,2108,07:29.58,449.58,5/3/2018,16100 E Smoky Hill Rd,Aurora,CO,80015
+2103,Calhan,2109,07:29.81,449.81,5/5/2018,800 Bulldog Dr.,Calhan,CO,80808
+2104,Resurrection Christian,2110,07:29.84,449.84,3/24/2018,6508 E Crossroads Blvd,Loveland,CO,80538
+2105,Flagstaff,2111,07:29.90,449.9,4/7/2018,400 W Elm,Flagstaff,AZ,86001
+2106,Lone Star,2112,07:29.96,449.96,3/24/2018,44940 Cr 54,Otis,CO,80743
+2107,Flagler/Hi-Plains,2113,07:30.12,450.12,5/1/2018,Flagler,CO,,
+2108,Mountain View,2114,07:30.22,450.22,3/31/2018,3500 Mountain Lion Dr,Loveland,CO,80537
+2109,Horizon,2115,07:30.22,450.22,3/10/2018,5321 E 136Th Ave,Thornton,CO,80602
+2110,Monument Valley,2116,07:30.22,450.22,3/3/2018,North U.S. Hwy 163/Mustang Boulevard,Kayenta,AZ,86033
+2111,Lake Havasu,2117,07:30.24,450.24,4/4/2018,2675 S. Palo Verde,Lake Havasu City,AZ,86403
+2112,Veritas Prep,2118,07:30.61,450.61,4/20/2018,3102 N. 56th Street,Phoenix,AZ,85108
+2113,North,2119,07:30.76,450.76,4/14/2018,1101 E Thomas Rd,Phoenix,AZ,85014
+2114,Dove Creek,2120,07:30.91,450.91,5/11/2018,525 N Main,Dove Creek,CO,81324
+2115,Corona del Sol,2121,07:31.06,451.06,4/19/2018,1001 E Knox Rd,Tempe,AZ,85284
+2116,Nogales,2122,07:31.42,451.42,3/3/2018,1950 Apache Blvd,Nogales,AZ,85261
+2117,Sunnyside,2123,07:31.50,451.5,4/17/2018,1725 E Bilby Rd,Tucson,AZ,85706
+2118,Lamar,2124,07:32.00,452.0,5/4/2018,1900 S 11Th St,Lamar,CO,81052
+2119,Palisade,2125,07:32.18,452.18,4/27/2018,3679 G Rd,Palisade,CO,81526
+2120,Shadow Ridge,2126,07:32.48,452.48,3/20/2018,10909 N Perryville Rd,Surprise,AZ,85388
+2121,Blue Ridge,2127,07:32.55,452.55,3/2/2018,1200 W White Mountain Blvd,Lakeside,AZ,85929
+2122,Round Valley,2128,07:32.74,452.74,3/9/2018,550 N Butler St,Eagar,AZ,85925
+2123,Mesquite,2129,07:33.05,453.05,3/2/2018,500 S Mcqueen Rd,Gilbert,AZ,85233
+2124,Niwot,2130,07:33.09,453.09000000000003,3/16/2018,8989 E Niwot Rd,Niwot,CO,80503
+2125,Eaton,2131,07:33.09,453.09000000000003,4/28/2018,114 Park Ave,Eaton,CO,80615
+2126,Chandler,2132,07:33.28,453.28,4/18/2018,350 N Arizona Ave,Chandler,AZ,85225
+2127,Doherty,2133,07:33.62,453.62,3/31/2018,4515 Barnes Rd,Colorado Springs,CO,80917
+2128,Casa Grande,2134,07:33.62,453.62,3/2/2018,2730 N Trekell Rd,Casa Grande,AZ,85222
+2129,Deer Valley,2135,07:33.65,453.65,4/23/2018,18424 N 51St Ave,Glendale,AZ,85308
+2130,Kit Carson,2136,07:33.86,453.86,3/24/2018,102 West 5th Avenue,Kit Carson,CO,80825
+2131,Desert Edge,2137,07:34.12,454.12,4/23/2018,15778 W Yuma Rd,Goodyear,AZ,85338
+2132,Alchesay,2138,07:34.75,454.75,4/20/2018,200 Falcon Way,Whiteriver,AZ,85941
+2133,Centauri,2139,07:34.82,454.82,4/14/2018,17889 State Hwy 285,La Jara,CO,81140
+2134,Greeley Central,2140,07:34.83,454.83,4/28/2018,1515 14th Ave,Greeley,CO,80631
+2135,Northglenn,2141,07:35.10,455.1,3/21/2018,601 W 100Th Pl,Northglenn,CO,80260
+2136,Catalina Foothills,2142,07:35.36,455.36,4/17/2018,4300 E Sunrise Dr,Tucson,AZ,85718
+2137,Dayspring Christian Academy,2143,07:35.68,455.68,4/21/2018,3734 W 20Th St,Greeley,CO,80634
+2138,Idalia,2144,07:35.71,455.71,5/1/2018,26845 County Road 9.2,Idalia,CO,80735
+2139,Northglenn,2145,07:35.74,455.74,3/10/2018,601 W 100Th Pl,Northglenn,CO,80260
+2140,Montezuma-Cortez,2146,07:35.75,455.75,3/31/2018,418 S. Sligo Street,Cortez,CO,81321
+2141,Doherty,2147,07:35.79,455.79,3/17/2018,4515 Barnes Rd,Colorado Springs,CO,80917
+2142,Northwest Christian,2148,07:35.87,455.87,4/7/2018,16401 N 43Rd Ave,Phoenix,AZ,85053
+2143,Calhan,2149,07:35.91,455.90999999999997,5/11/2018,800 Bulldog Dr.,Calhan,CO,80808
+2144,West Grand,2150,07:36.20,456.2,4/27/2018,208 12th Street,Kremmling,CO,80459
+2145,Englewood,2151,07:36.22,456.22,5/5/2018,3800 S Logan St,Englewood,CO,80113
+2146,Maryvale,2152,07:36.70,456.7,3/2/2018,3415 N 59 Ave,Phoenix,AZ,85033
+2147,Falcon,2153,07:36.70,456.7,4/7/2018,10255 Lambert Rd,Falcon,CO,80831
+2148,Holy Family,2154,07:36.73,456.73,4/7/2018,5195 W 144Th Ave,Broomfield,CO,80020
+2149,Kingman,2155,07:36.75,456.75,4/25/2018,4182 Bank St,Kingman,AZ,86409
+2150,Bisbee,2156,07:36.84,456.84000000000003,4/20/2018,675 School Terrace Rd.,Bisbee,AZ,85603
+2151,Horizon,2157,07:38.22,458.22,4/18/2018,5601 E Greenway Rd,Scottsdale,AZ,85254
+2152,Prospect Ridge Academy,2158,07:38.63,458.63,3/22/2018,2555 Preble Creek Pkwy,Broomfield,CO,80023
+2153,Benson,2159,07:38.74,458.74,3/17/2018,360 S Patagonia,Benson,AZ,85602
+2154,Red Mountain,2160,07:38.92,458.92,4/20/2018,7301 E Brown Rd,Mesa,AZ,85207
+2155,Show Low,2161,07:39.20,459.2,3/23/2018,500 W Old Linden Rd,Show Low,AZ,85901
+2156,Mead,2162,07:39.37,459.37,3/10/2018,12750 CR 7,Longmont,CO,80504
+2157,Deer Valley,2163,07:39.53,459.53,4/16/2018,18424 N 51St Ave,Glendale,AZ,85308
+2158,Adams City,2164,07:39.65,459.65,5/3/2018,7200 Quebec Parkway,Commerce City,CO,80022
+2159,Casteel,2165,07:39.70,459.7,4/18/2018,24901 South Power Road,Queen Creek,AZ,85142
+2160,Tempe,2166,07:39.82,459.82,3/2/2018,1730 S Mill Ave,Tempe,AZ,85281
+2161,Olathe,2167,07:39.84,459.84000000000003,3/24/2018,410 Highway 50,Olathe,CO,81425
+2162,Willcox,2168,07:39.85,459.85,3/3/2018,240 N. Bisbee,Willcox,AZ,85643
+2163,Fort Lupton,2169,07:40.00,460.0,4/13/2018,530 Reynolds St,Fort Lupton,CO,80621
+2164,Centaurus,2170,07:40.22,460.22,4/28/2018,10300 S Boulder Rd,Lafayette,CO,80026
+2165,Lake County,2171,07:40.36,460.36,4/3/2018,1000 W 4Th St,Leadville,CO,80461
+2166,Regis Jesuit,2172,07:40.39,460.39,3/15/2018,6400 S. Lewiston Way,Aurora,CO,80016
+2167,De Beque,2173,07:40.43,460.43,3/17/2018,730 Minter Avenue,De Beque,CO,81630
+2168,Alchesay,2174,07:40.66,460.65999999999997,3/23/2018,200 Falcon Way,Whiteriver,AZ,85941
+2169,Kiowa,2175,07:41.52,461.52,4/7/2018,525 Commanche,Kiowa,CO,80117
+2170,Resurrection Christian,2176,07:41.69,461.69,4/27/2018,6508 E Crossroads Blvd,Loveland,CO,80538
+2171,Olathe,2177,07:41.75,461.75,4/28/2018,410 Highway 50,Olathe,CO,81425
+2172,Nogales,2178,07:41.97,461.97,3/3/2018,1950 Apache Blvd,Nogales,AZ,85261
+2173,Salida,2179,07:42.01,462.01,4/7/2018,26 Jones Ave.,Salida,CO,81201
+2174,North Canyon,2180,07:42.87,462.87,4/18/2018,1700 E Union Hills Dr,Phoenix,AZ,85024
+2175,Columbine,2181,07:42.97,462.97,4/11/2018,6201 S Pierce St,Littleton,CO,80123
+2176,De Beque,2182,07:43.11,463.11,4/27/2018,730 Minter Avenue,De Beque,CO,81630
+2177,Sunnyside,2183,07:43.26,463.26,3/29/2018,1725 E Bilby Rd,Tucson,AZ,85706
+2178,Ganado,2184,07:43.59,463.59000000000003,3/23/2018,PO Box 1757,Ganado,AZ,86505
+2179,Sedgwick County,2185,07:43.62,463.62,3/24/2018,102 W 6Th St,Julesburg,CO,80737
+2180,Greeley West,2186,07:43.72,463.72,3/8/2018,2401 35th Avenue,Greeley,CO,80634
+2181,North Pointe Prep,2187,07:44.20,464.2,3/3/2018,10215 N 43rd Ave,Phoenix,AZ,85051
+2182,Springfield,2188,07:44.38,464.38,3/29/2018,389 Tipton St,Springfield,CO,81073
+2183,Maricopa,2189,07:44.63,464.63,4/20/2018,45012 W Honeycutt Ave,Maricopa,AZ,85239
+2184,ASU Prep,2190,07:44.81,464.81,4/2/2018,735 E Fillmore,Phoenix,AZ,85006
+2185,Kiowa,2191,07:46.30,466.3,5/1/2018,525 Commanche,Kiowa,CO,80117
+2186,Globe,2192,07:46.35,466.35,3/3/2018,437 S. High St.,Globe,AZ,85501
+2187,Sedgwick County,2193,07:46.59,466.59000000000003,5/5/2018,102 W 6Th St,Julesburg,CO,80737
+2188,Horizon,2194,07:46.60,466.6,4/18/2018,5601 E Greenway Rd,Scottsdale,AZ,85254
+2189,Hinkley,2195,07:46.63,466.63,4/7/2018,1250 Chambers Rd,Aurora,CO,80011
+2190,Hinkley,2196,07:47.11,467.11,4/7/2018,1250 Chambers Rd,Aurora,CO,80011
+2191,North Fork,2197,07:47.18,467.18,3/24/2018,438 Miners Wy,Hotchkiss,CO,81419
+2192,Gilbert Classical Academy,2198,07:47.26,467.26,4/17/2018,1016 N Burk St,Gilbert,AZ,85234
+2193,Dove Creek,2199,07:47.40,467.4,5/1/2018,525 N Main,Dove Creek,CO,81324
+2194,Catalina Foothills,2200,07:47.68,467.68,4/4/2018,4300 E Sunrise Dr,Tucson,AZ,85718
+2195,Lamar,2201,07:47.75,467.75,5/4/2018,1900 S 11Th St,Lamar,CO,81052
+2196,Grand Junction Central,2202,07:47.97,467.97,3/24/2018,550 Warrior Wy,Grand Junction,CO,81504
+2197,Morenci,2203,07:48.05,468.05,4/7/2018,1 Stadium Drive,Morenci,AZ,85540
+2198,Sullivan,2204,07:48.18,468.18,4/13/2018,902 N Section St,Sullivan,IN,47882
+2199,Westover,2205,07:48.34,468.34000000000003,3/22/2018,277 Bonanza Dr,Fayetteville,NC,28303
+2200,Seton Catholic,2206,07:49.34,469.34000000000003,4/18/2018,1150 N Dobson Rd,Chandler,AZ,85032
+2201,Flowing Wells,2207,07:49.73,469.73,4/17/2018,3725 N Flowing Wells Rd,Tucson,AZ,85705
+2202,Clear Creek,2208,07:49.98,469.98,4/14/2018,185 Beaver Brook Canyon Rd,Evergreen,CO,80439
+2203,Greeley West,2209,07:50.01,470.01,3/8/2018,2401 35th Avenue,Greeley,CO,80634
+2204,Fort Collins,2210,07:50.23,470.23,4/10/2018,3400 Lambkin Wy,Fort Collins,CO,80525
+2205,Deer Valley,2211,07:50.35,470.35,4/23/2018,18424 N 51St Ave,Glendale,AZ,85308
+2206,Thornton,2212,07:50.58,470.58,3/10/2018,9351 N Washington,Thornton,CO,80229
+2207,Falcon,2213,07:51.00,471.0,4/28/2018,10255 Lambert Rd,Falcon,CO,80831
+2208,St. Johns,2214,07:52.16,472.15999999999997,3/23/2018,360 S. Redskin Dr,St. Johns,AZ,85936
+2209,Palmer Ridge,2215,07:52.58,472.58,3/24/2018,19255 Monument Hill Rd,Monument,CO,80132
+2210,Boulder,2216,07:52.75,472.75,3/21/2018,1604 Arapahoe Ave,Boulder,CO,80302
+2211,Greeley Central,2217,07:52.96,472.96,3/8/2018,1515 14th Ave,Greeley,CO,80631
+2212,LaVille,2218,07:53.00,473.0,5/1/2018,69969 US 931 S,Lakeville,IN,46536
+2213,Monument Valley,2219,07:53.68,473.68,3/30/2018,North U.S. Hwy 163/Mustang Boulevard,Kayenta,AZ,86033
+2214,Arete Prep,2220,07:53.81,473.81,4/25/2018,4525 E. Baseline Rd,Gilbert,AZ,85234
+2215,ASU Prep,2221,07:53.87,473.87,4/2/2018,735 E Fillmore,Phoenix,AZ,85006
+2216,Pueblo South,2222,07:54.01,474.01,4/26/2018,1801 Hollywood Dr,Pueblo,CO,81005
+2217,Palmer,2223,07:54.24,474.24,4/20/2018,301 N NEvada Ave,Colorado Springs,CO,80903
+2218,Conemaugh Township,2224,07:55.00,475.0,4/11/2018,300 W Campus Ave,Davidsville,PA,15928
+2219,Pueblo South,2225,07:55.00,475.0,4/6/2018,1801 Hollywood Dr,Pueblo,CO,81005
+2220,ASU Prep,2226,07:55.29,475.29,3/3/2018,735 E Fillmore,Phoenix,AZ,85006
+2221,Lutheran,2227,07:55.70,475.7,4/11/2018,11249 Newlin Gulch Blvd.,Parker,CO,80134
+2222,Horizon,2228,07:56.10,476.1,4/18/2018,5601 E Greenway Rd,Scottsdale,AZ,85254
+2223,Aspen,2229,07:56.25,476.25,4/27/2018,235 High School Rd,Aspen,CO,81611
+2224,Lake County,2230,07:56.26,476.26,3/10/2018,1000 W 4Th St,Leadville,CO,80461
+2225,Fort Collins,2231,07:56.41,476.40999999999997,4/10/2018,3400 Lambkin Wy,Fort Collins,CO,80525
+2226,Northridge,2232,07:57.38,477.38,3/22/2018,100 71St Ave,Greeley,CO,80634
+2227,Alchesay,2233,07:58.42,478.42,4/6/2018,200 Falcon Way,Whiteriver,AZ,85941
+2228,Benjamin Franklin,2234,07:58.93,478.93,3/3/2018,18864 E Germann Rd,Queen Creek,AZ,85142
+2229,Thatcher,2235,07:59.07,479.07,4/4/2018,601 N. 3rd Ave.,Thatcher,AZ,85552
+2230,Eaglecrest,2236,07:59.13,479.13,5/3/2018,5100 S Picadilly St,Centennial,CO,80015
+2231,Steamboat Springs,2237,08:00.20,480.2,4/27/2018,45 E Maple Street,Steamboat Springs,CO,80487
+2232,Springfield,2238,08:01.35,481.35,3/29/2018,389 Tipton St,Springfield,CO,81073
+2233,Coolidge,2239,08:01.45,481.45,4/23/2018,684 West Northern Ave.,Coolidge,AZ,85128
+2234,Fredonia,2240,08:01.53,481.53,3/16/2018,221 N. Hortt,Fredonia,AZ,86022
+2235,Pueblo South,2241,08:02.14,482.14,3/10/2018,1801 Hollywood Dr,Pueblo,CO,81005
+2236,St. Michael,2242,08:02.20,482.2,4/20/2018,1 Lupton Rd.,St. Michaels,AZ,86511
+2237,Mead,2243,08:02.22,482.22,4/14/2018,12750 CR 7,Longmont,CO,80504
+2238,Lutheran,2244,08:03.29,483.29,4/7/2018,11249 Newlin Gulch Blvd.,Parker,CO,80134
+2239,Pagosa Springs,2245,08:03.98,483.98,5/5/2018,800 South 8th Street,Pagosa Springs,CO,81147
+2240,Mountain Range,2246,08:04.31,484.31,3/10/2018,12500 Huron St,Westminster,CO,80234
+2241,Mayer,2247,08:04.52,484.52,3/23/2018,17300 E Mule Deer Dr,Mayer,AZ,86333
+2242,Mancos,2248,08:04.78,484.78,4/20/2018,355 W Grand Ave,Mancos,CO,81328
+2243,Mountain View,2249,08:04.81,484.81,4/12/2018,3500 Mountain Lion Dr,Loveland,CO,80537
+2244,Westview,2250,08:05.02,485.02,4/18/2018,10850 W Garden Lakes Pkwy,Avondale,AZ,85323
+2245,Cesar Chavez,2251,08:05.93,485.93,3/23/2018,3921 W Baseline Rd,Laveen,AZ,85339
+2246,Mingus Mountain Academy,2252,08:06.33,486.33,4/7/2018,15801 E Don Carlos Dr,Prescott Valley,AZ,86315
+2247,Tonopah Valley,2253,08:06.40,486.4,3/20/2018,38201 W Indian School Rd,Tonopah,AZ,85354
+2248,Bishop Machebeuf,2254,08:06.78,486.78,3/22/2018,458 Uinta Way,Denver,CO,80230
+2249,Lakewood,2255,08:07.20,487.2,4/3/2018,9700 W 8Th Ave,Lakewood,CO,80215
+2250,Willcox,2256,08:07.48,487.48,3/10/2018,240 N. Bisbee,Willcox,AZ,85643
+2251,Catalina Foothills,2257,08:09.28,489.28,4/17/2018,4300 E Sunrise Dr,Tucson,AZ,85718
+2252,Westminster,2258,08:10.41,490.41,4/28/2018,6933 Raleigh Street,Westminster,CO,80030
+2253,Pueblo,2259,08:11.61,491.61,3/29/2018,3500 S 12Th Ave,Tucson,AZ,85713
+2254,Willow Canyon,2260,08:13.35,493.35,3/17/2018,17901 West Lundberg,Surprise,AZ,85388
+2255,Longmont,2261,08:14.08,494.08,3/10/2018,1040 Sunset St,Longmont,CO,80501
+2256,Alhambra,2262,08:14.92,494.92,4/14/2018,3839 W Camelback Rd,Phoenix,AZ,85019
+2257,Rincon/University,2263,08:15.60,495.6,3/2/2018,421 N Arcadia Blvd,Tucson,AZ,85711
+2258,LaVille,2264,08:17.38,497.38,4/27/2018,69969 US 931 S,Lakeville,IN,46536
+2259,Alamosa,2265,08:18.26,498.26,3/16/2018,805 Craft Dr,Alamosa,CO,81101
+2260,Desert Edge,2266,08:18.57,498.57,3/31/2018,15778 W Yuma Rd,Goodyear,AZ,85338
+2261,Olathe,2267,08:18.67,498.67,4/28/2018,410 Highway 50,Olathe,CO,81425
+2262,Fairfax,2268,08:19.84,499.84,3/21/2018,8225 South 59th Avenue,Laveen,AZ,85339
+2263,Sedgwick County,2269,08:20.46,500.46,4/9/2018,102 W 6Th St,Julesburg,CO,80737
+2264,Pueblo West,2270,08:20.60,500.6,3/29/2018,661 W. Capistrano Ave.,Pueblo West,CO,81007
+2265,Sedgwick County,2271,08:20.72,500.72,3/24/2018,102 W 6Th St,Julesburg,CO,80737
+2266,Springfield,2272,08:21.56,501.56,5/5/2018,389 Tipton St,Springfield,CO,81073
+2267,Del Norte,2273,08:21.88,501.88,4/23/2018,950 French St,Del Norte,CO,81132
+2268,Rifle,2274,08:23.00,503.0,3/31/2018,1350 Prefontaine Ave,Rifle,CO,81650
+2269,Jefferson Academy,2275,08:24.05,504.05,4/28/2018,11251 Reed Way,Broomfield,CO,80020
+2270,Falcon,2276,08:24.43,504.43,5/10/2018,10255 Lambert Rd,Falcon,CO,80831
+2271,Benjamin Franklin,2277,08:24.90,504.9,3/31/2018,18864 E Germann Rd,Queen Creek,AZ,85142
+2272,Calhan,2278,08:25.81,505.81,4/27/2018,800 Bulldog Dr.,Calhan,CO,80808
+2273,Sierra Linda,2279,08:26.38,506.38,4/18/2018,3434 S 67th Ave,Phoenix,AZ,85043
+2274,Swink,2280,08:28.29,508.29,4/28/2018,610 Columbia Street,Swink,CO,81077
+2275,Manitou Springs,2281,08:31.14,511.14,3/24/2018,401 El Monte Pl,Manitou Springs,CO,80829
+2276,Pinon,2282,08:35.06,515.06,3/9/2018,1 Mile N Navajo Rte 41,Pinon,AZ,86510
+2277,Pinon,2283,08:36.51,516.51,4/13/2018,1 Mile N Navajo Rte 41,Pinon,AZ,86510
+2278,Mohave,2284,08:37.44,517.44,3/24/2018,2251 Hwy 95,Bullhead City,AZ,86442
+2279,Pomona,2285,08:37.63,517.63,4/11/2018,8101 W Pomona Dr,Arvada,CO,80005
+2280,Greeley West,2286,08:38.03,518.03,3/8/2018,2401 35th Avenue,Greeley,CO,80634
+2281,Buena Vista,2287,08:38.98,518.98,4/7/2018,559 Railroad,Buena Vista,CO,81211
+2282,Paradise Valley,2288,08:39.17,519.17,4/18/2018,3950 E Bell Rd,Phoenix,AZ,85032
+2283,Elizabeth,2289,08:42.51,522.51,4/11/2018,34500 County Road 13,Elizabeth,CO,80107
+2284,Greeley West,2290,08:43.66,523.66,3/8/2018,2401 35th Avenue,Greeley,CO,80634
+2285,St. Michael,2291,08:45.08,525.08,4/20/2018,1 Lupton Rd.,St. Michaels,AZ,86511
+2286,Winslow,2292,08:52.25,532.25,4/18/2018,600 East Cherry St.,Winslow,AZ,86047
+2287,Greeley West,2293,08:54.56,534.56,3/8/2018,2401 35th Avenue,Greeley,CO,80634
+2288,Winslow,2294,08:57.07,537.07,3/14/2018,600 East Cherry St.,Winslow,AZ,86047
+2289,Apache Junction,2295,08:57.79,537.79,4/17/2018,2525 S Ironwood Drive,Apache Junction,AZ,85120
+2290,John Mall,2296,08:59.86,539.86,3/24/2018,355 Pine St,Walsenburg,CO,81089
+2291,Tonopah Valley,2297,09:02.96,542.96,3/20/2018,38201 W Indian School Rd,Tonopah,AZ,85354
+2292,Round Valley,2298,09:09.19,549.19,3/23/2018,550 N Butler St,Eagar,AZ,85925
+2293,North Pointe Prep,2299,09:10.84,550.84,4/6/2018,10215 N 43rd Ave,Phoenix,AZ,85051
+2294,North Pointe Prep,2300,09:15.61,555.61,4/6/2018,10215 N 43rd Ave,Phoenix,AZ,85051
+2295,Colorado School for the Deaf Blind,2301,09:25.30,565.3,5/12/2018,33 N Institute St,Colorado Springs,CO,80903
+2296,De Beque,2302,09:32.95,572.95,3/17/2018,730 Minter Avenue,De Beque,CO,81630
+2297,Otis,2303,09:34.85,574.85,5/5/2018,301 Work St,Otis,CO,80743
+2298,Bowie/San Simon,2304,09:43.97,583.97,4/20/2018,315 W 5Th St,Bowie,AZ,85605
+2299,Sheridan,2305,09:50.14,590.14,3/16/2018,3201 W Oxford Ave,Denver,CO,80236
+2300,Byers,2306,10:07.28,607.28,5/4/2018,444 E Front St,Byers,CO,80103
+2301,Overland,2307,10:08.33,608.33,3/22/2018,12400 E Jewell Ave,Aurora,CO,80012
+2302,Rock Point,2308,10:38.78,638.78,3/3/2018,Hwy 191,Rock Point,AZ,86545
+2303,Desert Mirage,2309,15:13.58,913.58,3/15/2018,86-150 Ave 66,Thermal,CA,92274

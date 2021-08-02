@@ -1,0 +1,257 @@
+,Team_1,Score_1,Team_2,Score_2,Result_Team_1,Date,Time,Location,Team_1_Street_Address,Team_1_City,Team_1_State,Team_1_Zip,Team_2_City,Team_2_State
+0,Agua Fria,116,Buckeye,47,W,8/31,4:00p,Agua Fria High School,530 E Riley Dr.,Avondale,AZ,85323,Buckeye,AZ
+1,Agua Fria,198,Desert Edge,91,W,9/14,4:00p,Desert Edge High School,530 E Riley Dr.,Avondale,AZ,85323,Goodyear,AZ
+2,Amphitheater,27,Desert Christian,81,L,8/31,4:00p,Desert Christian High School,125 W Yavapai Rd,Tucson,AZ,85705,Tucson,AZ
+3,Apollo,34,Deer Valley,135,L,10/5,4:00p,Apollo High School,8045 N 47Th Ave,Glendale,AZ,85302,Glendale,AZ
+4,Arizona College Prep,101,San Manuel,68,W,9/7,4:00p,San Manuel High School,4477 S. Gilbert Road,Chandler,AZ,85249,San Manuel,AZ
+5,Arizona College Prep,104,Seton Catholic,147,L,9/14,6:00p,Seton Catholic High School,4477 S. Gilbert Road,Chandler,AZ,85249,Chandler,AZ
+6,Bradshaw Mountain,55,Flagstaff,115,L,9/5,4:00p,Flagstaff High School,6000 E Long Look Dr Prescott,Valley,AZ,86314,Flagstaff,AZ
+7,Buckeye,47,Agua Fria,116,L,8/31,4:00p,Agua Fria High School,902 Eason Ave.,Buckeye,AZ,85326,Avondale,AZ
+8,Cibola,76,Gila Ridge,110,L,9/14,4:00p,Cibola High School,4100 W 20Th St,Yuma,AZ,85364,Yuma,AZ
+9,Cortez,65,Flagstaff,109,L,9/20,4:00p,Flagstaff High School,8828 N 31St Ave,Phoenix,AZ,85051,Flagstaff,AZ
+10,Deer Valley,108,Thunderbird,75,W,8/31,4:00p,Thunderbird High School,18424 N 51St Ave,Glendale,AZ,85308,Phoenix,AZ
+11,Deer Valley,135,Apollo,34,W,10/5,4:00p,Apollo High School,18424 N 51St Ave,Glendale,AZ,85308,Glendale,AZ
+12,Desert Christian,81,Amphitheater,27,W,8/31,4:00p,Desert Christian High School,7525 East Speedway Boulevard,Tucson,AZ,85710,Tucson,AZ
+13,Desert Christian,56,Palo Verde,58,L,9/7,4:00p,Palo Verde High School,7525 East Speedway Boulevard,Tucson,AZ,85710,Tucson,AZ
+14,Desert Christian,41,San Manuel,88,L,9/12,4:00p,Desert Christian High School,7525 East Speedway Boulevard,Tucson,AZ,85710,San Manuel,AZ
+15,Desert Christian,56,Pueblo,74,L,9/20,4:00p,Pueblo High School,7525 East Speedway Boulevard,Tucson,AZ,85710,Tucson,AZ
+16,Desert Christian,56,Sahuaro,144,L,9/20,4:00p,Sahuaro High School,7525 East Speedway Boulevard,Tucson,AZ,85710,Tucson,AZ
+17,Desert Christian,11,Walden Grove,75,L,9/28,4:00p,Walden Grove High School,7525 East Speedway Boulevard,Tucson,AZ,85710,Sahuarita,AZ
+18,Desert Christian,23,Tanque Verde,68,L,10/19,4:00p,Tanque Verde High School,7525 East Speedway Boulevard,Tucson,AZ,85710,Tucson,AZ
+19,Desert Edge,91,Agua Fria,198,L,9/14,4:00p,Desert Edge High School,15778 W Yuma Rd,Goodyear,AZ,85338,Avondale,AZ
+20,Desert Edge,136,Prescott,319,L,9/19,4:00p,Prescott High School,15778 W Yuma Rd,Goodyear,AZ,85338,Prescott,AZ
+21,Desert Ridge,144,Millennium,41,W,9/21,4:00p,Desert Ridge High School,10045 E Madero Ave,Mesa,AZ,85212,Goodyear,AZ
+22,Douglas,98,Sunnyside,42,W,9/7,TBA,Sunnyside High School,1500 15th St,Douglas,AZ,85607,Tucson,AZ
+23,Flagstaff,114,North,47,W,8/31,3:00p,Flagstaff High School,400 W Elm,Flagstaff,AZ,86001,Phoenix,AZ
+24,Flagstaff,115,Bradshaw Mountain,55,W,9/5,4:00p,Flagstaff High School,400 W Elm,Flagstaff,AZ,86001,Prescott Valley,AZ
+25,Flagstaff,109,Prescott,79,W,9/14,4:00p,Prescott High School,400 W Elm,Flagstaff,AZ,86001,Prescott,AZ
+26,Flagstaff,109,Cortez,65,W,9/20,4:00p,Flagstaff High School,400 W Elm,Flagstaff,AZ,86001,Phoenix,AZ
+27,Flagstaff,93,Shadow Mountain,65,W,10/19,4:00p,Flagstaff High School,400 W Elm,Flagstaff,AZ,86001,Phoenix,AZ
+28,Gila Ridge,237,San Luis,21,W,9/7,4:00p,Gila Ridge High School,7150 East 24th Street,Yuma,AZ,85365,San Luis,AZ
+29,Gila Ridge,110,Cibola,76,W,9/14,4:00p,Cibola High School,7150 East 24th Street,Yuma,AZ,85365,Yuma,AZ
+30,Gila Ridge,197,Yuma,51,W,9/19,4:00p,Gila Ridge High School,7150 East 24th Street,Yuma,AZ,85365,Yuma,AZ
+31,Gila Ridge,176,Kofa,88,W,9/21,4:00p,Gila Ridge High School,7150 East 24th Street,Yuma,AZ,85365,Yuma,AZ
+32,Gila Ridge,130,Mohave,155,L,10/4,4:00p,Mohave High School,7150 East 24th Street,Yuma,AZ,85365,Bullhead City,AZ
+33,Gila Ridge,154,Lake Havasu,136,W,10/19,4:00p,Gila Ridge High School,7150 East 24th Street,Yuma,AZ,85365,Lake Havasu City,AZ
+34,Horizon,146,Millennium,77,W,10/5,4:00p,Horizon High School,5601 E Greenway Rd,Scottsdale,AZ,85254,Goodyear,AZ
+35,Kofa,88,Gila Ridge,176,L,9/21,4:00p,Gila Ridge High School,3100 S Ave A,Yuma,AZ,85364,Yuma,AZ
+36,Lake Havasu,136,Gila Ridge,154,L,10/19,4:00p,Gila Ridge High School,2675 S. Palo Verde Lake Havasu,City,AZ,86403,Yuma,AZ
+37,Marcos de Niza,63,Shadow Mountain,113,L,9/14,4:00p,Shadow Mountain High School,6000 South Lakeshore Drive,Tempe,AZ,85283,Phoenix,AZ
+38,Millennium,120,Tolleson,48,W,9/7,4:00p,Millennium High School,14802 W Wigwam Blvd,Goodyear,AZ,85338,Tolleson,AZ
+39,Millennium,41,Desert Ridge,144,L,9/21,4:00p,Desert Ridge High School,14802 W Wigwam Blvd,Goodyear,AZ,85338,Mesa,AZ
+40,Millennium,33,Mountain View,136,L,9/28,4:00p,Mountain View High School,14802 W Wigwam Blvd,Goodyear,AZ,85338,Mesa,AZ
+41,Millennium,77,Horizon,146,L,10/5,4:00p,Horizon High School,14802 W Wigwam Blvd,Goodyear,AZ,85338,Scottsdale,AZ
+42,Millennium,75,Mountain Ridge,108,L,10/12,4:00p,Millennium High School,14802 W Wigwam Blvd,Goodyear,AZ,85338,Glendale,AZ
+43,Millennium,73,Mountain Pointe,106,L,10/20,4:00p,Millennium High School,14802 W Wigwam Blvd,Goodyear,AZ,85338,Phoenix,AZ
+44,Mingus,90,Northland Prep Academy,87,W,8/31,4:00p,Mingus High School,1801 E Fir St,Cottonwood,AZ,86326,Flagstaff,AZ
+45,Mohave,155,Gila Ridge,130,W,10/4,4:00p,Mohave High School,2251 Hwy 95 Bullhead,City,AZ,86442,Yuma,AZ
+46,Moon Valley,63,Shadow Mountain,146,L,9/7,4:00p,Moon Valley High School,3625 W Cactus Rd,Phoenix,AZ,85029,Phoenix,AZ
+47,Mountain Pointe,106,Millennium,73,W,10/20,4:00p,Millennium High School,4201 E Knox Rd,Phoenix,AZ,85044,Goodyear,AZ
+48,Mountain Ridge,108,Millennium,75,W,10/12,4:00p,Millennium High School,22800 N 67th Ave,Glendale,AZ,85310,Goodyear,AZ
+49,Mountain View,136,Millennium,33,W,9/28,4:00p,Mountain View High School,2700 E Brown Rd,Mesa,AZ,85213,Goodyear,AZ
+50,North,47,Flagstaff,114,L,8/31,3:00p,Flagstaff High School,1101 E Thomas Rd,Phoenix,AZ,85014,Flagstaff,AZ
+51,North Canyon,49,Paradise Valley,118,L,8/31,4:00p,Paradise Valley High School,1700 E Union Hills Dr,Phoenix,AZ,85024,Phoenix,AZ
+52,North Canyon,79,Shadow Mountain,115,L,9/19,4:00p,North Canyon High School,1700 E Union Hills Dr,Phoenix,AZ,85024,Phoenix,AZ
+53,Northland Prep Academy,87,Mingus,90,L,8/31,4:00p,Mingus High School,3300 E Sparrow Ave,Flagstaff,AZ,86004,Cottonwood,AZ
+54,Palo Verde,58,Desert Christian,56,W,9/7,4:00p,Palo Verde High School,1302 S Avenida Vega,Tucson,AZ,85710,Tucson,AZ
+55,Paradise Valley,118,North Canyon,49,W,8/31,4:00p,Paradise Valley High School,3950 E Bell Rd,Phoenix,AZ,85032,Phoenix,AZ
+56,Prescott,79,Flagstaff,109,L,9/14,4:00p,Prescott High School,1050 N Ruth St,Prescott,AZ,86301,Flagstaff,AZ
+57,Prescott,319,Desert Edge,136,W,9/19,4:00p,Prescott High School,1050 N Ruth St,Prescott,AZ,86301,Goodyear,AZ
+58,Pueblo,74,Desert Christian,56,W,9/20,4:00p,Pueblo High School,3500 S 12Th Ave,Tucson,AZ,85713,Tucson,AZ
+59,Sahuaro,144,Desert Christian,56,W,9/20,4:00p,Sahuaro High School,545 N Camino SEco,Tucson,AZ,85710,Tucson,AZ
+60,Salpointe Catholic,149,Sunnyside,23,W,8/31,TBA,Salpointe Catholic High School,1545 E Copper St,Tucson,AZ,85719,Tucson,AZ
+61,San Luis,21,Gila Ridge,237,L,9/7,4:00p,Gila Ridge High School,1250 N 8th Ave San,Luis,AZ,85349,Yuma,AZ
+62,San Manuel,68,Arizona College Prep,101,L,9/7,4:00p,San Manuel High School,711 McNab Parkway San,Manuel,AZ,85631,Chandler,AZ
+63,San Manuel,88,Desert Christian,41,W,9/12,4:00p,Desert Christian High School,711 McNab Parkway San,Manuel,AZ,85631,Tucson,AZ
+64,Seton Catholic,147,Arizona College Prep,104,W,9/14,6:00p,Seton Catholic High School,1150 N Dobson Rd,Chandler,AZ,85032,Chandler,AZ
+65,Shadow Mountain,32,Sunnyslope,146,L,8/31,4:00p,Shadow Mountain High School,2902 E Shea Blvd,Phoenix,AZ,85028,Phoenix,AZ
+66,Shadow Mountain,146,Moon Valley,63,W,9/7,4:00p,Moon Valley High School,2902 E Shea Blvd,Phoenix,AZ,85028,Phoenix,AZ
+67,Shadow Mountain,113,Marcos de Niza,63,W,9/14,4:00p,Shadow Mountain High School,2902 E Shea Blvd,Phoenix,AZ,85028,Tempe,AZ
+68,Shadow Mountain,115,North Canyon,79,W,9/19,4:00p,North Canyon High School,2902 E Shea Blvd,Phoenix,AZ,85028,Phoenix,AZ
+69,Shadow Mountain,65,Flagstaff,93,L,10/19,4:00p,Flagstaff High School,2902 E Shea Blvd,Phoenix,AZ,85028,Flagstaff,AZ
+70,Sunnyside,23,Salpointe Catholic,149,L,8/31,TBA,Salpointe Catholic High School,1725 E Bilby Rd,Tucson,AZ,85706,Tucson,AZ
+71,Sunnyside,42,Douglas,98,L,9/7,TBA,Sunnyside High School,1725 E Bilby Rd,Tucson,AZ,85706,Douglas,AZ
+72,Sunnyslope,146,Shadow Mountain,32,W,8/31,4:00p,Shadow Mountain High School,35 W Dunlap Ave,Phoenix,AZ,85021,Phoenix,AZ
+73,Tanque Verde,68,Desert Christian,23,W,10/19,4:00p,Tanque Verde High School,4201 N Melpomene Wy,Tucson,AZ,85749,Tucson,AZ
+74,Thunderbird,75,Deer Valley,108,L,8/31,4:00p,Thunderbird High School,1750 W Thunderbird Rd,Phoenix,AZ,85023,Glendale,AZ
+75,Tolleson,48,Millennium,120,L,9/7,4:00p,Millennium High School,9419 W Van Buren,Tolleson,AZ,85353,Goodyear,AZ
+76,Walden Grove,75,Desert Christian,11,W,9/28,4:00p,Walden Grove High School,15510 S Sahuarita Park Rd,Sahuarita,AZ,85629,Tucson,AZ
+77,Yuma,51,Gila Ridge,197,L,9/19,4:00p,Gila Ridge High School,400 S 6Th Ave,Yuma,AZ,85364,Yuma,AZ
+78,Admiral Farragut,77,Keswick Christian,172,L,10/5,6:00p,Keswick Christian High School,501 Park St N St.,Petersburg,FL,33710,St. Petersburg,FL
+79,Admiral Farragut,77,Indian Rocks Christian,153,L,10/5,6:00p,Indian Rocks Christian High School,501 Park St N St.,Petersburg,FL,33710,Largo,FL
+80,Andrew Jackson,9,ED White,70,L,9/28,4:00p,ED White High School,3816 N MAIN ST,Jacksonville,FL,32206,Jacksonville,FL
+81,Bolles,154,Pine Crest,99,W,9/22,4:30p,Pine Crest High School,7400 San Jose Blvd,Jacksonville,FL,32217,Fort Lauderdale,FL
+82,Celebration,74,Poinciana,10,W,8/31,4:30p,Celebration High School,1809 Celebration Boulevard,Celebration,FL,34747,Kissimmee,FL
+83,Celebration,122,Liberty,18,W,9/5,4:30p,Celebration High School,1809 Celebration Boulevard,Celebration,FL,34747,Kissimmee,FL
+84,Celebration,73,St. Cloud,94,L,9/21,4:30p,Celebration High School,1809 Celebration Boulevard,Celebration,FL,34747,St. Cloud,FL
+85,Celebration,157,Osceola,104,W,9/26,4:30p,Osceola High School,1809 Celebration Boulevard,Celebration,FL,34747,Kissimmee,FL
+86,Celebration,98,Gateway,208,L,9/26,4:30p,Gateway High School,1809 Celebration Boulevard,Celebration,FL,34747,Kissimmee,FL
+87,Circle Christian,107,East Ridge,196,L,8/29,4:00p,Circle Christian High School,2134 Kentucky Avenue Winter,Park,FL,32789,Clermont,FL
+88,Cocoa Beach,112,Space Coast,75,W,9/28,4:30p,Cocoa Beach High School,1500 Minutemen Cswy Cocoa,Beach,FL,32931,Cocoa,FL
+89,Coral Glades,45,Monarch,50,L,9/27,4:30p,Monarch High School,2700 Sportsplex Dr Coral,Springs,FL,33065,Coconut Creek,FL
+90,Cornerstone Charter Academy,53,East Ridge,114,L,10/3,4:30p,East Ridge High School,5903 Randolph Ave Belle,Isle,FL,32809,Clermont,FL
+91,Crystal River,111,Nature Coast Tech,59,W,8/22,6:00p,Crystal River High School,3195 Crystal River High Drive Crystal,River,FL,34428,Brooksville,FL
+92,Crystal River,77,Lake Minneola,93,L,8/31,5:00p,Crystal River High School,3195 Crystal River High Drive Crystal,River,FL,34428,Minneola,FL
+93,Crystal River,104,Springstead,66,W,9/21,6:00p,Crystal River High School,3195 Crystal River High Drive Crystal,River,FL,34428,Spring Hill,FL
+94,Crystal River,92,The Villages Charter,78,W,9/28,4:30p,Crystal River High School,3195 Crystal River High Drive Crystal,River,FL,34428,The Villages,FL
+95,Crystal River,95,South Lake,74,W,9/30,9:00a,South Lake High School,3195 Crystal River High Drive Crystal,River,FL,34428,Groveland,FL
+96,Crystal River,94,East Ridge,78,W,9/30,9:00a,East Ridge High School,3195 Crystal River High Drive Crystal,River,FL,34428,Clermont,FL
+97,Crystal River,130,Citrus,30,W,10/3,6:00p,Crystal River High School,3195 Crystal River High Drive Crystal,River,FL,34428,Inverness,FL
+98,Crystal River,95,Lecanto,87,W,10/12,5:00p,Crystal River High School,3195 Crystal River High Drive Crystal,River,FL,34428,Lecanto,FL
+99,Dreyfoos School of the Arts,142,Royal Palm Beach,26,W,8/31,4:30p,Royal Palm Beach High School,501 South Sapodilla Drive West Palm,Beach,FL,33401,Royal Palm Beach,FL
+100,Dreyfoos School of the Arts,131,Lake Worth,23,W,9/27,4:30p,Lake Worth High School,501 South Sapodilla Drive West Palm,Beach,FL,33401,Lake Worth,FL
+101,East Ridge,196,Circle Christian,107,W,8/29,4:00p,Circle Christian High School,13322 Excalibur Rd,Clermont,FL,34711,Winter Park,FL
+102,East Ridge,70,Montverde Academy,238,L,8/29,4:00p,Montverde Academy ,13322 Excalibur Rd,Clermont,FL,34711,Montverde,FL
+103,East Ridge,133,Gateway,167,L,9/21,4:30p,Gateway High School,13322 Excalibur Rd,Clermont,FL,34711,Kissimmee,FL
+104,East Ridge,92,Mount Dora,78,W,9/27,4:30p,Mount Dora High School,13322 Excalibur Rd,Clermont,FL,34711,Mount Dora,FL
+105,East Ridge,78,Crystal River,94,L,9/30,9:00a,East Ridge High School,13322 Excalibur Rd,Clermont,FL,34711,Crystal River,FL
+106,East Ridge,114,Cornerstone Charter Academy,53,W,10/3,4:30p,East Ridge High School,13322 Excalibur Rd,Clermont,FL,34711,Belle Isle,FL
+107,East Ridge,84,Eustis,86,L,10/3,4:30p,East Ridge High School,13322 Excalibur Rd,Clermont,FL,34711,Eustis,FL
+108,ED White,13,Parker,139,L,9/21,4:00p,ED White High School,1700 Old Middleburg Rd N,Jacksonville,FL,32210,Jacksonville,FL
+109,ED White,24,Englewood,81,L,9/26,4:00p,ED White High School,1700 Old Middleburg Rd N,Jacksonville,FL,32210,Jacksonville,FL
+110,ED White,70,Andrew Jackson,9,W,9/28,4:00p,ED White High School,1700 Old Middleburg Rd N,Jacksonville,FL,32210,Jacksonville,FL
+111,Edgewood,107,Space Coast,78,W,9/26,4:30p,Space Coast High School,180 E Merritt Ave Merritt,Island,FL,32953,Cocoa,FL
+112,Gateway,167,East Ridge,133,W,9/21,4:30p,Gateway High School,93 Panther Paws Trl,Kissimmee,FL,34744,Clermont,FL
+113,Gateway,208,Celebration,98,W,9/26,4:30p,Gateway High School,93 Panther Paws Trl,Kissimmee,FL,34744,Celebration,FL
+114,Monarch,50,Coral Glades,45,W,9/27,4:30p,Monarch High School,5050 Wiles Rd Coconut,Creek,FL,33073,Coral Springs,FL
+115,Montverde Academy,238,East Ridge,70,W,8/29,4:00p,Montverde Academy ,17235 7Th St,Montverde,FL,34756,Clermont,FL
+116,Pine Crest,99,Bolles,154,L,9/22,4:30p,Pine Crest High School,1501 NE 62nd St Fort,Lauderdale,FL,33334,Jacksonville,FL
+117,Pine Crest,231,Westminster Academy,75,W,9/27,4:00p,Pine Crest High School,1501 NE 62nd St Fort,Lauderdale,FL,33334,Fort Lauderdale,FL
+118,River Ridge,78,Sunlake,100,L,10/4,6:00p,Sunlake High School,11646 Town Center Rd New Port,Richey,FL,34654,Land O' Lakes,FL
+119,Royal Palm Beach,26,Dreyfoos School of the Arts,142,L,8/31,4:30p,Royal Palm Beach High School,10600 Okeechobee Blvd Royal Palm,Beach,FL,33411,West Palm Beach,FL
+120,Royal Palm Beach,73,Boynton Beach,25,W,9/19,4:30p,Boynton Beach High School,10600 Okeechobee Blvd Royal Palm,Beach,FL,33411,Boynton Beach,FL
+121,Royal Palm Beach,59,Cardinal Newman,66,L,9/28,4:00p,Royal Palm Beach High School,10600 Okeechobee Blvd Royal Palm,Beach,FL,33411,West Palm Beach,FL
+122,Royal Palm Beach,46,Jupiter Christian,98,L,9/28,4:00p,Royal Palm Beach High School,10600 Okeechobee Blvd Royal Palm,Beach,FL,33411,Jupiter,FL
+123,Space Coast,146,Astronaut,34,W,8/24,4:30p,Astronaut High School,6150 Banyan St,Cocoa,FL,32927,Titusville,FL
+124,Space Coast,63,Titusville,123,L,8/31,4:30p,Space Coast High School,6150 Banyan St,Cocoa,FL,32927,Titusville,FL
+125,Space Coast,78,Edgewood,107,L,9/26,4:30p,Space Coast High School,6150 Banyan St,Cocoa,FL,32927,Merritt Island,FL
+126,Space Coast,75,Cocoa Beach,112,L,9/28,4:30p,Cocoa Beach High School,6150 Banyan St,Cocoa,FL,32927,Cocoa Beach,FL
+127,Sunlake,107,Wesley Chapel,62,W,8/30,6:00p,Sunlake High School,3023 Sunlake Blvd. Land O',Lakes,FL,34638,Wesley Chapel,FL
+128,Sunlake,89,Land O' Lakes,96,L,9/13,6:00p,Sunlake High School,3023 Sunlake Blvd. Land O',Lakes,FL,34638,Land O' Lakes,FL
+129,Sunlake,126,Gulf,32,W,9/20,6:00p,Gulf High School,3023 Sunlake Blvd. Land O',Lakes,FL,34638,New Port Richey,FL
+130,Sunlake,109,Zephyrhills,28,W,9/27,6:00p,Zephyrhills High School,3023 Sunlake Blvd. Land O',Lakes,FL,34638,Zephyrhills,FL
+131,Sunlake,100,River Ridge,78,W,10/4,6:00p,Sunlake High School,3023 Sunlake Blvd. Land O',Lakes,FL,34638,New Port Richey,FL
+132,Wesley Chapel,62,Sunlake,107,L,8/30,6:00p,Sunlake High School,30651 Wells Rd Wesley,Chapel,FL,33545,Land O' Lakes,FL
+133,Zephyrhills,28,Sunlake,109,L,9/27,6:00p,Zephyrhills High School,6335 12th St.,Zephyrhills,FL,33542,Land O' Lakes,FL
+134,Back of the Yards College Prep,72,Solorio,93,L,10/4,5:00p,Back of the Yards College Prep ,2111 W 47th St,Chicago,IL,60609,Chicago,IL
+135,Bloomington,85,Centennial,94,L,9/7,4:00p,Bloomington High School,1202 East Locust,Bloomington,IL,61701,Champaign,IL
+136,Bloomington,52,Normal University,128,L,9/26,4:30p,Bloomington High School,1202 East Locust,Bloomington,IL,61701,Normal,IL
+137,Bloomington,112,Springfield,55,W,10/12,4:00p,Bloomington High School,1202 East Locust,Bloomington,IL,61701,Springfield,IL
+138,Bloomington,93,Richwoods,77,W,10/14,11:00a,Bloomington High School,1202 East Locust,Bloomington,IL,61701,Peoria,IL
+139,Bloomington,66,Champaign Central,114,L,10/19,4:30p,Champaign Central High School,1202 East Locust,Bloomington,IL,61701,Champaign,IL
+140,Curie,71,Solorio,90,L,10/11,5:00a,Curie High School,4959 S Archer Ave,Chicago,IL,60632,Chicago,IL
+141,Hubbard,64,Solorio,103,L,9/27,5:00p,Solorio High School,6200 S Hamlin Ave,Chicago,IL,60629,Chicago,IL
+144,Jones,119,Lincoln Park,52,W,9/26,5:00p,Lincoln Park High School,700 S. State,Chicago,IL,60605,Chicago,IL
+146,Jones,217,Northside,139,W,10/10,5:00p,Northside High School,700 S. State,Chicago,IL,60605,Chicago,IL
+150,Kelly,65,Solorio,88,L,9/13,5:00p,Solorio High School,4136 S California Ave,Chicago,IL,60632,Chicago,IL
+151,Northside,139,Jones,217,L,10/10,5:00p,Northside High School,5501 N Kedzie Ave,Chicago,IL,60625,Chicago,IL
+152,Solorio,88,Kelly,65,W,9/13,5:00p,Solorio High School,5400 S. Saint Louis Avenue,Chicago,IL,60632,Chicago,IL
+153,Solorio,87,Kennedy,83,W,9/20,5:00p,Kennedy High School,5400 S. Saint Louis Avenue,Chicago,IL,60632,Chicago,IL
+154,Solorio,103,Hubbard,64,W,9/27,5:00p,Solorio High School,5400 S. Saint Louis Avenue,Chicago,IL,60632,Chicago,IL
+155,Solorio,93,Back of the Yards College Prep,72,W,10/4,5:00p,Back of the Yards College Prep ,5400 S. Saint Louis Avenue,Chicago,IL,60632,Chicago,IL
+156,Solorio,90,Curie,71,W,10/11,5:00a,Curie High School,5400 S. Saint Louis Avenue,Chicago,IL,60632,Chicago,IL
+159,East Central,99,Greensburg,81,W,11/28,6:00p,East Central High School,1 Trojan Pl St.,Leon,IN,47012,Greensburg,IN
+160,East Central,133,South Dearborn,37,W,12/5,6:00p,South Dearborn High School,1 Trojan Pl St.,Leon,IN,47012,Aurora,IN
+161,East Central,253,Milan,107,W,12/7,6:00p,East Central High School,1 Trojan Pl St.,Leon,IN,47012,Milan,IN
+162,East Central,122,Shelbyville,63,W,12/14,6:00p,East Central High School,1 Trojan Pl St.,Leon,IN,47012,Shelbyville,IN
+163,East Central,115,Connersville,68,W,1/9,6:00p,East Central High School,1 Trojan Pl St.,Leon,IN,47012,Connersville,IN
+164,East Central,255,Batesville,90,W,1/16,6:00p,East Central High School,1 Trojan Pl St.,Leon,IN,47012,Batesville,IN
+171,Hamilton Heights,107,Oak Hill,79,W,11/13,6:00p,Hamilton Heights High School,25802 Sr 19,Arcadia,IN,46030,Converse,IN
+172,Hamilton Heights,108,Lebanon,78,W,11/16,6:00p,Lebanon High School,25802 Sr 19,Arcadia,IN,46030,Lebanon,IN
+173,Hamilton Heights,135,Anderson,49,W,11/21,5:30p,Anderson High School,25802 Sr 19,Arcadia,IN,46030,Anderson,IN
+174,Hamilton Heights,138,Eastern,48,W,11/28,5:30p,Eastern High School,25802 Sr 19,Arcadia,IN,46030,Greentown,IN
+175,Hamilton Heights,134,Tipton,51,W,11/30,5:30p,Hamilton Heights High School,25802 Sr 19,Arcadia,IN,46030,Tipton,IN
+176,Hamilton Heights,129,Lewis Cass,54,W,12/7,6:00p,Hamilton Heights High School,25802 Sr 19,Arcadia,IN,46030,Walton,IN
+177,Hamilton Heights,120,Western,66,W,1/9,5:30p,Western High School,25802 Sr 19,Arcadia,IN,46030,Russiaville,IN
+178,Hamilton Heights,116,Northwestern,70,W,1/13,10:00a,Northwestern High School,25802 Sr 19,Arcadia,IN,46030,Kokomo,IN
+187,South,45,Central,125,L,8/30,3:00p,Central High School,1213 W Allison Rd,Cheyenne,WY,82007,Cheyenne,WY
+188,South,437,Central,1186,L,10/5,4:00p,Central High School,1213 W Allison Rd,Cheyenne,WY,82007,Cheyenne,WY
+189,Antelope Valley,58,Littlerock,35,W,3/7,3:30p,Antelope Valley High School,44900 N Division St,Lancaster,CA,93535,Littlerock,CA
+190,Antelope Valley,25,Eastside,66,L,3/14,3:30p,Eastside High School,44900 N Division St,Lancaster,CA,93535,Lancaster,CA
+191,Antelope Valley,21,Palmdale,119,L,3/29,3:30p,Palmdale High School,44900 N Division St,Lancaster,CA,93535,Palmdale,CA
+192,Antelope Valley,2,Highland,134,L,4/5,3:30p,Highland High School,44900 N Division St,Lancaster,CA,93535,Palmdale,CA
+193,Antelope Valley,4,Quartz Hill,140,L,4/11,3:30p,Quartz Hill High School,44900 N Division St,Lancaster,CA,93535,Quartz Hill,CA
+194,Antelope Valley,13,Lancaster,128,L,4/19,3:30p,Antelope Valley High School,44900 N Division St,Lancaster,CA,93535,Lancaster,CA
+195,Antelope Valley,11,Knight,133,L,4/25,3:30p,Knight High School,44900 N Division St,Lancaster,CA,93535,Palmdale,CA
+196,Belmont,8,Contreras,90,L,4/18,2:30p,Contreras High School,1575 W Second St Los,Angeles,CA,90026,Los Angeles,CA
+197,Calvary Chapel,1,Calvary Chapel,0,W,2/27,3:15p,Calvary Chapel High School,3800 S Fairview Street Santa,Ana,CA,92704,Downey,CA
+198,Calvary Chapel,36,Laguna Beach,132,L,3/14,3:15p,Laguna Beach High School,3800 S Fairview Street Santa,Ana,CA,92704,Laguna Beach,CA
+199,Calvary Chapel,91,Estancia,58,W,3/21,3:15p,Estancia High School,3800 S Fairview Street Santa,Ana,CA,92704,Costa Mesa,CA
+200,Calvary Chapel,79,Costa Mesa,81,L,3/28,3:15p,Costa Mesa High School,3800 S Fairview Street Santa,Ana,CA,92704,Costa Mesa,CA
+201,Calvary Chapel,1,Saddleback,0,W,4/18,3:15p,Saddleback High School,3800 S Fairview Street Santa,Ana,CA,92704,Santa Ana,CA
+202,Calvary Chapel,1,Segerstrom,2,L,4/21,8:00a,Segerstrom High School,3800 S Fairview Street Santa,Ana,CA,92704,Santa Ana,CA
+203,Casa Grande,71,Rancho Cotate,94,L,3/6,3:00p,Casa Grande High School,333 Casa Grande Rd,Petaluma,CA,94954,Rohnert Park,CA
+204,Casa Grande,37,Montgomery,131,L,3/13,2:00p,Montgomery High School,333 Casa Grande Rd,Petaluma,CA,94954,Santa Rosa,CA
+205,Casa Grande,51,Ukiah,118,L,4/3,3:00p,Casa Grande High School,333 Casa Grande Rd,Petaluma,CA,94954,Ukiah,CA
+206,Casa Grande,48,Maria Carrillo,107,L,4/12,3:00p,Casa Grande High School,333 Casa Grande Rd,Petaluma,CA,94954,Santa Rosa,CA
+207,Casa Grande,93,Windsor,64,W,4/17,3:00p,Casa Grande High School,333 Casa Grande Rd,Petaluma,CA,94954,Windsor,CA
+208,Contreras,45,Mendez,23,W,2/28,3:00p,Contreras High School,322 S Lucas Ave Los,Angeles,CA,90017,Los Angeles,CA
+209,Contreras,32,Rancho Dominguez,15,W,3/14,3:00p,Contreras High School,322 S Lucas Ave Los,Angeles,CA,90017,Long Beach,CA
+210,Contreras,16,Eagle Rock,70,L,3/21,2:30p,Contreras High School,322 S Lucas Ave Los,Angeles,CA,90017,Los Angeles,CA
+211,Contreras,40,Marshall,98,L,4/4,2:30p,Marshall High School,322 S Lucas Ave Los,Angeles,CA,90017,Los Angeles,CA
+212,Contreras,0,Bernstein,1,FFW,4/11,2:30p,Contreras High School,322 S Lucas Ave Los,Angeles,CA,90017,Hollywood,CA
+213,Contreras,90,Belmont,8,W,4/18,2:30p,Contreras High School,322 S Lucas Ave Los,Angeles,CA,90017,Los Angeles,CA
+214,Contreras,55,Hollywood,93,L,4/18,2:30p,Contreras High School,322 S Lucas Ave Los,Angeles,CA,90017,Los Angeles,CA
+215,Contreras,47,Robert F. Kennedy Community,35,W,4/25,2:30p,Robert F. Kennedy Community High School,322 S Lucas Ave Los,Angeles,CA,90017,Los Angeles,CA
+216,Eagle Rock,70,Contreras,16,W,3/21,2:30p,Contreras High School,1750 Yosemite Dr Los,Angeles,CA,90041,Los Angeles,CA
+217,Eastside,66,Antelope Valley,25,W,3/14,3:30p,Eastside High School,3200 E Ave J-8,Lancaster,CA,93535,Lancaster,CA
+218,Godinez Fundamental,47,La Quinta,123,L,3/9,3:00p,La Quinta High School,3002 Centennial Rd Santa,Ana,CA,92704,Westminster,CA
+219,Godinez Fundamental,59,Rancho Alamitos,118,L,4/13,3:15p,Rancho Alamitos High School,3002 Centennial Rd Santa,Ana,CA,92704,Garden Grove,CA
+220,Godinez Fundamental,40,Laguna Beach,126,L,4/18,3:00p,Godinez Fundamental High School,3002 Centennial Rd Santa,Ana,CA,92704,Laguna Beach,CA
+221,Godinez Fundamental,49,Costa Mesa,117,L,4/25,3:00p,Costa Mesa High School,3002 Centennial Rd Santa,Ana,CA,92704,Costa Mesa,CA
+222,Hamilton,53,University,85,L,4/11,3:00p,Hamilton High School,2955 S Robertson Blvd Los,Angeles,CA,90034,Los Angeles,CA
+223,Hoover,0,Yosemite,0,T,3/13,4:00p,Hoover High School,5550 N First St,Fresno,CA,93710,Oakhurst,CA
+224,Kearny,48,Canyon Hills,115,L,4/4,3:00p,Canyon Hills High School,1954 Komet Way San,Diego,CA,92111,San Diego,CA
+225,Knight,133,Antelope Valley,11,W,4/25,3:30p,Knight High School,37423 70Th St E,Palmdale,CA,93552,Lancaster,CA
+226,Lancaster,128,Antelope Valley,13,W,4/19,3:30p,Antelope Valley High School,44701 32Nd St W,Lancaster,CA,93536,Lancaster,CA
+227,Marshall,98,Contreras,40,W,4/4,2:30p,Marshall High School,3939 Tracy St Los,Angeles,CA,90027,Los Angeles,CA
+228,Mission Bay,44,Canyon Hills,121,L,3/6,3:00p,Canyon Hills High School,2475 Grand Ave San,Diego,CA,92109,San Diego,CA
+229,Ocean View,69,La Quinta,100,L,3/7,3:00p,Ocean View High School,17071 Gothard St Huntington,Beach,CA,92647,Westminster,CA
+230,Olympian,67,Otay Ranch,106,L,3/8,7:00p,Otay Ranch High School,1925 Magdalena Ave Chula,Vista,CA,91913,Chula Vista,CA
+231,Palisades,167,University,35,W,4/27,2:00p,University High School,15777 Bowdoin St Pacific,Palisades,CA,90272,Los Angeles,CA
+232,Palmdale,24,Quartz Hill,136,L,3/7,3:30p,Palmdale High School,2137 E Ave R,Palmdale,CA,93550,Quartz Hill,CA
+233,Palmdale,119,Antelope Valley,21,W,3/29,3:30p,Palmdale High School,2137 E Ave R,Palmdale,CA,93550,Lancaster,CA
+234,Point Loma,116,Canyon Hills,54,W,4/25,3:00p,Point Loma High School,2335 Chatsworth Blvd San,Diego,CA,92106,San Diego,CA
+235,Rancho Cotate,89,Technology,78,W,3/1,3:30p,Technology High School,5450 Snyder Ln Rohnert,Park,CA,94928,Rohnert Park,CA
+236,Rancho Cotate,94,Casa Grande,71,W,3/6,3:00p,Casa Grande High School,5450 Snyder Ln Rohnert,Park,CA,94928,Petaluma,CA
+237,Rancho Cotate,58,Cardinal Newman,104,L,3/13,3:30p,Rancho Cotate High School,5450 Snyder Ln Rohnert,Park,CA,94928,Santa Rosa,CA
+238,Rancho Cotate,56,Ukiah,112,L,3/20,3:30p,Ukiah High School,5450 Snyder Ln Rohnert,Park,CA,94928,Ukiah,CA
+239,Rancho Cotate,34,Santa Rosa,136,L,3/27,3:30p,Rancho Cotate High School,5450 Snyder Ln Rohnert,Park,CA,94928,Santa Rosa,CA
+240,Rancho Cotate,92,Windsor,75,W,3/29,3:00p,Rancho Cotate High School,5450 Snyder Ln Rohnert,Park,CA,94928,Windsor,CA
+241,Rancho Cotate,50,Maria Carrillo,114,L,4/17,3:30p,Rancho Cotate High School,5450 Snyder Ln Rohnert,Park,CA,94928,Santa Rosa,CA
+242,Rancho Cotate,30,Montgomery,136,L,4/26,3:30p,Rancho Cotate High School,5450 Snyder Ln Rohnert,Park,CA,94928,Santa Rosa,CA
+243,Rancho Dominguez,15,Contreras,32,L,3/14,3:00p,Contreras High School,4110 Santa Fe Ave Long,Beach,CA,90810,Los Angeles,CA
+244,Saddleback,18,Costa Mesa,119,L,3/14,3:00p,Costa Mesa High School,2802 S Flower St Santa,Ana,CA,92707,Costa Mesa,CA
+245,Saddleback,20,Laguna Beach,141,L,3/28,3:00p,Saddleback High School,2802 S Flower St Santa,Ana,CA,92707,Laguna Beach,CA
+246,Saddleback,0,Calvary Chapel,1,L,4/18,3:15p,Saddleback High School,2802 S Flower St Santa,Ana,CA,92707,Santa Ana,CA
+247,Segerstrom,2,Calvary Chapel,1,W,4/21,8:00a,Segerstrom High School,2301 W Macarthur Blvd Santa,Ana,CA,92704,Santa Ana,CA
+248,Sierra,0,Yosemite,1,L,4/24,4:00p,Yosemite High School,33326 N Lodge Rd,Tollhouse,CA,93667,Oakhurst,CA
+249,St. Vincent de Paul,23,Technology,122,L,3/8,TBA,Technology High School,849 Keokuk St,Petaluma,CA,94952,Rohnert Park,CA
+250,Technology,78,Rancho Cotate,89,L,3/1,3:30p,Technology High School,1801 E Cotati Ave Rohnert,Park,CA,94928,Rohnert Park,CA
+251,Technology,122,St. Vincent de Paul,23,W,3/8,TBA,Technology High School,1801 E Cotati Ave Rohnert,Park,CA,94928,Petaluma,CA
+252,Technology,91,Willits,74,W,3/15,TBA,Willits High School,1801 E Cotati Ave Rohnert,Park,CA,94928,Willits,CA
+253,Technology,55,St. Helena,114,L,3/22,TBA,Technology High School,1801 E Cotati Ave Rohnert,Park,CA,94928,St. Helena,CA
+254,Twentynine Palms,125,Desert Mirage,45,W,3/21,3:15p,Desert Mirage High School,72750 Wildcat Way Twentynine,Palms,CA,92277,Thermal,CA
+255,Ukiah,124,Windsor,40,W,3/6,4:00p,Windsor High School,1000 Low Gap Rd,Ukiah,CA,95482,Windsor,CA
+256,Ukiah,112,Rancho Cotate,56,W,3/20,3:30p,Ukiah High School,1000 Low Gap Rd,Ukiah,CA,95482,Rohnert Park,CA
+257,Ukiah,118,Casa Grande,51,W,4/3,3:00p,Casa Grande High School,1000 Low Gap Rd,Ukiah,CA,95482,Petaluma,CA
+258,University,53,Crossroads,105,L,3/13,3:00p,Crossroads High School,11800 Texas Ave Los,Angeles,CA,90025,Santa Monica,CA
+259,University,85,Hamilton,53,W,4/11,3:00p,Hamilton High School,11800 Texas Ave Los,Angeles,CA,90025,Los Angeles,CA
+260,University,34,Venice,158,L,4/23,3:00p,Venice High School,11800 Texas Ave Los,Angeles,CA,90025,Los Angeles,CA
+261,University,35,Palisades,167,L,4/27,2:00p,University High School,11800 Texas Ave Los,Angeles,CA,90025,Pacific Palisades,CA
+262,Venice,158,University,34,W,4/23,3:00p,Venice High School,13000 Venice Blvd Los,Angeles,CA,90066,Los Angeles,CA
+263,Windsor,40,Ukiah,124,L,3/6,4:00p,Windsor High School,8695 Windsor Rd,Windsor,CA,95492,Ukiah,CA
+264,Windsor,32,Santa Rosa,135,L,3/13,3:30p,Windsor High School,8695 Windsor Rd,Windsor,CA,95492,Santa Rosa,CA
+265,Windsor,44,Cardinal Newman,117,L,3/23,3:00p,Cardinal Newman High School,8695 Windsor Rd,Windsor,CA,95492,Santa Rosa,CA
+266,Windsor,34,Montgomery,132,L,3/27,2:00p,Montgomery High School,8695 Windsor Rd,Windsor,CA,95492,Santa Rosa,CA
+267,Windsor,75,Rancho Cotate,92,L,3/29,3:00p,Rancho Cotate High School,8695 Windsor Rd,Windsor,CA,95492,Rohnert Park,CA
+268,Windsor,64,Casa Grande,93,L,4/17,3:00p,Casa Grande High School,8695 Windsor Rd,Windsor,CA,95492,Petaluma,CA
+269,Windsor,50,Maria Carrillo,103,L,4/24,2:00p,Maria Carrillo High School,8695 Windsor Rd,Windsor,CA,95492,Santa Rosa,CA
+270,Yosemite,0,San Joaquin Memorial,0,T,2/27,4:00p,Yosemite High School,50200 Rd 427,Oakhurst,CA,93644,Fresno,CA
+271,Yosemite,0,Hoover,0,T,3/13,4:00p,Hoover High School,50200 Rd 427,Oakhurst,CA,93644,Fresno,CA
+272,Yosemite,0,Reedley,0,T,3/15,4:00p,Yosemite High School,50200 Rd 427,Oakhurst,CA,93644,Reedley,CA
+273,Yosemite,0,Dos Palos,1,L,4/5,4:00p,Yosemite High School,50200 Rd 427,Oakhurst,CA,93644,Dos Palos,CA
+274,Yosemite,0,Clovis West,0,T,4/7,8:00a,Clovis West High School,50200 Rd 427,Oakhurst,CA,93644,Fresno,CA
+275,Yosemite,83,Firebaugh,27,W,4/12,4:00p,Yosemite High School,50200 Rd 427,Oakhurst,CA,93644,Firebaugh,CA
+276,Yosemite,0,Kerman,1,L,4/19,4:00p,Kerman High School,50200 Rd 427,Oakhurst,CA,93644,Kerman,CA
+277,Yosemite,1,Sierra,0,W,4/24,4:00p,Yosemite High School,50200 Rd 427,Oakhurst,CA,93644,Tollhouse,CA
